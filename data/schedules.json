@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:31:08+00:00",
+  "generated_at": "2026-08-21T03:10:15+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -13,56 +13,56 @@
       "opponent": "Springfield Catholic",
       "site": "Away",
       "time": "7:00 PM",
-      "location": "Springfield Catholic High School"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 4",
       "opponent": "Pierce City",
       "site": "Home",
       "time": "7:00 PM",
-      "location": "Logan-Rogersville High School"
+      "location": "Rogersville, MO"
     },
     {
       "date": "Sept 11",
       "opponent": "Moberly",
       "site": "Home",
       "time": "7:00 PM",
-      "location": "Blair Oaks High School"
+      "location": "Wardsville, MO"
     },
     {
       "date": "Sept 18",
       "opponent": "El Dorado Springs",
       "site": "Away",
       "time": "7:00 PM",
-      "location": "El Dorado Springs High School"
+      "location": "El Dorado Springs, MO"
     },
     {
       "date": "Oct 3",
       "opponent": "St. Mary's",
       "site": "Home",
       "time": "3:00 PM",
-      "location": "Logan-Rogersville High School"
+      "location": "Rogersville, MO"
     },
     {
       "date": "Oct 10",
       "opponent": "OKC",
       "site": "Away",
       "time": "7:00 PM",
-      "location": "OKC Patriots"
+      "location": "Oklahoma City, OK"
     },
     {
       "date": "Oct 17",
       "opponent": "Christ Prep",
       "site": "Away",
       "time": "6:00 PM",
-      "location": "Christ Prep Patriots"
+      "location": "Olathe, KS"
     },
     {
       "date": "Oct 23",
       "opponent": "NOAH",
       "site": "Home",
       "time": "7:00 PM",
-      "location": "Ozark High School"
+      "location": "Ozark, MO"
     },
     {
       "date": "Oct 31",
@@ -99,28 +99,28 @@
       "opponent": "Springfield Catholic",
       "site": "Away",
       "time": "6:00 PM",
-      "location": "Springfield Catholic High School"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 7",
       "opponent": "Pierce City",
       "site": "Away",
       "time": "6:00 PM",
-      "location": "Pierce City High School"
+      "location": "Pierce City, MO"
     },
     {
       "date": "Sept 14",
       "opponent": "Crane",
       "site": "Home",
       "time": "6:00 PM",
-      "location": "Springfield"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 21",
       "opponent": "El Dorado Springs",
       "site": "Home",
       "time": "6:00 PM",
-      "location": "Springfield"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 29",
@@ -134,14 +134,14 @@
       "opponent": "OKC",
       "site": "Away",
       "time": "6:00 PM",
-      "location": "OKC Patriots"
+      "location": "Oklahoma City, OK"
     },
     {
       "date": "Oct 17",
       "opponent": "Christ Prep",
       "site": "Away",
       "time": "3:00 PM",
-      "location": "Christ Prep Patriots"
+      "location": "Olathe, KS"
     },
     {
       "date": "Oct 19",
@@ -171,21 +171,21 @@
       "opponent": "Crane",
       "site": "Away",
       "time": "5:30 PM",
-      "location": "Crane Middle School"
+      "location": "Crane, MO"
     },
     {
       "date": "Sept 10",
       "opponent": "SPS - Bulldogs",
       "site": "Away",
       "time": "5:30 PM",
-      "location": "Springfield"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 17",
       "opponent": "SPS-Vikings",
       "site": "Away",
       "time": "5:30 PM",
-      "location": "Springfield"
+      "location": "Springfield, MO"
     },
     {
       "date": "Sept 24",
@@ -206,21 +206,21 @@
       "opponent": "OKC",
       "site": "Away",
       "time": "5:30 PM",
-      "location": "OKC Patriots"
+      "location": "Oklahoma City, OK"
     },
     {
       "date": "Oct 17",
       "opponent": "Christ Prep",
       "site": "Away",
       "time": "12:30 PM",
-      "location": "Christ Prep Patriots"
+      "location": "Olathe, KS"
     },
     {
       "date": "Oct 23",
       "opponent": "NOAH",
       "site": "Home",
       "time": "5:00 PM",
-      "location": "Ozark High School"
+      "location": "Ozark, MO"
     }
   ]
 }
