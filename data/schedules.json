@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:59:28+00:00",
+  "generated_at": "2026-08-21T21:13:06+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -62,7 +62,7 @@
       "opponent": "NOAH",
       "site": "Home",
       "time": "7:00 PM",
-      "location": "Ozark, MO"
+      "location": "Ozark High School"
     },
     {
       "date": "Oct 31",
@@ -220,7 +220,7 @@
       "opponent": "NOAH",
       "site": "Home",
       "time": "5:00 PM",
-      "location": "Ozark, MO"
+      "location": "Tiger Stadium"
     }
   ]
 }
