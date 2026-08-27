@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:21:51+00:00",
+  "generated_at": "2026-08-27T23:20:35+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -184,6 +184,13 @@
       "date": "Sept 17",
       "opponent": "SPS-Vikings",
       "site": "Away",
+      "time": "6:00 PM",
+      "location": "Springfield, MO"
+    },
+    {
+      "date": "Sept 24",
+      "opponent": "Skyline",
+      "site": "Home",
       "time": "6:00 PM",
       "location": "Springfield, MO"
     },
