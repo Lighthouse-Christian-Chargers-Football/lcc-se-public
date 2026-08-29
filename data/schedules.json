@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:34:19+00:00",
+  "generated_at": "2026-08-29T02:32:32+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -123,6 +123,13 @@
       "location": "Springfield, MO"
     },
     {
+      "date": "Sept 29",
+      "opponent": "Bye Week",
+      "site": "",
+      "time": "",
+      "location": ""
+    },
+    {
       "date": "Oct 10",
       "opponent": "OKC",
       "site": "Away",
@@ -186,13 +193,6 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Springfield, MO"
-    },
-    {
-      "date": "Sept 24",
-      "opponent": "Bye Week",
-      "site": "",
-      "time": "",
-      "location": ""
     },
     {
       "date": "Oct 1",
