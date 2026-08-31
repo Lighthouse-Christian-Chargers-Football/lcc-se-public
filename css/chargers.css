@@ -1,0 +1,256 @@
+/* Base Grid Layout Structure */
+.chargers-schedule-row {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.chargers-schedule-row span {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  text-align: center !important;
+}
+
+.chargers-overlay {
+  position: absolute !important;
+  color: #122c55 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  box-sizing: border-box !important;
+  z-index: 10 !important;
+}
+
+/* ============================================================
+    TUNER OUTPUT REGION - START
+    Everything between here and TUNER OUTPUT REGION - END is
+    replaced wholesale by the "Copy CSS" output from the CSS
+    tuner tool. Select from the line right after START down to
+    the line right before END and paste over it - don't touch
+    anything outside these markers, and don't touch the markers
+    themselves.
+    ============================================================ */
+
+/* Your Exact Varsity Placement Blueprint */
+.chargers-varsity-overlay {
+  left: 7.5% !important;
+  right: 3.5% !important;
+  top: 66% !important;
+  bottom: 2% !important;
+  font-size: clamp(7px, 1.25vw, 18px) !important;
+  line-height: 1.6 !important;
+}
+
+/* Your Exact Junior Varsity Placement Blueprint */
+.chargers-jv-overlay {
+  left: 7.5% !important;
+  right: -0.5% !important;
+  top: 73% !important;
+  bottom: 2% !important;
+  font-size: clamp(8px, 1.45vw, 18px) !important;
+  line-height: 1.5 !important;
+}
+
+/* Your Exact Junior High Placement Blueprint */
+.chargers-jh-overlay {
+  left: 7.5% !important;
+  right: -0.5% !important;
+  top: 73% !important;
+  bottom: 2% !important;
+  font-size: clamp(8px, 1.45vw, 18px) !important;
+  line-height: 1.7 !important;
+}
+
+/* Varsity Grid Width Distribution */
+.chargers-varsity-overlay .chargers-col-date {
+  width: 9% !important;
+}
+.chargers-varsity-overlay .chargers-col-opp {
+  width: 37% !important;
+}
+.chargers-varsity-overlay .chargers-col-site {
+  width: 10.5% !important;
+}
+.chargers-varsity-overlay .chargers-col-time {
+  width: 15.5% !important;
+}
+.chargers-varsity-overlay .chargers-col-loc {
+  width: 28% !important;
+}
+
+/* Junior Varsity Grid Width Distribution */
+.chargers-jv-overlay .chargers-col-date {
+  width: 7.5% !important;
+}
+.chargers-jv-overlay .chargers-col-opp {
+  width: 41% !important;
+}
+.chargers-jv-overlay .chargers-col-site {
+  width: 8.5% !important;
+}
+.chargers-jv-overlay .chargers-col-time {
+  width: 10% !important;
+}
+.chargers-jv-overlay .chargers-col-loc {
+  width: 33% !important;
+}
+
+/* Junior High Grid Width Distribution */
+.chargers-jh-overlay .chargers-col-date {
+  width: 8% !important;
+}
+.chargers-jh-overlay .chargers-col-opp {
+  width: 36.5% !important;
+}
+.chargers-jh-overlay .chargers-col-site {
+  width: 9.5% !important;
+}
+.chargers-jh-overlay .chargers-col-time {
+  width: 13.5% !important;
+}
+.chargers-jh-overlay .chargers-col-loc {
+  width: 32.5% !important;
+}
+
+/* ============================================================
+    TUNER OUTPUT REGION - END
+    ============================================================ */
+
+/* Dynamic Styling Rules */
+.chargers-tbd {
+  font-style: italic !important;
+  font-weight: bold !important;
+  opacity: 0.85 !important;
+}
+
+.chargers-home {
+  color: #df4a22 !important;
+  font-weight: bold !important;
+}
+
+/* Schedule Graphic Wrapper Design */
+.chargers-card {
+  position: relative !important;
+  display: block !important;
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 0 auto 1rem auto !important;
+  box-sizing: border-box !important;
+}
+
+.chargers-card img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Download Button Wrap Containment */
+.chargers-dl-container {
+  text-align: center !important;
+  width: 100% !important;
+  margin: 0 auto 3.5rem auto !important;
+}
+
+/* Standard SportsEngine Style Download Button */
+.btn-chargers-dl {
+  background-color: #122c55 !important;
+  color: #ffffff !important;
+  border: none !important;
+  padding: 10px 22px !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  border-radius: 4px !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15) !important;
+  transition: background-color 0.2s ease, transform 0.1s ease !important;
+}
+
+.btn-chargers-dl:hover {
+  background-color: #df4a22 !important;
+}
+
+.btn-chargers-dl:active {
+  transform: scale(0.98) !important;
+}
+
+.chargers-save-hint {
+  text-align: center;
+  width: 100% !important;
+}
+
+.chargers-ticket-banner {
+  max-width: 900px !important;
+  margin: 0 auto 2rem auto !important;
+  padding: 24px 20px !important;
+  background-color: #122c55 !important;
+  border: 3px solid #df4a22 !important;
+  border-radius: 8px !important;
+  text-align: center !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: #ffffff !important;
+  box-sizing: border-box !important;
+}
+.chargers-ticket-label {
+  font-size: 14px !important;
+  font-weight: bold !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  color: #df4a22 !important;
+  margin-bottom: 8px !important;
+}
+.chargers-ticket-matchup {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  margin-bottom: 4px !important;
+}
+.chargers-ticket-details {
+  font-size: 15px !important;
+  margin-bottom: 14px !important;
+  color: #d9e0ec !important;
+}
+.chargers-ticket-copy {
+  font-size: 14px !important;
+  margin: 6px 0 !important;
+}
+.chargers-ticket-copy-small {
+  font-size: 12px !important;
+  color: #b7c2d6 !important;
+  margin-bottom: 16px !important;
+}
+.btn-chargers-tickets {
+  display: inline-block !important;
+  background-color: #df4a22 !important;
+  color: #ffffff !important;
+  border: none !important;
+  padding: 12px 30px !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  border-radius: 4px !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
+  transition: background-color 0.2s ease, transform 0.1s ease !important;
+}
+.btn-chargers-tickets:hover {
+  background-color: #ffffff !important;
+  color: #df4a22 !important;
+}
+.btn-chargers-tickets:active {
+  transform: scale(0.98) !important;
+}
+.chargers-ticket-fallback {
+  font-size: 12px !important;
+  color: #b7c2d6 !important;
+  margin-top: 16px !important;
+  margin-bottom: 0 !important;
+}
+
