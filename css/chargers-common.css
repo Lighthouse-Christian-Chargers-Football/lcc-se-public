@@ -91,6 +91,17 @@
   margin-bottom: 4px;
 }
 
+/* Card headline (event/campaign name) - distinct from the small gray
+   field label above. Use this for the one line that should announce
+   what the card is, not for inline field labels like "Tickets:". */
+.lcc-promo-card-title {
+  color: var(--lcc-navy, #122c55);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.3;
+  margin: 0 0 8px 0;
+}
+
 .lcc-promo-detail-text {
   color: #4a5568;
   font-size: 14px;
