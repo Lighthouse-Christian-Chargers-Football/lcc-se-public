@@ -1,0 +1,18 @@
+/* Basketball crossbow raffle - the only things NOT covered by the
+   shared .lcc-promo-* component in chargers-common.css. Everything
+   else (card, hero image, tray, cta column) reuses the shared classes
+   directly since this campaign's layout matches the original design
+   the shared component was generalized from. */
+
+.lcc-crossbow-pricing-column {
+  flex: 1 1 30%;
+}
+
+.lcc-ticket-pricing-list {
+  margin: 0;
+  padding-left: 18px;
+  color: #4a5568;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+}
