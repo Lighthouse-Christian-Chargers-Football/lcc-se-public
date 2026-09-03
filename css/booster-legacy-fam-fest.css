@@ -1,0 +1,9 @@
+/* Legacy Family Fest flyer is a portrait poster, unlike the landscape
+   basketball raffle graphic - override the shared card's default
+   object-fit/max-height so it isn't cropped. */
+.lcc-legacy-fam-fest-image {
+  object-fit: contain !important;
+  max-height: 700px !important;
+  background-color: #0a1f3d; /* letterbox fill if the container is wider than the poster's aspect ratio */
+}
+
