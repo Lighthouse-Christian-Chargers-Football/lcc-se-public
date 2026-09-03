@@ -1,6 +1,6 @@
 :root {
-  --lcc-navy: #122c55;
-  --lcc-orange: #df4a22;
+  --lcc-navy: #0b2b4a;
+  --lcc-orange: #f36f21;
   --lcc-navy-rgb: 18, 44, 85;
   --lcc-orange-rgb: 223, 74, 34;
   --lcc-font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -95,7 +95,7 @@
    field label above. Use this for the one line that should announce
    what the card is, not for inline field labels like "Tickets:". */
 .lcc-promo-card-title {
-  color: var(--lcc-navy, #122c55);
+  color: var(--lcc-navy, #0b2b4a);
   font-weight: 700;
   font-size: 20px;
   line-height: 1.3;
