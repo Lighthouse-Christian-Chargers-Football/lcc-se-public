@@ -21,7 +21,7 @@
 }
 .chargers-overlay {
   position: absolute !important;
-  color: var(--lcc-navy, #122c55) !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
   font-family: Arial, Helvetica, sans-serif !important;
   box-sizing: border-box !important;
   z-index: 10 !important;
@@ -96,7 +96,7 @@
   opacity: 0.85 !important;
 }
 .chargers-home {
-  color: var(--lcc-orange, #df4a22) !important;
+  color: var(--lcc-orange, #f36f21) !important;
   font-weight: bold !important;
 }
 
@@ -126,7 +126,7 @@
 
 /* Standard SportsEngine Style Download Button */
 .btn-chargers-dl {
-  background-color: var(--lcc-navy, #122c55) !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
   color: #ffffff !important;
   border: none !important;
   padding: 10px 22px !important;
@@ -141,7 +141,7 @@
   transition: background-color 0.2s ease, transform 0.1s ease !important;
 }
 .btn-chargers-dl:hover {
-  background-color: var(--lcc-orange, #df4a22) !important;
+  background-color: var(--lcc-orange, #f36f21) !important;
 }
 .btn-chargers-dl:active {
   transform: scale(0.98) !important;
@@ -158,8 +158,8 @@
   max-width: 900px !important;
   margin: 0 auto 2rem auto !important;
   padding: 24px 20px !important;
-  background-color: var(--lcc-navy, #122c55) !important;
-  border: 3px solid var(--lcc-orange, #df4a22) !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
+  border: 3px solid var(--lcc-orange, #f36f21) !important;
   border-radius: 8px !important;
   text-align: center !important;
   font-family: Arial, Helvetica, sans-serif !important;
@@ -171,7 +171,7 @@
   font-weight: bold !important;
   letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: var(--lcc-orange, #df4a22) !important;
+  color: var(--lcc-orange, #f36f21) !important;
   margin-bottom: 8px !important;
 }
 .chargers-ticket-matchup {
@@ -195,7 +195,7 @@
 }
 .btn-chargers-tickets {
   display: inline-block !important;
-  background-color: var(--lcc-orange, #df4a22) !important;
+  background-color: var(--lcc-orange, #f36f21) !important;
   color: #ffffff !important;
   border: none !important;
   padding: 12px 30px !important;
@@ -212,7 +212,7 @@
 }
 .btn-chargers-tickets:hover {
   background-color: #ffffff !important;
-  color: var(--lcc-orange, #df4a22) !important;
+  color: var(--lcc-orange, #f36f21) !important;
 }
 .btn-chargers-tickets:active {
   transform: scale(0.98) !important;
@@ -284,7 +284,7 @@
   font-weight: bold !important;
   text-transform: uppercase !important;
   letter-spacing: 1px !important;
-  color: var(--lcc-navy, #122c55) !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
   margin-bottom: 8px !important;
 }
 .chargers-social-copy {

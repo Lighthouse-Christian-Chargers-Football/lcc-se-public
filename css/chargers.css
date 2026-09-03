@@ -16,7 +16,7 @@
 
 .chargers-overlay {
   position: absolute !important;
-  color: #122c55 !important;
+  color: #0b2b4a !important;
   font-family: Arial, Helvetica, sans-serif !important;
   box-sizing: border-box !important;
   z-index: 10 !important;
@@ -125,7 +125,7 @@
 }
 
 .chargers-home {
-  color: #df4a22 !important;
+  color: #f36f21 !important;
   font-weight: bold !important;
 }
 
@@ -156,7 +156,7 @@
 
 /* Standard SportsEngine Style Download Button */
 .btn-chargers-dl {
-  background-color: #122c55 !important;
+  background-color: #0b2b4a !important;
   color: #ffffff !important;
   border: none !important;
   padding: 10px 22px !important;
@@ -172,7 +172,7 @@
 }
 
 .btn-chargers-dl:hover {
-  background-color: #df4a22 !important;
+  background-color: #f36f21 !important;
 }
 
 .btn-chargers-dl:active {
@@ -188,8 +188,8 @@
   max-width: 900px !important;
   margin: 0 auto 2rem auto !important;
   padding: 24px 20px !important;
-  background-color: #122c55 !important;
-  border: 3px solid #df4a22 !important;
+  background-color: #0b2b4a !important;
+  border: 3px solid #f36f21 !important;
   border-radius: 8px !important;
   text-align: center !important;
   font-family: Arial, Helvetica, sans-serif !important;
@@ -201,7 +201,7 @@
   font-weight: bold !important;
   letter-spacing: 2px !important;
   text-transform: uppercase !important;
-  color: #df4a22 !important;
+  color: #f36f21 !important;
   margin-bottom: 8px !important;
 }
 .chargers-ticket-matchup {
@@ -225,7 +225,7 @@
 }
 .btn-chargers-tickets {
   display: inline-block !important;
-  background-color: #df4a22 !important;
+  background-color: #f36f21 !important;
   color: #ffffff !important;
   border: none !important;
   padding: 12px 30px !important;
@@ -242,7 +242,7 @@
 }
 .btn-chargers-tickets:hover {
   background-color: #ffffff !important;
-  color: #df4a22 !important;
+  color: #f36f21 !important;
 }
 .btn-chargers-tickets:active {
   transform: scale(0.98) !important;
@@ -308,7 +308,7 @@
   font-weight: bold !important;
   text-transform: uppercase !important;
   letter-spacing: 1px !important;
-  color: #122c55 !important;
+  color: #0b2b4a !important;
   margin-bottom: 8px !important;
 }
 .chargers-social-copy {
