@@ -1,0 +1,246 @@
+/* ============================================================
+   TEAM ROSTER PAGE STYLES
+   Paired with chargers-common.css (brand variables) and reuses
+   football.css's page-level conventions (Arial/Helvetica, navy/
+   orange brand colors, !important everywhere because this gets
+   pasted into SportsEngine's own page CSS and has to win against
+   it). See football.css's header comment for why "button-" is
+   never used as a class substring - the same rule applies here.
+   ============================================================ */
+
+/* ------------------------------------------------------------
+   Search bar
+   ------------------------------------------------------------ */
+.chargers-roster-search-wrap {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 20 !important;
+  max-width: 900px !important;
+  margin: 0 auto 1.5rem auto !important;
+  padding: 12px !important;
+  background: #ffffff !important;
+  border: 2px solid var(--lcc-navy, #0b2b4a) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(var(--lcc-navy-rgb, 18, 44, 85), 0.12) !important;
+  box-sizing: border-box !important;
+  font-family: var(--lcc-font-sans, Arial, sans-serif) !important;
+}
+.chargers-roster-search-input {
+  display: block !important;
+  width: 100% !important;
+  padding: 12px 16px 12px 40px !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 16px !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  background-color: #f7f8fa !important;
+  background-repeat: no-repeat !important;
+  background-position: 12px center !important;
+  background-size: 18px 18px !important;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230b2b4a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E") !important;
+  border: 1px solid #cbd5e0 !important;
+  border-radius: 6px !important;
+  box-sizing: border-box !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+.chargers-roster-search-input:focus {
+  outline: none !important;
+  border-color: var(--lcc-orange, #f36f21) !important;
+  box-shadow: 0 0 0 3px rgba(var(--lcc-orange-rgb, 223, 74, 34), 0.25) !important;
+}
+.chargers-roster-search-input::placeholder {
+  color: #8492a6 !important;
+}
+.chargers-roster-search-meta {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  margin-top: 8px !important;
+  padding: 0 2px !important;
+  font-size: 12px !important;
+  color: #4a5568 !important;
+}
+.chargers-roster-search-count {
+  font-weight: 700 !important;
+}
+.chargers-roster-clear {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  text-decoration: underline !important;
+  cursor: pointer !important;
+  display: none !important;
+}
+.chargers-roster-search-wrap.has-query .chargers-roster-clear {
+  display: inline-block !important;
+}
+
+/* ------------------------------------------------------------
+   Team sections
+   ------------------------------------------------------------ */
+.chargers-roster-team {
+  max-width: 900px !important;
+  margin: 0 auto 2.5rem auto !important;
+  box-sizing: border-box !important;
+}
+.chargers-roster-team-title {
+  text-align: center !important;
+  text-transform: uppercase !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 20px !important;
+  letter-spacing: 2px !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  margin: 0 0 20px 0 !important;
+  padding-bottom: 10px !important;
+  border-bottom: 3px solid var(--lcc-orange, #f36f21) !important;
+}
+.chargers-roster-team[hidden] {
+  display: none !important;
+}
+
+.chargers-roster-group + .chargers-roster-group {
+  margin-top: 1.75rem !important;
+}
+.chargers-roster-group-title {
+  font-family: Arial, sans-serif !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.5px !important;
+  color: #ffffff !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
+  padding: 6px 12px !important;
+  border-radius: 4px !important;
+  margin: 0 0 8px 0 !important;
+  display: inline-block !important;
+}
+
+/* ------------------------------------------------------------
+   Roster grid (shared row layout for players + coaches)
+   ------------------------------------------------------------ */
+.chargers-roster-grid {
+  border: 1px solid #e1e8ed !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+.chargers-roster-header-row {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  background-color: #f7f8fa !important;
+  border-bottom: 1px solid #e1e8ed !important;
+  padding: 8px 14px !important;
+  box-sizing: border-box !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  color: #4a5568 !important;
+}
+.chargers-roster-row {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  padding: 10px 14px !important;
+  box-sizing: border-box !important;
+  border-bottom: 1px solid #eef1f4 !important;
+  font-size: 15px !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  transition: background-color 0.15s ease !important;
+}
+.chargers-roster-row:last-child {
+  border-bottom: none !important;
+}
+.chargers-roster-row:nth-child(even) {
+  background-color: #fbfcfd !important;
+}
+.chargers-roster-row:hover {
+  background-color: #fdf1e9 !important;
+}
+.chargers-roster-row[hidden],
+.chargers-roster-header-row[hidden] {
+  display: none !important;
+}
+
+.chargers-roster-col-num {
+  flex: 0 0 52px !important;
+  text-align: center !important;
+}
+.chargers-roster-number-chip {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-width: 32px !important;
+  height: 32px !important;
+  padding: 0 6px !important;
+  border-radius: 50% !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  box-sizing: border-box !important;
+}
+.chargers-roster-number-chip.is-blank {
+  background-color: #cbd5e0 !important;
+  color: #ffffff !important;
+}
+.chargers-roster-col-name {
+  flex: 1 1 auto !important;
+  font-weight: 700 !important;
+  padding: 0 12px !important;
+  text-align: left !important;
+}
+.chargers-roster-col-pos {
+  flex: 0 0 auto !important;
+  min-width: 70px !important;
+  text-align: right !important;
+  color: #4a5568 !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  letter-spacing: 0.5px !important;
+}
+.chargers-roster-col-pos:empty::before {
+  content: "\2014" !important; /* em dash for "no position listed" */
+  color: #cbd5e0 !important;
+}
+
+/* Highlighted substring match within a name/position/number cell */
+.chargers-roster-hit {
+  background-color: rgba(var(--lcc-orange-rgb, 223, 74, 34), 0.25) !important;
+  border-radius: 2px !important;
+}
+
+.chargers-roster-empty-msg {
+  padding: 24px 14px !important;
+  text-align: center !important;
+  color: #8492a6 !important;
+  font-style: italic !important;
+}
+
+.chargers-roster-no-results {
+  display: none !important;
+  max-width: 900px !important;
+  margin: 0 auto 2.5rem auto !important;
+  padding: 40px 20px !important;
+  text-align: center !important;
+  font-family: Arial, sans-serif !important;
+  color: #4a5568 !important;
+}
+.chargers-roster-no-results.is-visible {
+  display: block !important;
+}
+
+@media (max-width: 480px) {
+  .chargers-roster-col-pos {
+    min-width: 54px !important;
+    font-size: 12px !important;
+  }
+  .chargers-roster-row,
+  .chargers-roster-header-row {
+    padding: 10px 10px !important;
+  }
+}
