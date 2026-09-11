@@ -99,6 +99,24 @@
   color: var(--lcc-orange, #f36f21) !important;
   font-weight: bold !important;
 }
+/* Final-game result, shown in place of the time column (see
+   .chargers-col-time in 2026-game-schedules.html's buildRow(), in the
+   lcc_sportsengine repo) - same bold weight as .chargers-home above,
+   deliberately no other visual treatment (no badge/background/larger
+   size) so it reads as a peer of the existing styling rather than a
+   bolted-on element. */
+.chargers-result-win {
+  color: #1b8a3f !important;
+  font-weight: bold !important;
+}
+.chargers-result-loss {
+  color: #c0392b !important;
+  font-weight: bold !important;
+}
+.chargers-result-tie {
+  color: #4a5568 !important;
+  font-weight: bold !important;
+}
 
 /* Schedule Graphic Wrapper Design */
 .chargers-card {
