@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:43:49+00:00",
+  "generated_at": "2026-09-11T20:37:37+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -7,7 +7,9 @@
       "site": "Neutral",
       "time": "7:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": {
+        "outcome": "COMPLETED"
+      }
     },
     {
       "date": "Aug 28",
