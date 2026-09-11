@@ -27,6 +27,25 @@
   z-index: 10 !important;
 }
 
+/* Season win-loss record, superimposed over the background photo itself
+   (NOT part of the .chargers-overlay schedule grid below it) - centered
+   above the team name art, roughly where the players' legs are. Position
+   is tuned per team below since it sits over a photo, not the schedule
+   grid's %-based columns. */
+.chargers-record-overlay {
+  position: absolute !important;
+  left: 0 !important;
+  right: 0 !important;
+  text-align: center !important;
+  font-family: "Anton", Arial, Helvetica, sans-serif !important;
+  color: var(--lcc-orange, #f36f21) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  text-shadow: 0.03em 0.03em 0 rgba(0, 0, 0, 0.55) !important;
+  z-index: 10 !important;
+  pointer-events: none !important;
+}
+
 /* ============================================================
    TUNER OUTPUT REGION - START
    Everything between here and TUNER OUTPUT REGION - END is
@@ -124,6 +143,18 @@
 .chargers-result-completed {
   color: #4a5568 !important;
   font-weight: bold !important;
+}
+
+/* Win-loss record position - all three background photos share the same
+   template/proportions (same leg position), so one set of values covers
+   all of them today. If a future background swap changes where the
+   players are, these can be tuned independently per team, same idea as
+   the schedule grid's own per-team tuner region above. */
+.chargers-record-varsity,
+.chargers-record-jv,
+.chargers-record-jh {
+  top: 34% !important;
+  font-size: clamp(28px, 8vw, 72px) !important;
 }
 
 /* Schedule Graphic Wrapper Design */
