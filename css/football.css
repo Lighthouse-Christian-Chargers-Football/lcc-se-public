@@ -55,7 +55,8 @@
   align-items: center !important;
   justify-content: center !important;
   gap: 0.45em !important;
-  font-family: "Saira Stencil One", Arial, Helvetica, sans-serif !important;
+  font-family: "Big Shoulders Display", Arial, Helvetica, sans-serif !important;
+  font-weight: 900 !important;
   color: var(--lcc-orange, #f36f21) !important;
   text-transform: uppercase !important;
   letter-spacing: 0.05em !important;
@@ -176,36 +177,53 @@
   font-weight: bold !important;
 }
 
-/* Win-loss record position - all three background photos share the same
-   template/proportions (same leg position), so one set of values covers
-   all of them today. If a future background swap changes where the
-   players are, these can be tuned independently per team, same idea as
-   the schedule grid's own per-team tuner region above.
+/* Win-loss record position + size.
 
-   Sized and spaced up from the first pass, per direct visual feedback
-   against a reference image: bigger, and closer above the team name -
-   same "gap above VARSITY equals the VARSITY-to-SCHEDULE gap" approach
-   as before, recomputed for the new max font-size (was 56px/41.6%, now
-   68px/40.4% - a bigger font needs more ascent, so the box has to
-   start a bit higher to land the same baseline gap).
+   CORRECTION: an earlier version of this rule assumed all three
+   background photos position their team-name text at the same height
+   ("same template/proportions") and used one shared `top:` for all
+   three. That assumption was wrong - live-tested on the actual SE
+   test page, the gap above "JUNIOR HIGH" was clearly much bigger than
+   the gap above "VARSITY". Measured directly against each photo's own
+   baked-in text, "VARSITY" (one word) sits noticeably higher in its
+   frame than "JUNIOR VARSITY"/"JUNIOR HIGH" (two words - the template
+   evidently drops the team-name block lower to fit the longer text),
+   so each team needs its own `top:` below, same idea as the schedule
+   grid's own per-team tuner region above.
 
-   top: 40.4% was derived, not eyeballed - measured directly against
-   v_bg.jpeg's baked-in text (team name block: y 49.7%-58.3% of image
-   height; team-name-to-SCHEDULE gap: 2.43% of image height) plus Saira
-   Stencil One's real font metrics (ascent 1.143x font-size, i.e. the
-   glyphs' baseline sits 1.143x the font-size below the line box's
-   top), solved at the max clamped size (68px) against the real
-   cardHeightPx a 900px-wide card renders at (~1129px, from the image's
-   1152/921 aspect ratio):
-     top% = 0.497 - (1.143 * 68 / 1129) - 0.0243 = 0.404
-   If you change the font, the max clamp size, or the background image,
+   Also sized up substantially per direct feedback against a reference
+   image: the record should read close to the team name (not floating
+   above it) and be visually prominent - targeted at roughly 55% of
+   "VARSITY"'s own cap-height, sized/positioned using Big Shoulders
+   Display's real font metrics (ascent 0.99x font-size, i.e. the
+   glyphs' baseline sits ~1x the font-size below the line box's top)
+   the same "gap above the team name equals the team-name-to-SCHEDULE
+   gap" principle as before, solved at the max clamped size (80px)
+   against the real cardHeightPx a 900px-wide card renders at (~1126px,
+   from the image's 1152/921 aspect ratio):
+     top% = team_name_top_pct - (0.99 * 80 / 1126) - 0.0243
+   Measured team_name_top_pct per team (all three images are 921x1152,
+   scanned/cropped directly): VARSITY ~49.7%, JUNIOR VARSITY ~56.5%,
+   JUNIOR HIGH ~56.2%. JV/JH's team_name_top_pct is a visual-crop
+   estimate (±1-2%), not a precise pixel scan like VARSITY's original
+   measurement - if it's still off once you see it live, that's the
+   number to nudge, not the font-size or the gap logic.
+   If you change the font, the max clamp size, or a background image,
    recompute rather than nudging by eye - see this file's git history
-   for the measurement script used. */
+   for the measurement approach. */
+.chargers-record-varsity {
+  top: 40.2% !important; /* 0.497 - (0.99*80/1126) - 0.0243 */
+}
+.chargers-record-jv {
+  top: 47.0% !important; /* 0.565 - (0.99*80/1126) - 0.0243 */
+}
+.chargers-record-jh {
+  top: 46.7% !important; /* 0.562 - (0.99*80/1126) - 0.0243 */
+}
 .chargers-record-varsity,
 .chargers-record-jv,
 .chargers-record-jh {
-  top: 40.4% !important;
-  font-size: clamp(28px, 7vw, 68px) !important;
+  font-size: clamp(36px, 9vw, 80px) !important;
 }
 
 /* Schedule Graphic Wrapper Design */
