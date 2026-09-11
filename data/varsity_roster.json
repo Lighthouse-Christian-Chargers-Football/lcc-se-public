@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-09-11T04:36:16+00:00",
+  "team": "varsity",
+  "team_label": "Varsity",
+  "players": [
+    {
+      "first_name": "Grant",
+      "last_initial": "C",
+      "number": "1",
+      "position": "QB"
+    },
+    {
+      "first_name": "Jake",
+      "last_initial": "J",
+      "number": "2",
+      "position": "WR/OLB"
+    },
+    {
+      "first_name": "Aiden",
+      "last_initial": "L",
+      "number": "4",
+      "position": "WR/DE"
+    },
+    {
+      "first_name": "Jonah",
+      "last_initial": "S",
+      "number": "5",
+      "position": "QB"
+    },
+    {
+      "first_name": "Hudson",
+      "last_initial": "R",
+      "number": "7",
+      "position": "CB"
+    },
+    {
+      "first_name": "Nolan",
+      "last_initial": "W",
+      "number": "10",
+      "position": "QB"
+    },
+    {
+      "first_name": "Jayden",
+      "last_initial": "M",
+      "number": "12",
+      "position": "WR/DE"
+    },
+    {
+      "first_name": "James",
+      "last_initial": "G",
+      "number": "13",
+      "position": "WR/CB"
+    },
+    {
+      "first_name": "Carson",
+      "last_initial": "S",
+      "number": "16",
+      "position": "WR/FS"
+    },
+    {
+      "first_name": "Cooper",
+      "last_initial": "G",
+      "number": "19",
+      "position": "WR/DE"
+    },
+    {
+      "first_name": "Karsten",
+      "last_initial": "T",
+      "number": "21",
+      "position": "RB/FS"
+    },
+    {
+      "first_name": "Tymon",
+      "last_initial": "G",
+      "number": "22",
+      "position": "WR/OLB"
+    },
+    {
+      "first_name": "Samuel",
+      "last_initial": "C",
+      "number": "23",
+      "position": "RB/CB"
+    },
+    {
+      "first_name": "Joshua",
+      "last_initial": "S",
+      "number": "25",
+      "position": "RB/OLB"
+    },
+    {
+      "first_name": "Nathanael",
+      "last_initial": "S",
+      "number": "26",
+      "position": "RB/DL"
+    },
+    {
+      "first_name": "Isaac",
+      "last_initial": "P",
+      "number": "29",
+      "position": "WR/CB"
+    },
+    {
+      "first_name": "Malachi",
+      "last_initial": "K",
+      "number": "31",
+      "position": "RB/LB"
+    },
+    {
+      "first_name": "Eli",
+      "last_initial": "F",
+      "number": "33",
+      "position": "CB"
+    },
+    {
+      "first_name": "Noah",
+      "last_initial": "H",
+      "number": "34",
+      "position": "LB"
+    },
+    {
+      "first_name": "David",
+      "last_initial": "W",
+      "number": "36",
+      "position": "CB"
+    },
+    {
+      "first_name": "Zachary",
+      "last_initial": "C",
+      "number": "44",
+      "position": "RB/CB"
+    },
+    {
+      "first_name": "Aaric",
+      "last_initial": "A",
+      "number": "56",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "Sebastian",
+      "last_initial": "B",
+      "number": "59",
+      "position": ""
+    },
+    {
+      "first_name": "Brenden",
+      "last_initial": "P",
+      "number": "62",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "James",
+      "last_initial": "P",
+      "number": "70",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "Garrett",
+      "last_initial": "G",
+      "number": "73",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "Levi",
+      "last_initial": "W",
+      "number": "85",
+      "position": "TE/DE"
+    },
+    {
+      "first_name": "Titus",
+      "last_initial": "D",
+      "number": "9 & 55",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "Oliver",
+      "last_initial": "M",
+      "number": "17 & 57",
+      "position": "OL/DL"
+    },
+    {
+      "first_name": "Andrew",
+      "last_initial": "M",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Landon",
+      "last_initial": "H",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Jojo",
+      "last_initial": "R",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Camden",
+      "last_initial": "C",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Derrek",
+      "last_initial": "C",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "David",
+      "last_initial": "H",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Mason",
+      "last_initial": "L",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Toby",
+      "last_initial": "M",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Nolan",
+      "last_initial": "T",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Luke",
+      "last_initial": "W",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Ashton",
+      "last_initial": "M",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Dillon",
+      "last_initial": "J",
+      "number": "",
+      "position": ""
+    }
+  ],
+  "coaches": [
+    {
+      "name": "Brett Williams",
+      "position": "Varsity Head Coach"
+    },
+    {
+      "name": "Michael Mboob",
+      "position": "Defensive Coord / RB's"
+    },
+    {
+      "name": "David Dowell",
+      "position": ""
+    },
+    {
+      "name": "Joseph Fleetwood",
+      "position": ""
+    },
+    {
+      "name": "Brian Garton",
+      "position": ""
+    },
+    {
+      "name": "Justin Reppert",
+      "position": ""
+    },
+    {
+      "name": "Lucas Meier",
+      "position": ""
+    },
+    {
+      "name": "Nathanael Luper",
+      "position": ""
+    }
+  ]
+}

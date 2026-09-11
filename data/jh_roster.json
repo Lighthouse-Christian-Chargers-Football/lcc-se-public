@@ -1,0 +1,297 @@
+{
+  "generated_at": "2026-09-11T04:36:16+00:00",
+  "team": "jh",
+  "team_label": "Junior High",
+  "players": [
+    {
+      "first_name": "Cade",
+      "last_initial": "N",
+      "number": "4",
+      "position": ""
+    },
+    {
+      "first_name": "Westin",
+      "last_initial": "P",
+      "number": "5",
+      "position": ""
+    },
+    {
+      "first_name": "Sterling",
+      "last_initial": "G",
+      "number": "6",
+      "position": ""
+    },
+    {
+      "first_name": "Benjamin",
+      "last_initial": "F",
+      "number": "7",
+      "position": ""
+    },
+    {
+      "first_name": "Elias",
+      "last_initial": "M",
+      "number": "8",
+      "position": ""
+    },
+    {
+      "first_name": "Jude",
+      "last_initial": "W",
+      "number": "9",
+      "position": ""
+    },
+    {
+      "first_name": "Henry",
+      "last_initial": "S",
+      "number": "10",
+      "position": ""
+    },
+    {
+      "first_name": "Quincy",
+      "last_initial": "M",
+      "number": "11",
+      "position": ""
+    },
+    {
+      "first_name": "Beau",
+      "last_initial": "W",
+      "number": "12",
+      "position": ""
+    },
+    {
+      "first_name": "Asher",
+      "last_initial": "P",
+      "number": "13",
+      "position": ""
+    },
+    {
+      "first_name": "Zeke",
+      "last_initial": "E",
+      "number": "14",
+      "position": ""
+    },
+    {
+      "first_name": "Grayson",
+      "last_initial": "F",
+      "number": "15",
+      "position": ""
+    },
+    {
+      "first_name": "Elijah",
+      "last_initial": "R",
+      "number": "17",
+      "position": ""
+    },
+    {
+      "first_name": "Austin",
+      "last_initial": "B",
+      "number": "19",
+      "position": ""
+    },
+    {
+      "first_name": "Atlas",
+      "last_initial": "C",
+      "number": "21",
+      "position": ""
+    },
+    {
+      "first_name": "Sean",
+      "last_initial": "E",
+      "number": "22",
+      "position": ""
+    },
+    {
+      "first_name": "Maddox",
+      "last_initial": "D",
+      "number": "25",
+      "position": ""
+    },
+    {
+      "first_name": "Troy",
+      "last_initial": "S",
+      "number": "28",
+      "position": ""
+    },
+    {
+      "first_name": "Elijah",
+      "last_initial": "A",
+      "number": "33",
+      "position": ""
+    },
+    {
+      "first_name": "Micah",
+      "last_initial": "H",
+      "number": "35",
+      "position": ""
+    },
+    {
+      "first_name": "Mitchell",
+      "last_initial": "D",
+      "number": "38",
+      "position": ""
+    },
+    {
+      "first_name": "Cohen",
+      "last_initial": "B",
+      "number": "39",
+      "position": ""
+    },
+    {
+      "first_name": "Jase",
+      "last_initial": "R",
+      "number": "40",
+      "position": ""
+    },
+    {
+      "first_name": "Landen",
+      "last_initial": "R",
+      "number": "42",
+      "position": ""
+    },
+    {
+      "first_name": "John",
+      "last_initial": "W",
+      "number": "46",
+      "position": ""
+    },
+    {
+      "first_name": "Luke",
+      "last_initial": "P",
+      "number": "53",
+      "position": ""
+    },
+    {
+      "first_name": "Parker",
+      "last_initial": "R",
+      "number": "55",
+      "position": ""
+    },
+    {
+      "first_name": "Charlie",
+      "last_initial": "N",
+      "number": "56",
+      "position": ""
+    },
+    {
+      "first_name": "Merrick",
+      "last_initial": "C",
+      "number": "58",
+      "position": ""
+    },
+    {
+      "first_name": "Rylee",
+      "last_initial": "F",
+      "number": "60",
+      "position": ""
+    },
+    {
+      "first_name": "Landry",
+      "last_initial": "B",
+      "number": "61",
+      "position": ""
+    },
+    {
+      "first_name": "Samuel",
+      "last_initial": "B",
+      "number": "63",
+      "position": ""
+    },
+    {
+      "first_name": "Jasper",
+      "last_initial": "S",
+      "number": "68",
+      "position": ""
+    },
+    {
+      "first_name": "Asher",
+      "last_initial": "A",
+      "number": "70",
+      "position": ""
+    },
+    {
+      "first_name": "Jay",
+      "last_initial": "M",
+      "number": "72",
+      "position": ""
+    },
+    {
+      "first_name": "Zachary",
+      "last_initial": "W",
+      "number": "75",
+      "position": ""
+    },
+    {
+      "first_name": "Brooks",
+      "last_initial": "B",
+      "number": "82",
+      "position": ""
+    },
+    {
+      "first_name": "Drake",
+      "last_initial": "G",
+      "number": "84",
+      "position": ""
+    },
+    {
+      "first_name": "Graydon",
+      "last_initial": "W",
+      "number": "88",
+      "position": ""
+    },
+    {
+      "first_name": "Payton",
+      "last_initial": "S",
+      "number": "89",
+      "position": ""
+    },
+    {
+      "first_name": "Tristan",
+      "last_initial": "T",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Landon",
+      "last_initial": "W",
+      "number": "",
+      "position": ""
+    }
+  ],
+  "coaches": [
+    {
+      "name": "Brian Wallace",
+      "position": "Special Teams Coach"
+    },
+    {
+      "name": "Drew Williams",
+      "position": ""
+    },
+    {
+      "name": "Deion Banks",
+      "position": ""
+    },
+    {
+      "name": "Rick Braschler",
+      "position": ""
+    },
+    {
+      "name": "Brett Williams",
+      "position": ""
+    },
+    {
+      "name": "Ryan Eastman",
+      "position": "JH Head Coach"
+    },
+    {
+      "name": "Jami Arrington",
+      "position": ""
+    },
+    {
+      "name": "Titan Price",
+      "position": "Offense/QB"
+    },
+    {
+      "name": "Nicole Hilburn",
+      "position": ""
+    }
+  ]
+}

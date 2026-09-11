@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-09-11T04:36:16+00:00",
+  "team": "jv",
+  "team_label": "Junior Varsity",
+  "players": [
+    {
+      "first_name": "Toby",
+      "last_initial": "M",
+      "number": "15",
+      "position": ""
+    },
+    {
+      "first_name": "Logan",
+      "last_initial": "W",
+      "number": "32",
+      "position": ""
+    },
+    {
+      "first_name": "Ayden",
+      "last_initial": "H",
+      "number": "35",
+      "position": ""
+    },
+    {
+      "first_name": "Owen",
+      "last_initial": "R",
+      "number": "41",
+      "position": ""
+    },
+    {
+      "first_name": "Tobias",
+      "last_initial": "G",
+      "number": "42",
+      "position": ""
+    },
+    {
+      "first_name": "Brady",
+      "last_initial": "W",
+      "number": "43",
+      "position": ""
+    },
+    {
+      "first_name": "Nolan",
+      "last_initial": "T",
+      "number": "45",
+      "position": ""
+    },
+    {
+      "first_name": "Lincoln",
+      "last_initial": "A",
+      "number": "46",
+      "position": ""
+    },
+    {
+      "first_name": "Levi",
+      "last_initial": "S",
+      "number": "61",
+      "position": ""
+    },
+    {
+      "first_name": "Beckett",
+      "last_initial": "S",
+      "number": "63",
+      "position": ""
+    },
+    {
+      "first_name": "Emerson",
+      "last_initial": "H",
+      "number": "64",
+      "position": ""
+    },
+    {
+      "first_name": "Mason",
+      "last_initial": "L",
+      "number": "65",
+      "position": ""
+    },
+    {
+      "first_name": "Derrek",
+      "last_initial": "C",
+      "number": "67",
+      "position": ""
+    },
+    {
+      "first_name": "Camden",
+      "last_initial": "C",
+      "number": "68",
+      "position": ""
+    },
+    {
+      "first_name": "Eli",
+      "last_initial": "M",
+      "number": "72",
+      "position": ""
+    },
+    {
+      "first_name": "David",
+      "last_initial": "H",
+      "number": "74",
+      "position": ""
+    },
+    {
+      "first_name": "Luke",
+      "last_initial": "W",
+      "number": "80",
+      "position": ""
+    },
+    {
+      "first_name": "Andrew",
+      "last_initial": "M",
+      "number": "82",
+      "position": ""
+    },
+    {
+      "first_name": "Isaac",
+      "last_initial": "A",
+      "number": "84",
+      "position": ""
+    },
+    {
+      "first_name": "Brighton",
+      "last_initial": "A",
+      "number": "87",
+      "position": ""
+    },
+    {
+      "first_name": "David",
+      "last_initial": "W",
+      "number": "89",
+      "position": ""
+    },
+    {
+      "first_name": "Chandler",
+      "last_initial": "G",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Kingston",
+      "last_initial": "G",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Joshua",
+      "last_initial": "S",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Jonah",
+      "last_initial": "S",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "Jackson",
+      "last_initial": "P",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "James",
+      "last_initial": "G",
+      "number": "",
+      "position": ""
+    }
+  ],
+  "coaches": [
+    {
+      "name": "Brian Wallace",
+      "position": "Special Teams Coach"
+    },
+    {
+      "name": "Jared Smith",
+      "position": "JV Head Coach"
+    },
+    {
+      "name": "Jeff Godfrey",
+      "position": ""
+    },
+    {
+      "name": "Jason Arrington",
+      "position": ""
+    },
+    {
+      "name": "Brett Williams",
+      "position": ""
+    },
+    {
+      "name": "Elisabeth Warner",
+      "position": "Support"
+    }
+  ]
+}
