@@ -55,8 +55,7 @@
   align-items: center !important;
   justify-content: center !important;
   gap: 0.45em !important;
-  font-family: "Big Shoulders Display", Arial, Helvetica, sans-serif !important;
-  font-weight: 900 !important;
+  font-family: "Bungee", Arial, Helvetica, sans-serif !important;
   color: var(--lcc-orange, #f36f21) !important;
   text-transform: uppercase !important;
   letter-spacing: 0.05em !important;
@@ -194,14 +193,14 @@
    Also sized up substantially per direct feedback against a reference
    image: the record should read close to the team name (not floating
    above it) and be visually prominent - targeted at roughly 55% of
-   "VARSITY"'s own cap-height, sized/positioned using Big Shoulders
-   Display's real font metrics (ascent 0.99x font-size, i.e. the
-   glyphs' baseline sits ~1x the font-size below the line box's top)
-   the same "gap above the team name equals the team-name-to-SCHEDULE
-   gap" principle as before, solved at the max clamped size (80px)
-   against the real cardHeightPx a 900px-wide card renders at (~1126px,
-   from the image's 1152/921 aspect ratio):
-     top% = team_name_top_pct - (0.99 * 80 / 1126) - 0.0243
+   "VARSITY"'s own cap-height, sized/positioned using the current
+   font's real metrics (Bungee: ascent 1.02x font-size, i.e. the
+   glyphs' baseline sits ~1.02x the font-size below the line box's
+   top) and the same "gap above the team name equals the
+   team-name-to-SCHEDULE gap" principle as before, solved at the max
+   clamped size (80px) against the real cardHeightPx a 900px-wide card
+   renders at (~1126px, from the image's 1152/921 aspect ratio):
+     top% = team_name_top_pct - (1.02 * 80 / 1126) - 0.0243
    Measured team_name_top_pct per team (all three images are 921x1152,
    scanned/cropped directly): VARSITY ~49.7%, JUNIOR VARSITY ~56.5%,
    JUNIOR HIGH ~56.2%. JV/JH's team_name_top_pct is a visual-crop
@@ -212,13 +211,13 @@
    recompute rather than nudging by eye - see this file's git history
    for the measurement approach. */
 .chargers-record-varsity {
-  top: 40.2% !important; /* 0.497 - (0.99*80/1126) - 0.0243 */
+  top: 40.0% !important; /* 0.497 - (1.02*80/1126) - 0.0243 */
 }
 .chargers-record-jv {
-  top: 47.0% !important; /* 0.565 - (0.99*80/1126) - 0.0243 */
+  top: 46.8% !important; /* 0.565 - (1.02*80/1126) - 0.0243 */
 }
 .chargers-record-jh {
-  top: 46.7% !important; /* 0.562 - (0.99*80/1126) - 0.0243 */
+  top: 46.5% !important; /* 0.562 - (1.02*80/1126) - 0.0243 */
 }
 .chargers-record-varsity,
 .chargers-record-jv,
