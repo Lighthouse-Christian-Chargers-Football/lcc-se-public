@@ -117,6 +117,14 @@
   color: #4a5568 !important;
   font-weight: bold !important;
 }
+/* Unrelated to win/loss/tie above - for an event with no real winner
+   (a jamboree, a 7-on-7) once it's past (see schedule_overrides.yaml's
+   completed_when_past). Same neutral gray as a tie, since there's
+   nothing competitive to signal green/red about. */
+.chargers-result-completed {
+  color: #4a5568 !important;
+  font-weight: bold !important;
+}
 
 /* Schedule Graphic Wrapper Design */
 .chargers-card {
