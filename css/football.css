@@ -31,12 +31,30 @@
    (NOT part of the .chargers-overlay schedule grid below it) - centered
    above the team name art, roughly where the players' legs are. Position
    is tuned per team below since it sits over a photo, not the schedule
-   grid's %-based columns. */
+   grid's %-based columns.
+
+   Flanked by a double-line ornament on each side (::before/::after),
+   echoing the double navy rule already baked into the background photo
+   on either side of "SCHEDULE" - requested directly: match that look
+   without touching the photo itself. Built with flexbox rather than
+   background-image bars on the text itself so the two pseudo-elements
+   can sit outside the text as their own flex items, evenly gapped.
+   Every size below is in em (relative to this element's own
+   font-size), so the ornament scales exactly with the responsive
+   font-size clamp instead of needing its own breakpoints - if you
+   retune the clamp, the lines stay proportional automatically.
+   drawScheduleCanvas() in 2026-game-schedules.html redraws this same
+   ornament for the flattened share/download image (canvas can't see
+   pseudo-elements) - keep LINE_W_EM/LINE_THICK_EM/LINE_BLOCK_H_EM
+   there in sync with the values here if you change them. */
 .chargers-record-overlay {
   position: absolute !important;
   left: 0 !important;
   right: 0 !important;
-  text-align: center !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.45em !important;
   font-family: "Saira Stencil One", Arial, Helvetica, sans-serif !important;
   color: var(--lcc-orange, #f36f21) !important;
   text-transform: uppercase !important;
@@ -44,6 +62,19 @@
   text-shadow: 0.03em 0.03em 0 rgba(0, 0, 0, 0.55) !important;
   z-index: 10 !important;
   pointer-events: none !important;
+}
+.chargers-record-overlay::before,
+.chargers-record-overlay::after {
+  content: "" !important;
+  flex: 0 1 1.9em !important;
+  width: 1.9em !important;
+  height: 0.42em !important;
+  background-image:
+    linear-gradient(var(--lcc-navy, #0b2b4a), var(--lcc-navy, #0b2b4a)),
+    linear-gradient(var(--lcc-navy, #0b2b4a), var(--lcc-navy, #0b2b4a)) !important;
+  background-repeat: no-repeat, no-repeat !important;
+  background-size: 100% 0.1em, 100% 0.1em !important;
+  background-position: top center, bottom center !important;
 }
 
 /* ============================================================
@@ -151,22 +182,30 @@
    players are, these can be tuned independently per team, same idea as
    the schedule grid's own per-team tuner region above.
 
-   top: 41.6% was derived, not eyeballed - measured directly against
+   Sized and spaced up from the first pass, per direct visual feedback
+   against a reference image: bigger, and closer above the team name -
+   same "gap above VARSITY equals the VARSITY-to-SCHEDULE gap" approach
+   as before, recomputed for the new max font-size (was 56px/41.6%, now
+   68px/40.4% - a bigger font needs more ascent, so the box has to
+   start a bit higher to land the same baseline gap).
+
+   top: 40.4% was derived, not eyeballed - measured directly against
    v_bg.jpeg's baked-in text (team name block: y 49.7%-58.3% of image
    height; team-name-to-SCHEDULE gap: 2.43% of image height) plus Saira
-   Stencil One's real font metrics at the max clamped size (56px):
-   ascent 64px/descent 25px, i.e. the glyphs' baseline sits 1.143x the
-   font-size below the line box's top. Solving so the record text's
-   baseline sits that same 2.43% gap above the team name block:
-     top% = 0.497 - (1.143 * 56 / cardHeightPx) - 0.0243 = 0.416
-   If you change the font or the max clamp size, recompute rather than
-   nudging by eye - see this file's git history for the measurement
-   script used. */
+   Stencil One's real font metrics (ascent 1.143x font-size, i.e. the
+   glyphs' baseline sits 1.143x the font-size below the line box's
+   top), solved at the max clamped size (68px) against the real
+   cardHeightPx a 900px-wide card renders at (~1129px, from the image's
+   1152/921 aspect ratio):
+     top% = 0.497 - (1.143 * 68 / 1129) - 0.0243 = 0.404
+   If you change the font, the max clamp size, or the background image,
+   recompute rather than nudging by eye - see this file's git history
+   for the measurement script used. */
 .chargers-record-varsity,
 .chargers-record-jv,
 .chargers-record-jh {
-  top: 41.6% !important;
-  font-size: clamp(24px, 6vw, 56px) !important;
+  top: 40.4% !important;
+  font-size: clamp(28px, 7vw, 68px) !important;
 }
 
 /* Schedule Graphic Wrapper Design */
