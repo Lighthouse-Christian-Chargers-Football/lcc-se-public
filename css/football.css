@@ -37,7 +37,7 @@
   left: 0 !important;
   right: 0 !important;
   text-align: center !important;
-  font-family: "Anton", Arial, Helvetica, sans-serif !important;
+  font-family: "Saira Stencil One", Arial, Helvetica, sans-serif !important;
   color: var(--lcc-orange, #f36f21) !important;
   text-transform: uppercase !important;
   letter-spacing: 0.05em !important;
@@ -149,12 +149,24 @@
    template/proportions (same leg position), so one set of values covers
    all of them today. If a future background swap changes where the
    players are, these can be tuned independently per team, same idea as
-   the schedule grid's own per-team tuner region above. */
+   the schedule grid's own per-team tuner region above.
+
+   top: 41.6% was derived, not eyeballed - measured directly against
+   v_bg.jpeg's baked-in text (team name block: y 49.7%-58.3% of image
+   height; team-name-to-SCHEDULE gap: 2.43% of image height) plus Saira
+   Stencil One's real font metrics at the max clamped size (56px):
+   ascent 64px/descent 25px, i.e. the glyphs' baseline sits 1.143x the
+   font-size below the line box's top. Solving so the record text's
+   baseline sits that same 2.43% gap above the team name block:
+     top% = 0.497 - (1.143 * 56 / cardHeightPx) - 0.0243 = 0.416
+   If you change the font or the max clamp size, recompute rather than
+   nudging by eye - see this file's git history for the measurement
+   script used. */
 .chargers-record-varsity,
 .chargers-record-jv,
 .chargers-record-jh {
-  top: 34% !important;
-  font-size: clamp(28px, 8vw, 72px) !important;
+  top: 41.6% !important;
+  font-size: clamp(24px, 6vw, 56px) !important;
 }
 
 /* Schedule Graphic Wrapper Design */
