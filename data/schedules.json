@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:36:13+00:00",
+  "generated_at": "2026-09-11T14:43:49+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -133,7 +133,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Willow Springs, MO",
-      "result": null
+      "result": {
+        "visitor_score": 20,
+        "home_score": 6,
+        "outcome": "W"
+      }
     },
     {
       "date": "Sept 14",
@@ -219,7 +223,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": {
+        "visitor_score": 50,
+        "home_score": 20,
+        "outcome": "W"
+      }
     },
     {
       "date": "Sept 17",
@@ -234,7 +242,7 @@
       "opponent": "Skyline",
       "site": "Home",
       "time": "6:00 PM",
-      "location": "Springfield, MO",
+      "location": "Rogersville, MO",
       "result": null
     },
     {
