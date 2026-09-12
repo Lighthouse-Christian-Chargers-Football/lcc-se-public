@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:37:37+00:00",
+  "generated_at": "2026-09-12T04:02:37+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -41,7 +41,11 @@
       "site": "Away",
       "time": "7:00 PM",
       "location": "Wardsville, MO",
-      "result": null
+      "result": {
+        "visitor_score": 0,
+        "home_score": 20,
+        "outcome": "L"
+      }
     },
     {
       "date": "Sept 18",
