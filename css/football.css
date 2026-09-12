@@ -68,12 +68,23 @@
   content: "" !important;
   flex: 0 1 1.9em !important;
   width: 1.9em !important;
-  height: 0.42em !important;
+  /* Line thickness/block-height below were too thick per direct
+     feedback ("thicker than the ones around SCHEDULE") - remeasured
+     against the real double-line rule baked in next to "SCHEDULE" in
+     v_bg.jpeg: its two lines are ~2px thick against SCHEDULE's own
+     34px cap-height (a 0.0588 ratio), 12px block height total (0.353
+     ratio). Scaled to Bungee's own cap-height (~0.73x font-size, from
+     its real font metrics) so the same relative thickness holds:
+       thickness = 0.0588 * 0.73 = 0.043em
+       block height = 0.353 * 0.73 = 0.258em
+     Recompute both if the font or its cap-height ratio ever changes -
+     don't nudge by eye. */
+  height: 0.258em !important;
   background-image:
     linear-gradient(var(--lcc-navy, #0b2b4a), var(--lcc-navy, #0b2b4a)),
     linear-gradient(var(--lcc-navy, #0b2b4a), var(--lcc-navy, #0b2b4a)) !important;
   background-repeat: no-repeat, no-repeat !important;
-  background-size: 100% 0.1em, 100% 0.1em !important;
+  background-size: 100% 0.043em, 100% 0.043em !important;
   background-position: top center, bottom center !important;
 }
 
