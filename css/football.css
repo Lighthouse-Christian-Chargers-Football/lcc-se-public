@@ -238,7 +238,13 @@
 .chargers-record-varsity,
 .chargers-record-jv,
 .chargers-record-jh {
-  font-size: clamp(36px, 9vw, 80px) !important;
+  /* Bumped again per direct feedback ("could afford to be larger") -
+     was targeting ~55% of VARSITY's own cap-height (80px), now ~68%
+     (100px). The calc()-based top: above doesn't need to change for
+     this - `em` tracks whatever font-size actually renders, so a
+     size change alone never breaks the position the way it used to
+     with a fixed top:%. */
+  font-size: clamp(44px, 11vw, 100px) !important;
 }
 
 /* Schedule Graphic Wrapper Design */
