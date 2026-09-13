@@ -189,46 +189,51 @@
 
 /* Win-loss record position + size.
 
-   CORRECTION: an earlier version of this rule assumed all three
-   background photos position their team-name text at the same height
-   ("same template/proportions") and used one shared `top:` for all
-   three. That assumption was wrong - live-tested on the actual SE
-   test page, the gap above "JUNIOR HIGH" was clearly much bigger than
-   the gap above "VARSITY". Measured directly against each photo's own
-   baked-in text, "VARSITY" (one word) sits noticeably higher in its
-   frame than "JUNIOR VARSITY"/"JUNIOR HIGH" (two words - the template
-   evidently drops the team-name block lower to fit the longer text),
-   so each team needs its own `top:` below, same idea as the schedule
-   grid's own per-team tuner region above.
+   CORRECTION (2nd): the previous version solved `top: X%` as a fixed
+   percentage, assuming font-size always renders at the clamp's max
+   (80px). That's only true at one specific viewport width - `9vw` is
+   relative to the VIEWPORT, not the card, so on a real page the
+   rendered font-size is almost always something less than 80px, which
+   makes the ascent pull-up smaller than the fixed % assumed, leaving
+   MORE gap above the team name than intended. Caught live: a real SE
+   test page showed the record floating well above "VARSITY", several
+   times the target gap - not a bad measurement, a formula that only
+   holds at one exact font-size.
 
-   Also sized up substantially per direct feedback against a reference
-   image: the record should read close to the team name (not floating
-   above it) and be visually prominent - targeted at roughly 55% of
-   "VARSITY"'s own cap-height, sized/positioned using the current
-   font's real metrics (Bungee: ascent 1.02x font-size, i.e. the
-   glyphs' baseline sits ~1.02x the font-size below the line box's
-   top) and the same "gap above the team name equals the
-   team-name-to-SCHEDULE gap" principle as before, solved at the max
-   clamped size (80px) against the real cardHeightPx a 900px-wide card
-   renders at (~1126px, from the image's 1152/921 aspect ratio):
-     top% = team_name_top_pct - (1.02 * 80 / 1126) - 0.0243
+   Fixed by using calc() to mix the percentage with an em term instead
+   of a bare percentage: `em` always resolves to THIS element's own
+   current font-size, so `1.02em` re-solves the ascent pull-up at
+   whatever size the responsive clamp() actually renders, at any
+   viewport width - not just the max.
+
+   CORRECTION (1st, still valid): all three background photos do NOT
+   position their team-name text at the same height ("VARSITY", one
+   word, sits noticeably higher in its frame than "JUNIOR VARSITY"/
+   "JUNIOR HIGH", two words - the template drops the text block lower
+   to fit), so each team gets its own formula below, same idea as the
+   schedule grid's own per-team tuner region above.
+
+   Derivation, same "gap above the team name equals the
+   team-name-to-SCHEDULE gap" principle as before (Bungee's real
+   ascent ratio: 1.02x font-size):
+     top: calc((team_name_top_pct - 0.0243) - 1.02em)
    Measured team_name_top_pct per team (all three images are 921x1152,
    scanned/cropped directly): VARSITY ~49.7%, JUNIOR VARSITY ~56.5%,
    JUNIOR HIGH ~56.2%. JV/JH's team_name_top_pct is a visual-crop
    estimate (±1-2%), not a precise pixel scan like VARSITY's original
-   measurement - if it's still off once you see it live, that's the
-   number to nudge, not the font-size or the gap logic.
-   If you change the font, the max clamp size, or a background image,
-   recompute rather than nudging by eye - see this file's git history
-   for the measurement approach. */
+   measurement - if it's still off once you see it live at every
+   width, that's the number to nudge, not the calc() structure.
+   If you change the font or a background image, recompute rather
+   than nudging by eye - see this file's git history for the
+   measurement approach. */
 .chargers-record-varsity {
-  top: 40.0% !important; /* 0.497 - (1.02*80/1126) - 0.0243 */
+  top: calc(47.27% - 1.02em) !important; /* (0.497 - 0.0243) - 1.02em */
 }
 .chargers-record-jv {
-  top: 46.8% !important; /* 0.565 - (1.02*80/1126) - 0.0243 */
+  top: calc(54.07% - 1.02em) !important; /* (0.565 - 0.0243) - 1.02em */
 }
 .chargers-record-jh {
-  top: 46.5% !important; /* 0.562 - (1.02*80/1126) - 0.0243 */
+  top: calc(53.77% - 1.02em) !important; /* (0.562 - 0.0243) - 1.02em */
 }
 .chargers-record-varsity,
 .chargers-record-jv,
