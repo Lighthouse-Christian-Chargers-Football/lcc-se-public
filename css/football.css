@@ -59,7 +59,28 @@
   color: var(--lcc-orange, #f36f21) !important;
   text-transform: uppercase !important;
   letter-spacing: 0.05em !important;
-  text-shadow: 0.03em 0.03em 0 rgba(0, 0, 0, 0.55) !important;
+  /* Thin white inner edge + thicker navy outer edge, for contrast
+     against the photo regardless of what's directly behind the text -
+     replaces the old single drop-shadow, which only really helped on
+     the darker parts of the photo. CSS has no real two-color stroke
+     property, so this fakes one with a ring of solid-color shadows at
+     a fixed radius (12 points around the glyph, no blur) - white ring
+     listed first so it paints on top of the navy ring behind it,
+     leaving navy visible only in the band beyond the white radius.
+     This is a CSS-only approximation (very slight faceting at 12
+     points, invisible at this scale) - drawScheduleCanvas() in
+     2026-game-schedules.html gets the real thing (two true circular
+     strokeText() calls), since canvas is what actually gets published
+     once the page flattens each card. Keep the two radii (white
+     0.025em, navy out to 0.075em) in sync there if you change either. */
+  text-shadow:
+    0.025em 0.000em #fff, 0.022em 0.012em #fff, 0.013em 0.022em #fff, 0.000em 0.025em #fff,
+    -0.012em 0.022em #fff, -0.022em 0.012em #fff, -0.025em 0.000em #fff, -0.022em -0.013em #fff,
+    -0.013em -0.022em #fff, -0.000em -0.025em #fff, 0.013em -0.022em #fff, 0.022em -0.013em #fff,
+    0.075em 0.000em var(--lcc-navy, #0b2b4a), 0.065em 0.037em var(--lcc-navy, #0b2b4a), 0.038em 0.065em var(--lcc-navy, #0b2b4a), 0.000em 0.075em var(--lcc-navy, #0b2b4a),
+    -0.037em 0.065em var(--lcc-navy, #0b2b4a), -0.065em 0.037em var(--lcc-navy, #0b2b4a), -0.075em 0.000em var(--lcc-navy, #0b2b4a), -0.065em -0.038em var(--lcc-navy, #0b2b4a),
+    -0.038em -0.065em var(--lcc-navy, #0b2b4a), -0.000em -0.075em var(--lcc-navy, #0b2b4a), 0.038em -0.065em var(--lcc-navy, #0b2b4a), 0.065em -0.038em var(--lcc-navy, #0b2b4a)
+  !important;
   z-index: 10 !important;
   pointer-events: none !important;
 }
