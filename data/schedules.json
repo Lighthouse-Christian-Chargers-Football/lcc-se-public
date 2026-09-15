@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:48:35+00:00",
+  "generated_at": "2026-09-15T03:06:13+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -151,7 +151,11 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": {
+        "visitor_score": 12,
+        "home_score": 54,
+        "outcome": "W"
+      }
     },
     {
       "date": "Sept 21",
@@ -291,7 +295,7 @@
       "ties": 0
     },
     "jv": {
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
