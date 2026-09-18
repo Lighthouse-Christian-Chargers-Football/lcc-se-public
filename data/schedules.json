@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:38:56+00:00",
+  "generated_at": "2026-09-18T04:06:57+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -243,9 +243,13 @@
       "date": "Sept 17",
       "opponent": "SPS-Vikings",
       "site": "Away",
-      "time": "6:00 PM",
+      "time": "7:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": {
+        "visitor_score": 0,
+        "home_score": 30,
+        "outcome": "L"
+      }
     },
     {
       "date": "Sept 24",
@@ -301,7 +305,7 @@
     },
     "jh": {
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     }
   }
