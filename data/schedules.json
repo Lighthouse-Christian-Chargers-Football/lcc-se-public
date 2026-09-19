@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:25:28+00:00",
+  "generated_at": "2026-09-19T04:03:42+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -53,7 +53,11 @@
       "site": "Away",
       "time": "7:00 PM",
       "location": "El Dorado Springs, MO",
-      "result": null
+      "result": {
+        "visitor_score": 46,
+        "home_score": 8,
+        "outcome": "W"
+      }
     },
     {
       "date": "Oct 3",
@@ -294,7 +298,7 @@
   ],
   "records": {
     "varsity": {
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
