@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:13:47+00:00",
+  "generated_at": "2026-09-22T19:39:42+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -167,7 +167,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Rogersville, MO",
-      "result": null
+      "result": {
+        "visitor_score": 12,
+        "home_score": 42,
+        "outcome": "W"
+      }
     },
     {
       "date": "Sept 29",
@@ -303,7 +307,7 @@
       "ties": 0
     },
     "jv": {
-      "wins": 3,
+      "wins": 4,
       "losses": 0,
       "ties": 0
     },
