@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:36:16+00:00",
+  "generated_at": "2026-09-23T19:35:13+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -246,6 +246,12 @@
     {
       "first_name": "Dillon",
       "last_initial": "J",
+      "number": "",
+      "position": ""
+    },
+    {
+      "first_name": "David",
+      "last_initial": "W",
       "number": "",
       "position": ""
     }
