@@ -11,7 +11,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Shawnee, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Okun Fieldhouse",
+        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
+      }
     },
     {
       "id": "6d2bbd85-0d3d-42a4-a0e0-6bf47d25879a",
@@ -22,7 +26,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Shawnee, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Okun Fieldhouse",
+        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+      }
     },
     {
       "id": "6e626dc2-e115-479b-aaaa-2939808f8ede",
@@ -33,7 +41,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Shawnee, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Okun Fieldhouse",
+        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+      }
     },
     {
       "id": "f72f818f-f4ae-4b5d-86a9-ad66e9b87405",
@@ -44,7 +56,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Shawnee, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Okun Fieldhouse",
+        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+      }
     },
     {
       "id": "a35c9826-a935-4686-a231-3573f8a0cbaa",
@@ -55,7 +71,11 @@
       "site": "Away",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "3e253b8c-9371-4288-9d16-33c651102bd0",
@@ -66,7 +86,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "af51b80a-bc6e-468e-b954-afaa8cc142ec",
@@ -77,7 +101,11 @@
       "site": "Home",
       "time": "7:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "113af803-149f-4023-8da0-9459e01893b0",
@@ -88,7 +116,11 @@
       "site": "Away",
       "time": "7:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "299f4393-9c29-4204-a27d-e2ec55e79536",
@@ -99,7 +131,11 @@
       "site": "Away",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "3daa2e23-9cbd-463b-9aae-645cd1a627ec",
@@ -110,7 +146,11 @@
       "site": "Away",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "806b94bf-7fc3-4ecf-8a25-8c7eaa2f94c9",
@@ -121,7 +161,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "b4eff42f-aa6d-4d30-90ad-68ca2658aec1",
@@ -132,7 +176,11 @@
       "site": "Away",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "70807ff2-cb8a-47ae-8111-c4d5541bd88a",
@@ -143,7 +191,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "30b173a5-f811-420b-9c6d-f31fdbdf988c",
@@ -154,7 +206,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "b7ebd250-4c7b-44d2-9c37-1f82d0588acb",
@@ -165,7 +221,11 @@
       "site": "Home",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "c5f4e270-a67d-4125-bdb9-bfd169de981a",
@@ -176,7 +236,11 @@
       "site": "Home",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "f3f1bad1-f867-4089-a468-96ee477bf491",
@@ -187,7 +251,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Covenant Academy-Warrior Campus",
+        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "3a423700-fde8-424c-8d9b-3810e49f2c13",
@@ -198,7 +266,11 @@
       "site": "Away",
       "time": "8:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Covenant Academy-Warrior Campus",
+        "address": "3304 South Cox Road, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "c372d5db-4fa6-4c3c-82cb-a9b67a601b2b",
@@ -209,7 +281,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "5ed73c10-3bdb-40c7-8f22-9a38f7f5c278",
@@ -220,7 +296,11 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "21dddd6a-4ff9-4e5b-ad69-6f77c449015f",
@@ -231,7 +311,11 @@
       "site": "Home",
       "time": "7:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "940eacb3-80f2-4efd-bad8-246787d81ff7",
@@ -242,7 +326,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "7d43eb18-8536-4adf-b4ad-d56a5c0c22c7",
@@ -253,7 +341,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "fab8215d-5d04-4fe1-a786-47e530009a26",
@@ -264,7 +356,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+      }
     },
     {
       "id": "382f5450-99a7-481c-9a09-acb64c6ade2a",
@@ -275,7 +371,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "a2df8fef-27b6-4329-a98d-c0380cd164c0",
@@ -286,7 +386,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+      }
     },
     {
       "id": "650d5c45-435e-4b41-971a-63fec73822d7",
@@ -297,7 +401,11 @@
       "site": "Away",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "ae82c34b-9603-4fb6-982e-734e1b17a423",
@@ -308,7 +416,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Mountain Grove, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Mountain Grove High School",
+        "address": "420 North Main Street, Mountain Grove, MO, 65711, US"
+      }
     },
     {
       "id": "33f118de-d001-4e48-89ed-bbc4fb5a5ea2",
@@ -319,7 +431,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Mountain Grove, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Mountain Grove High School",
+        "address": "420 North Main Street, Mountain Grove, MO, 65711, US"
+      }
     },
     {
       "id": "7b99d9f5-7a68-43a4-8e3d-fb5349bb06fc",
@@ -330,7 +446,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Springfield Catholic High School",
+        "address": "2340 South Eastgate Avenue, Springfield, MO 65809, US"
+      }
     },
     {
       "id": "9b95150d-20bb-486b-90b7-951ce91de634",
@@ -341,7 +461,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Springfield Catholic High School",
+        "address": "2340 South Eastgate Avenue, Springfield, MO 65809, US"
+      }
     },
     {
       "id": "f6099984-d3d1-48b1-b877-1f09ed64d67a",
@@ -352,7 +476,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "b40129c6-88cc-4c51-a7ec-21826fe3ed0f",
@@ -363,7 +491,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "ebf0c57c-09d8-43e3-9964-3d07410bf242",
@@ -374,7 +506,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "23d791a7-bc0c-4317-a3d8-2ea036cfc736",
@@ -385,7 +521,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "355039b0-6946-43d5-88d5-c1e417e75493",
@@ -396,7 +536,11 @@
       "site": "Home",
       "time": "10:30 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
+      }
     },
     {
       "id": "bcb6bd62-7f6c-4402-8d95-03067852e815",
@@ -407,7 +551,11 @@
       "site": "Home",
       "time": "10:30 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "5a7a6c3a-95da-4035-bf2e-562f142e2bd2",
@@ -418,7 +566,11 @@
       "site": "Home",
       "time": "10:30 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "5e912f9e-de75-4458-92be-007afc382ff7",
@@ -429,7 +581,11 @@
       "site": "Away",
       "time": "10:30 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "02f67024-971c-4708-b7c4-93de12c5480a",
@@ -440,7 +596,11 @@
       "site": "Home",
       "time": "12:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "3ba44874-2746-4753-9cdd-f0afb0683ba2",
@@ -451,7 +611,11 @@
       "site": "Away",
       "time": "1:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
+      }
     },
     {
       "id": "b8cadba3-00f4-4188-8f94-209d440179b5",
@@ -462,7 +626,11 @@
       "site": "Away",
       "time": "1:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "dcbc6d6c-de8b-45c8-84e1-6456033a5370",
@@ -473,7 +641,11 @@
       "site": "Away",
       "time": "1:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "b64e1303-5b5e-4ef2-b6cd-c897c4fa7db6",
@@ -484,7 +656,11 @@
       "site": "Away",
       "time": "2:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "0ee73c55-33da-4961-a4ff-630cff3d9604",
@@ -495,7 +671,11 @@
       "site": "Home",
       "time": "3:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "b1f4be20-0659-4fee-b29f-ea64d909638b",
@@ -506,7 +686,11 @@
       "site": "Home",
       "time": "3:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "e1338690-dc64-4133-a9b5-7390c5695108",
@@ -517,7 +701,11 @@
       "site": "Home",
       "time": "3:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "bd6c40fe-3453-41a2-8080-c2cb461ff8c5",
@@ -528,7 +716,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "277ff18a-4996-4dcf-9223-c75d8f688415",
@@ -539,7 +731,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "5d50f08f-cc04-4bf9-9a68-78a7b461b461",
@@ -550,7 +746,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "99ad313d-0c2e-4767-ac11-3988060d5ca3",
@@ -561,7 +761,11 @@
       "site": "Home",
       "time": "8:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "af88acc3-b40c-4aa7-854e-85bff431a637",
@@ -572,7 +776,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "73f30aaa-c3f1-4c8a-b978-aa6c92e950b7",
@@ -583,7 +791,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "8f32f21a-aed4-47a6-99be-dc062859cec5",
@@ -594,7 +806,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "ecd180fb-8e4c-40f8-9dc3-5f285ea56523",
@@ -605,7 +821,11 @@
       "site": "Home",
       "time": "11:30 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "d377e846-6530-44f5-9a62-6942098e8cbd",
@@ -616,7 +836,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "480a2690-2d27-448c-9f4c-a0d22cc16ddb",
@@ -627,7 +851,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Marionville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marionville High School",
+        "address": "17725 Missouri 14, Marionville, MO 65705, US"
+      }
     },
     {
       "id": "163fd6b1-d381-4ca2-9433-d01e94fa8292",
@@ -638,7 +866,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Marionville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marionville High School",
+        "address": "17725 Missouri 14, Marionville, MO, 65705, US"
+      }
     },
     {
       "id": "d1fbb02e-3346-4b85-bef6-a975c88e96da",
@@ -649,7 +881,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Marionville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marionville High School",
+        "address": "17725 Missouri 14, Marionville, MO 65705, US"
+      }
     },
     {
       "id": "90094c44-f275-4ed8-bf97-090fc16b7a17",
@@ -660,7 +896,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Carver Middle School",
+        "address": "3325 West Battlefield Road, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "0b961591-0565-463c-acff-f4cf32763a12",
@@ -671,7 +911,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "318cf198-2c5b-440f-8231-2b33eda69013",
@@ -682,7 +926,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Carver Middle School",
+        "address": "3325 West Battlefield Road, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "a2cfed29-7144-47f5-b16f-4b7ae373eb21",
@@ -693,7 +941,11 @@
       "site": "Away",
       "time": "6:40 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "45583df5-9722-4d88-b85b-d2375fdb8a4b",
@@ -704,7 +956,11 @@
       "site": "Home",
       "time": "6:40 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "30ce506d-bafb-4cc4-bbf2-3458451a0c79",
@@ -715,7 +971,11 @@
       "site": "Away",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "c67df330-a49c-4b08-afc0-59c40367cc26",
@@ -737,7 +997,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "c34dd2a8-9f54-4bb0-905e-5554d6104378",
@@ -748,7 +1012,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "425a294e-7b10-4862-83fb-a3848c214667",
@@ -759,7 +1027,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "32738d6e-3087-434a-a827-90da1031afc1",
@@ -770,7 +1042,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "3bc50f3c-0828-47d7-a6e8-9c22a2523122",
@@ -781,7 +1057,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "d43c816d-caec-4601-9535-46b0ea481d33",
@@ -792,7 +1072,11 @@
       "site": "Home",
       "time": "7:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "9c21d7f5-2716-4212-88a8-018b2668787e",
@@ -803,7 +1087,11 @@
       "site": "Away",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "9c21d7f5-2716-4212-88a8-018b2668787e",
@@ -814,7 +1102,11 @@
       "site": "Home",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "6559fcfe-5860-424b-95e2-1e61c19df85c",
@@ -825,7 +1117,11 @@
       "site": "Away",
       "time": "8:00 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Hillcrest High School",
+        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
+      }
     },
     {
       "id": "da31b447-8265-41e8-84f6-6471fe332d1a",
@@ -836,7 +1132,11 @@
       "site": "Home",
       "time": "3:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO 65738, US"
+      }
     },
     {
       "id": "a4b0c02c-3fc7-4f21-ac64-79f3fcd441ae",
@@ -847,7 +1147,11 @@
       "site": "Home",
       "time": "3:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO 65738, US"
+      }
     },
     {
       "id": "f40e4b86-d6f9-464f-b5a4-b0d5c4b33187",
@@ -858,7 +1162,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO 65738, US"
+      }
     },
     {
       "id": "e1aab22f-abeb-4538-80bd-4056706c3194",
@@ -869,7 +1177,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO 65738, US"
+      }
     },
     {
       "id": "40419ce1-0102-4f57-9343-237579445c32",
@@ -880,7 +1192,11 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO 65738, US"
+      }
     },
     {
       "id": "fa0891ab-9919-4b8a-b89f-54cd02cfff8b",
@@ -891,7 +1207,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "St Elizabeth Ann Seton Church And School",
+        "address": "2200 West Republic Road, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "5de85c50-379c-42cf-aa5a-0cb1fba19f19",
@@ -902,7 +1222,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "St Elizabeth Ann Seton Church And School",
+        "address": "2200 West Republic Road, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "37dd94bb-f734-4c12-add7-ba6ee1d79756",
@@ -913,7 +1237,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Hollister, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Hollister High School",
+        "address": "2112 State Highway BB, Hollister, MO, 65672, US"
+      }
     },
     {
       "id": "3ff3551f-e8de-4223-a1c3-a11e1c9ad322",
@@ -924,7 +1252,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Hollister, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Hollister High School",
+        "address": "2112 State Highway BB, Hollister, MO 65672, US"
+      }
     },
     {
       "id": "9eb53355-4964-4dd4-813b-3ca39b113871",
@@ -935,7 +1267,11 @@
       "site": "Away",
       "time": "7:00 PM",
       "location": "Hollister, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Hollister High School",
+        "address": "2112 State Highway BB, Hollister, MO, 65672, US"
+      }
     },
     {
       "id": "e6865332-8e17-40ee-8154-4dcc8a3e306d",
@@ -946,7 +1282,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Pershing School",
+        "address": "2120 South Ventura Avenue, Springfield, MO, 65804, US"
+      }
     },
     {
       "id": "aa62c28c-a080-4743-b03f-a1bea0c0b2ac",
@@ -957,7 +1297,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Covenant Academy-Warrior Campus",
+        "address": "3304 South Cox Road, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "a16b3f18-a8e5-4562-a489-ed16233d0630",
@@ -968,7 +1312,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "22c80289-85b9-4b11-a3d5-01ac3ac6cecf",
@@ -979,7 +1327,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Pershing School",
+        "address": "2120 South Ventura Avenue, Springfield, MO, 65804, US"
+      }
     },
     {
       "id": "0942e86f-d2bb-4598-8c8c-19c9b923f218",
@@ -990,7 +1342,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Covenant Academy-Warrior Campus",
+        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "a84f2c65-448b-441c-856b-cb7a0c1db56e",
@@ -1001,7 +1357,11 @@
       "site": "Home",
       "time": "8:20 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "e3646709-cb4d-4c77-ad4a-fb1a8fe17a70",
@@ -1012,7 +1372,11 @@
       "site": "Away",
       "time": "8:00 AM",
       "location": "Marshfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marshfield High School",
+        "address": "370 State Route DD, Marshfield, MO, 65706, US"
+      }
     },
     {
       "id": "60fd39c1-3244-4c50-b768-90b3f937b2f5",
@@ -1023,7 +1387,11 @@
       "site": "Away",
       "time": "8:00 AM",
       "location": "Buffalo, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
     },
     {
       "id": "7d3dbed1-0d32-4bbf-9adb-343894ccd5b8",
@@ -1034,7 +1402,11 @@
       "site": "Home",
       "time": "10:15 AM",
       "location": "Marshfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marshfield High School",
+        "address": "370 State Route DD, Marshfield, MO, 65706, US"
+      }
     },
     {
       "id": "7b635383-48cd-469b-8c2c-060eb2ab85ec",
@@ -1045,7 +1417,11 @@
       "site": "Away",
       "time": "10:45 AM",
       "location": "Buffalo, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
     },
     {
       "id": "e02c0ab9-91c2-4c3a-bf02-3539b58c740a",
@@ -1056,7 +1432,11 @@
       "site": "Home",
       "time": "11:45 AM",
       "location": "Marshfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marshfield High School",
+        "address": "370 State Route DD, Marshfield, MO, 65706, US"
+      }
     },
     {
       "id": "85b1d8cd-19c2-47b2-8fda-a24a6de7aa0c",
@@ -1067,7 +1447,11 @@
       "site": "Away",
       "time": "12:15 PM",
       "location": "Buffalo, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
     },
     {
       "id": "ace0a047-3dd4-4600-b927-6fe0f4d5accd",
@@ -1078,7 +1462,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Parkview High School",
+        "address": "516 West Meadowmere Street, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "472f62e1-acc7-436b-aee5-93868857828b",
@@ -1089,7 +1477,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Parkview High School",
+        "address": "516 West Meadowmere Street, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "46f221cb-4095-4d09-bffb-bc07138e2792",
@@ -1100,7 +1492,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "ea2af920-5d66-434b-8963-29cd6ae08c02",
@@ -1111,7 +1507,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "34ba4ae3-3f29-449f-887e-93b786d0f581",
@@ -1122,7 +1522,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "9adb9e65-a1f0-4c12-9833-42e5a9260dd6",
@@ -1133,7 +1537,11 @@
       "site": "Home",
       "time": "6:40 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "7b16e53c-2c17-456a-bc71-78cbf328ecaa",
@@ -1155,7 +1563,11 @@
       "site": "Home",
       "time": "8:20 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "66176eaa-b4a8-4661-8a37-1742b220feed",
@@ -1166,7 +1578,11 @@
       "site": "Home",
       "time": "TBD",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "50febfcf-5039-4798-b992-d57fadcae2f4",
@@ -1177,7 +1593,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+      }
     },
     {
       "id": "befab61b-cead-46d7-be4e-a47f29a874f8",
@@ -1188,7 +1608,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "4300ffd4-b52d-4106-a01a-3a3c7e1cd5b1",
@@ -1199,7 +1623,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "e0383c15-f5a7-415d-bea9-43a5d33ae2d5",
@@ -1210,7 +1638,11 @@
       "site": "Home",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+      }
     },
     {
       "id": "f911cea9-211a-4bd0-80ce-8788dbfd69db",
@@ -1221,7 +1653,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "62ca29be-4973-44b2-bfda-5868b2859e44",
@@ -1232,7 +1668,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "08390877-eaf2-4fd4-bc4b-eb3d1caa2c63",
@@ -1243,7 +1683,11 @@
       "site": "Home",
       "time": "9:00 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "0d80a293-1f12-455b-ab2a-9ce55f7e4257",
@@ -1254,7 +1698,11 @@
       "site": "Home",
       "time": "9:00 AM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "a3e798d1-d9f8-49b4-bf19-652ec00aa564",
@@ -1265,7 +1713,11 @@
       "site": "Home",
       "time": "9:30 AM",
       "location": "Strafford, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Strafford High School",
+        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
+      }
     },
     {
       "id": "a152fde4-476f-4faa-a0ee-6ad235a628e6",
@@ -1276,7 +1728,11 @@
       "site": "Home",
       "time": "11:30 AM",
       "location": "Strafford, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Strafford High School",
+        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
+      }
     },
     {
       "id": "07edecf5-da6b-4622-a1ca-07aa38171e34",
@@ -1287,7 +1743,11 @@
       "site": "Away",
       "time": "12:30 PM",
       "location": "Strafford, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Strafford High School",
+        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
+      }
     },
     {
       "id": "0d149208-b027-461f-88e3-2bb0b22220e5",
@@ -1298,7 +1758,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Marionville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marionville Jr High School",
+        "address": "200 West O'dell, Marionville, MO, 65705, US"
+      }
     },
     {
       "id": "79d494a7-8b07-4e6a-9a52-cbcfdb58f3de",
@@ -1309,7 +1773,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Marionville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Marionville Jr High School",
+        "address": "200 West O'dell, Marionville, MO, 65705, US"
+      }
     },
     {
       "id": "4dce000b-036a-4e1d-ba9e-a9f66450fd37",
@@ -1320,7 +1788,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "d093106d-99b0-4988-a39a-130602316604",
@@ -1331,7 +1803,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "ea08bdbc-2f8e-4f29-8e06-46e83d711f92",
@@ -1342,7 +1818,11 @@
       "site": "Home",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO 65807, US"
+      }
     },
     {
       "id": "b07439d8-815e-4e74-b626-34221199d067",
@@ -1353,7 +1833,11 @@
       "site": "Home",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "8bc5408f-f65d-4300-ae2b-b3fe283c5e90",
@@ -1364,7 +1848,11 @@
       "site": "Home",
       "time": "8:20 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "343583db-6a61-43a5-86e8-29cdb422da2e",
@@ -1375,7 +1863,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "db13c951-1132-4d2c-b5bb-0f5a0b156c80",
@@ -1386,7 +1878,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "e568a2f8-992f-4f22-a8bd-466a93049847",
@@ -1397,7 +1893,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS 66031, US"
+      }
     },
     {
       "id": "d2d7ee5a-6aa3-4b7f-9424-bbe2f30adcb1",
@@ -1408,7 +1908,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "2646f7fd-568c-462f-ac44-829dc57a8ef4",
@@ -1419,7 +1923,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "a073489f-c224-410a-99be-ce77d26c5750",
@@ -1430,7 +1938,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "0b46c099-93a5-4591-ad72-ace5010964cd",
@@ -1441,7 +1953,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "8b6d8582-ea6a-4c57-bacd-9cedde01625b",
@@ -1452,7 +1968,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "8fdcea3f-f429-42be-bc61-08fed757bbb9",
@@ -1463,7 +1983,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "36c53d64-58fe-4721-8779-e7620690b6f7",
@@ -1474,7 +1998,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS 66031, US"
+      }
     },
     {
       "id": "7fc4e7d5-fe47-4a5f-9cec-6f8491abe3e1",
@@ -1485,7 +2013,11 @@
       "site": "Away",
       "time": "5:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Central High School",
+        "address": "423 East Central Street, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "67cc6638-6293-4319-af39-f002f9da60f3",
@@ -1496,7 +2028,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Central High School",
+        "address": "423 East Central Street, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "4d2598ca-53ab-45c9-a01e-872326ea25ab",
@@ -1507,7 +2043,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Clever, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Clever EleMiddle School",
+        "address": "103 North Public Avenue, Clever, MO, 65631, US"
+      }
     },
     {
       "id": "071e805e-9ffa-44e7-9020-d4847a3e6bcb",
@@ -1518,7 +2058,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "4a4c06b5-13a0-4dae-8134-2c7532ce3f02",
@@ -1529,7 +2073,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "c2fc9aa0-f482-4cd4-9148-a9432f85d327",
@@ -1540,7 +2088,11 @@
       "site": "Home",
       "time": "5:50 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "5b33df04-09c8-4e6c-b4f6-9b351e1195db",
@@ -1551,7 +2103,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Clever, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Clever EleMiddle School",
+        "address": "103 North Public Avenue, Clever, MO, 65631, US"
+      }
     },
     {
       "id": "57a3e9e7-08d0-439f-bade-b29a0f105c9f",
@@ -1562,7 +2118,11 @@
       "site": "Home",
       "time": "6:40 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "f5adf472-bb75-411a-b282-866f7bb3d9aa",
@@ -1573,7 +2133,11 @@
       "site": "Away",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "633cdc62-41ad-4868-a127-523444ee7506",
@@ -1584,7 +2148,11 @@
       "site": "Home",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
+      }
     },
     {
       "id": "6c203380-6b0c-4d9f-8492-14331c5a79e6",
@@ -1595,7 +2163,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "a98a86eb-14a1-4c14-bc00-98406c869d41",
@@ -1606,7 +2178,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+      }
     },
     {
       "id": "3f711060-0fa0-4195-b514-9001db1650b4",
@@ -1617,7 +2193,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "a70ddd7c-407b-4b53-9188-1261d7c0bf5d",
@@ -1628,7 +2208,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+      }
     },
     {
       "id": "2381bc72-4359-45ee-a934-ea99011bf827",
@@ -1639,7 +2223,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "9527af70-73a7-49a1-aa6d-b32218905914",
@@ -1650,7 +2238,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "8e5b7b4a-233e-4fdc-a8de-9eee21ac8d71",
@@ -1661,7 +2253,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "4258b410-8a83-4bb9-95fb-755c6a74bae5",
@@ -1672,7 +2268,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "dddd44d7-348a-4465-b76a-ed21b14ebd3e",
@@ -1683,7 +2283,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "3feef1eb-8976-4ba3-873e-16aae91d7842",
@@ -1694,7 +2298,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "aae91f8d-5674-42f4-8cf1-e2ff94d8b4c0",
@@ -1705,7 +2313,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "43906571-59a1-4284-ab21-c0e1ab9292d6",
@@ -1716,7 +2328,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+      }
     },
     {
       "id": "d1f553bc-2e38-4e37-b3c4-91927235c479",
@@ -1727,7 +2343,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "b1455e51-ddfe-4e74-b1c4-2da0ed3318c3",
@@ -1738,7 +2358,11 @@
       "site": "Home",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     }
   ]
 }

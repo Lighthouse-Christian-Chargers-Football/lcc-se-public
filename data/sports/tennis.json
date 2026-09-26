@@ -11,7 +11,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Ozark, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Millwood Golf and Racquet Club",
+        "address": "3700 East Millwood Drive, Ozark, MO, 65721, US"
+      }
     },
     {
       "id": "7d07a45d-52b9-4bc1-9915-556ec09a4d31",
@@ -22,7 +26,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Rogersville, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Logan-Rogersville High School",
+        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
+      }
     },
     {
       "id": "3ecf07cd-49f9-431d-b797-8b9c797a51ee",
@@ -33,7 +41,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Ozark, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "",
+        "address": "Ozark, Ozark, MO, US"
+      }
     },
     {
       "id": "c310fbe7-ddf5-484c-b202-a57242f876f9",
@@ -44,7 +56,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Ozark, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Millwood Golf and Racquet Club",
+        "address": "3700 East Millwood Drive, Ozark, MO, 65721, US"
+      }
     },
     {
       "id": "05efee5d-1f2a-475a-935c-5d6a8a1cd9d7",
@@ -55,7 +71,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Cooper Tennis Complex",
+        "address": "2331 East Pythian Street, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "14fdac44-6a0f-4694-85b7-49aaff1ef464",
@@ -66,7 +86,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Reeds Spring, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Reeds Spring High School",
+        "address": "20277 Missouri 413, Reeds Spring, MO, 65737, US"
+      }
     },
     {
       "id": "6556079e-dbda-4ae6-bb67-91ac03c2e222",
@@ -77,7 +101,11 @@
       "site": "Home",
       "time": "4:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Cooper Tennis Complex",
+        "address": "2331 East Pythian Street, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "16805c45-9b5a-4d67-8427-f24ac5d08d3d",
@@ -88,7 +116,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Branson, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Branson High School",
+        "address": "935 Buchanan Road, Branson, MO, 65616, US"
+      }
     },
     {
       "id": "7d0e6084-a877-4e30-a916-9529ff826a09",
@@ -99,7 +131,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Cooper Tennis Complex",
+        "address": "2331 East Pythian Street, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "67c1e804-b0cd-444c-8149-572082c122b2",
@@ -110,7 +146,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Gillenwater Park & Tennis Complex",
+        "address": "3635 South Jefferson Avenue, Springfield, MO, 65807, US"
+      }
     }
   ]
 }

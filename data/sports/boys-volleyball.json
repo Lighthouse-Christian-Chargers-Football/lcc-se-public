@@ -11,7 +11,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Andover, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
+        "address": "640 YMCA Drive, Andover, KS, 67002, US"
+      }
     },
     {
       "id": "0dac3445-6d0c-48e7-b3e3-d447cb3c390a",
@@ -22,7 +26,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Andover, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
+        "address": "640 YMCA Drive, Andover, KS, 67002, US"
+      }
     },
     {
       "id": "a217c0ee-8807-45d8-9aea-1d978e4c1232",
@@ -33,7 +41,11 @@
       "site": "Home",
       "time": "9:20 AM",
       "location": "Andover, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
+        "address": "640 YMCA Drive, Andover, KS, 67002, US"
+      }
     },
     {
       "id": "24f10feb-164d-40cd-8a11-741260105b15",
@@ -55,7 +67,11 @@
       "site": "Away",
       "time": "12:40 PM",
       "location": "Andover, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
+        "address": "640 YMCA Drive, Andover, KS, 67002, US"
+      }
     },
     {
       "id": "82f0f83d-61b0-44fb-9380-97c3eecf8219",
@@ -66,7 +82,11 @@
       "site": "Away",
       "time": "1:30 PM",
       "location": "Andover, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
+        "address": "640 YMCA Drive, Andover, KS, 67002, US"
+      }
     },
     {
       "id": "41f6cd6b-7be4-4a17-bd75-7a244d961d55",
@@ -77,7 +97,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "b2654f3a-9703-4720-b7d0-4a032fdae2b4",
@@ -88,7 +112,11 @@
       "site": "Home",
       "time": "6:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "4911a71d-1a1f-48b5-aa50-023c5517d368",
@@ -103,6 +131,10 @@
         "visitor_score": 2,
         "home_score": 0,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
       }
     },
     {
@@ -114,7 +146,11 @@
       "site": "Away",
       "time": "7:30 PM",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "6ae06ca4-84ed-4b3e-b604-3ea7d3431bdc",
@@ -129,6 +165,10 @@
         "visitor_score": 0,
         "home_score": 2,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
       }
     },
     {
@@ -140,7 +180,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Springfield, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+      }
     },
     {
       "id": "2eb96a90-e3b7-4393-a236-1b75a82415e7",
@@ -155,6 +199,10 @@
         "visitor_score": 2,
         "home_score": 1,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
       }
     },
     {
@@ -170,6 +218,10 @@
         "visitor_score": 3,
         "home_score": 1,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "Allison Sports Town",
+        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
       }
     },
     {
@@ -181,7 +233,11 @@
       "site": "Away",
       "time": "5:30 PM",
       "location": "Mount Vernon, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
+      }
     },
     {
       "id": "c5ea93ec-ecdb-4dbb-82d6-d9fddbea8e2b",
@@ -196,6 +252,10 @@
         "visitor_score": 3,
         "home_score": 1,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "417 Athletics",
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
       }
     },
     {
@@ -207,7 +267,11 @@
       "site": "Away",
       "time": "12:30 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
+      }
     },
     {
       "id": "cdbc25ec-cfce-4b96-adbc-6795846a18b5",
@@ -252,6 +316,10 @@
         "visitor_score": 1,
         "home_score": 1,
         "outcome": "T"
+      },
+      "venue": {
+        "name": "Farha Sports Centers (South) - Greater Wichita YMCA",
+        "address": "3405 S Meridian Ave Bldgs. 2 and 3, Wichita, KS, 67217, US"
       }
     },
     {
@@ -267,6 +335,10 @@
         "visitor_score": 2,
         "home_score": 0,
         "outcome": "W"
+      },
+      "venue": {
+        "name": "Farha Sports Centers (South) - Greater Wichita YMCA",
+        "address": "3405 S Meridian Ave Bldgs. 2 and 3, Wichita, KS, 67217, US"
       }
     },
     {
@@ -278,7 +350,11 @@
       "site": "Home",
       "time": "4:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
+      }
     },
     {
       "id": "b3420886-7d06-4350-ad7a-cec766dbc5f2",
@@ -289,7 +365,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Republic, MO",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Calvary Baptist Church",
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
+      }
     },
     {
       "id": "b8ec9ec4-97fa-486c-a797-d325db303ac5",
@@ -300,7 +380,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "82e95f2a-b3d8-4545-84ba-f1dda95b319b",
@@ -311,7 +395,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "New Century, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
     },
     {
       "id": "ea2078ef-3fbb-4b18-a6b3-02489cf7165a",
@@ -322,7 +410,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "3f8b4623-d956-4ad7-8e0c-6f0741be4372",
@@ -333,7 +425,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "8c9e63c3-1469-4fca-9094-28010fd4e572",
@@ -344,7 +440,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "188de387-bb8e-43e0-becd-6419a453e7a3",
@@ -355,7 +455,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "3891ef8a-04bd-49b2-8061-ffadc48a871d",
@@ -366,7 +470,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Overland Park, KS",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
     },
     {
       "id": "cead40d6-0dad-4bcd-8010-f9621a21bec4",
@@ -377,7 +485,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Council Bluffs, IA",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Iowa West Field House",
+        "address": "5 Arena Way, Council Bluffs, IA, 51501, US"
+      }
     },
     {
       "id": "dce5d939-4777-4292-8e76-70ab0703ce8b",
@@ -388,7 +500,11 @@
       "site": "Away",
       "time": "TBD",
       "location": "Council Bluffs, IA",
-      "result": null
+      "result": null,
+      "venue": {
+        "name": "Iowa West Field House",
+        "address": "5 Arena Way, Council Bluffs, IA, 51501, US"
+      }
     }
   ]
 }
