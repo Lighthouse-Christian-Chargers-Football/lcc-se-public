@@ -198,6 +198,76 @@
   display: block !important;
 }
 
+/* ------------------------------------------------------------
+   Venue toggle (native <details>) under the matchup
+   ------------------------------------------------------------ */
+.lcc-ug-venue {
+  margin: 4px 0 0 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+.lcc-ug-venue > summary {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 4px !important;
+  padding: 4px 0 !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  color: #4a5568 !important;
+  cursor: pointer !important;
+  list-style: none !important;
+  user-select: none !important;
+}
+.lcc-ug-venue > summary::-webkit-details-marker {
+  display: none !important;
+}
+.lcc-ug-venue > summary::after {
+  content: "" !important;
+  width: 6px !important;
+  height: 6px !important;
+  margin-left: 2px !important;
+  border-right: 2px solid currentColor !important;
+  border-bottom: 2px solid currentColor !important;
+  transform: rotate(45deg) translateY(-2px) !important;
+  transition: transform 0.15s ease !important;
+}
+.lcc-ug-venue[open] > summary::after {
+  transform: rotate(225deg) translate(-1px, -1px) !important;
+}
+.lcc-ug-venue > summary:hover,
+.lcc-ug-venue[open] > summary {
+  color: var(--lcc-orange, #f36f21) !important;
+}
+.lcc-ug-venue > summary:focus-visible {
+  outline: 3px solid rgba(243, 111, 33, 0.5) !important;
+  outline-offset: 2px !important;
+  border-radius: 3px !important;
+}
+.lcc-ug-venue-body {
+  margin: 4px 0 2px 0 !important;
+  padding: 8px 10px !important;
+  border-left: 3px solid var(--lcc-orange, #f36f21) !important;
+  background: #f7f8fa !important;
+  font-size: 13px !important;
+  line-height: 1.4 !important;
+  color: #4a5568 !important;
+}
+.lcc-ug-venue-name {
+  display: block !important;
+  font-weight: 700 !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+}
+.lcc-ug-venue-addr {
+  display: block !important;
+}
+.lcc-ug-venue-map {
+  display: inline-block !important;
+  margin-top: 4px !important;
+  font-weight: 700 !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  text-decoration: underline !important;
+}
+
 .lcc-ug-msg {
   padding: 28px 16px !important;
   text-align: center !important;
