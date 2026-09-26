@@ -1,0 +1,237 @@
+/* ============================================================
+   ALL-SPORTS UPCOMING GAMES PAGE
+   Paired with chargers-common.css (brand variables). Same rules
+   as roster.css: !important everywhere so it wins against
+   SportsEngine's page CSS, and never "button-" in a class name.
+   ============================================================ */
+
+.lcc-ug {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  box-sizing: border-box !important;
+}
+.lcc-ug *, .lcc-ug *::before, .lcc-ug *::after {
+  box-sizing: border-box !important;
+}
+
+/* ------------------------------------------------------------
+   Sport filter (radio pills)
+   ------------------------------------------------------------ */
+.lcc-ug-filter {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 20 !important;
+  margin: 0 0 1.5rem 0 !important;
+  padding: 12px !important;
+  background: #ffffff !important;
+  border: 2px solid var(--lcc-navy, #0b2b4a) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(11, 43, 74, 0.12) !important;
+}
+.lcc-ug-filter legend {
+  float: left !important;
+  width: 100% !important;
+  margin: 0 0 8px 0 !important;
+  padding: 0 !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  text-transform: uppercase !important;
+  color: #4a5568 !important;
+}
+.lcc-ug-pills {
+  clear: both !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 8px !important;
+}
+/* The real radio stays in the DOM (keyboard + screen readers work
+   normally); only the label is visible. */
+.lcc-ug-radio {
+  position: absolute !important;
+  opacity: 0 !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: 0 !important;
+  pointer-events: none !important;
+}
+.lcc-ug-pill {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  padding: 8px 14px !important;
+  margin: 0 !important;
+  border: 1px solid #cbd5e0 !important;
+  border-radius: 999px !important;
+  background: #f7f8fa !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  transition: background-color 0.15s ease, border-color 0.15s ease !important;
+}
+.lcc-ug-pill:hover {
+  border-color: var(--lcc-orange, #f36f21) !important;
+}
+.lcc-ug-pill-count {
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  color: #6b7a8c !important;
+}
+.lcc-ug-radio:checked + .lcc-ug-pill {
+  background: var(--lcc-navy, #0b2b4a) !important;
+  border-color: var(--lcc-navy, #0b2b4a) !important;
+  color: #ffffff !important;
+}
+.lcc-ug-radio:checked + .lcc-ug-pill .lcc-ug-pill-count {
+  color: #ffd2b8 !important;
+}
+.lcc-ug-radio:focus-visible + .lcc-ug-pill {
+  outline: 3px solid rgba(243, 111, 33, 0.5) !important;
+  outline-offset: 2px !important;
+}
+
+/* ------------------------------------------------------------
+   Day groups
+   ------------------------------------------------------------ */
+.lcc-ug-day {
+  margin: 0 0 1.75rem 0 !important;
+}
+.lcc-ug-day-title {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  margin: 0 0 10px 0 !important;
+  padding-bottom: 8px !important;
+  border-bottom: 3px solid var(--lcc-orange, #f36f21) !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  text-transform: uppercase !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+}
+.lcc-ug-day-tag {
+  padding: 3px 8px !important;
+  border-radius: 4px !important;
+  background: var(--lcc-orange, #f36f21) !important;
+  color: #ffffff !important;
+  font-size: 11px !important;
+  letter-spacing: 1px !important;
+}
+
+/* ------------------------------------------------------------
+   Game rows
+   ------------------------------------------------------------ */
+.lcc-ug-list {
+  border: 1px solid #e1e8ed !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+}
+.lcc-ug-game {
+  display: grid !important;
+  grid-template-columns: 84px 1fr auto !important;
+  align-items: center !important;
+  gap: 4px 14px !important;
+  padding: 12px 14px !important;
+  border-bottom: 1px solid #eef1f4 !important;
+  background: #ffffff !important;
+}
+.lcc-ug-game:last-child {
+  border-bottom: none !important;
+}
+.lcc-ug-game:nth-child(even) {
+  background: #fbfcfd !important;
+}
+.lcc-ug-time {
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  white-space: nowrap !important;
+}
+.lcc-ug-main {
+  min-width: 0 !important;
+}
+.lcc-ug-sport {
+  display: block !important;
+  margin: 0 0 3px 0 !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  text-transform: uppercase !important;
+  color: var(--lcc-orange, #f36f21) !important;
+}
+.lcc-ug-matchup {
+  display: block !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 1.3 !important;
+}
+.lcc-ug-vs {
+  font-weight: 400 !important;
+  color: #6b7a8c !important;
+}
+.lcc-ug-where {
+  text-align: right !important;
+  font-size: 13px !important;
+  color: #4a5568 !important;
+}
+.lcc-ug-site {
+  display: inline-block !important;
+  margin: 0 0 3px 0 !important;
+  padding: 2px 8px !important;
+  border-radius: 4px !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  text-transform: uppercase !important;
+  background: #e6ebf1 !important;
+  color: var(--lcc-navy, #0b2b4a) !important;
+}
+.lcc-ug-site.is-home {
+  background: var(--lcc-navy, #0b2b4a) !important;
+  color: #ffffff !important;
+}
+.lcc-ug-location {
+  display: block !important;
+}
+
+.lcc-ug-msg {
+  padding: 28px 16px !important;
+  text-align: center !important;
+  font-size: 15px !important;
+  color: #4a5568 !important;
+  border: 1px dashed #cbd5e0 !important;
+  border-radius: 6px !important;
+}
+.lcc-ug-updated {
+  margin: 1rem 0 0 0 !important;
+  text-align: center !important;
+  font-size: 12px !important;
+  color: #8492a6 !important;
+}
+
+/* Phones: time + where share the top line, matchup below. */
+@media (max-width: 560px) {
+  .lcc-ug-game {
+    grid-template-columns: 1fr auto !important;
+  }
+  .lcc-ug-main {
+    grid-column: 1 / -1 !important;
+    grid-row: 2 !important;
+  }
+  .lcc-ug-where {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+  }
+  .lcc-ug-site {
+    margin: 0 !important;
+  }
+  .lcc-ug-pill {
+    padding: 7px 12px !important;
+    font-size: 13px !important;
+  }
+}
