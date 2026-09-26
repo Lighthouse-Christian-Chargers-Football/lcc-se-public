@@ -1,0 +1,29 @@
+{
+  "sports": [
+    {
+      "sport": "Boys Volleyball",
+      "slug": "boys-volleyball",
+      "file": "boys-volleyball.json"
+    },
+    {
+      "sport": "Cheer",
+      "slug": "cheer",
+      "file": "cheer.json"
+    },
+    {
+      "sport": "Football",
+      "slug": "football",
+      "file": "football.json"
+    },
+    {
+      "sport": "Girls Volleyball",
+      "slug": "girls-volleyball",
+      "file": "girls-volleyball.json"
+    },
+    {
+      "sport": "Tennis",
+      "slug": "tennis",
+      "file": "tennis.json"
+    }
+  ]
+}

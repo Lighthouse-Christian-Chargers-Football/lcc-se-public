@@ -1,0 +1,116 @@
+{
+  "sport": "Tennis",
+  "slug": "tennis",
+  "games": [
+    {
+      "id": "63031923-912e-4aad-a05c-083cc9099bef",
+      "start": "2026-08-27T16:30:00-05:00",
+      "team": "",
+      "date": "Aug 27",
+      "opponent": "Forsyth",
+      "site": "Home",
+      "time": "4:30 PM",
+      "location": "Ozark, MO",
+      "result": null
+    },
+    {
+      "id": "7d07a45d-52b9-4bc1-9915-556ec09a4d31",
+      "start": "2026-09-01T16:00:00-05:00",
+      "team": "",
+      "date": "Sept 1",
+      "opponent": "Logan-Rogersville",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Rogersville, MO",
+      "result": null
+    },
+    {
+      "id": "3ecf07cd-49f9-431d-b797-8b9c797a51ee",
+      "start": "2026-09-03T16:30:00-05:00",
+      "team": "",
+      "date": "Sept 3",
+      "opponent": "Ozark",
+      "site": "Home",
+      "time": "4:30 PM",
+      "location": "Ozark, MO",
+      "result": null
+    },
+    {
+      "id": "c310fbe7-ddf5-484c-b202-a57242f876f9",
+      "start": "2026-09-08T16:00:00-05:00",
+      "team": "",
+      "date": "Sept 8",
+      "opponent": "Willow Springs",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Ozark, MO",
+      "result": null
+    },
+    {
+      "id": "05efee5d-1f2a-475a-935c-5d6a8a1cd9d7",
+      "start": "2026-09-10T16:00:00-05:00",
+      "team": "",
+      "date": "Sept 10",
+      "opponent": "Central",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Springfield, MO",
+      "result": null
+    },
+    {
+      "id": "14fdac44-6a0f-4694-85b7-49aaff1ef464",
+      "start": "2026-09-15T16:30:00-05:00",
+      "team": "",
+      "date": "Sept 15",
+      "opponent": "Reeds Spring ",
+      "site": "Home",
+      "time": "4:30 PM",
+      "location": "Reeds Spring, MO",
+      "result": null
+    },
+    {
+      "id": "6556079e-dbda-4ae6-bb67-91ac03c2e222",
+      "start": "2026-09-21T16:30:00-05:00",
+      "team": "",
+      "date": "Sept 21",
+      "opponent": "Greenwood",
+      "site": "Home",
+      "time": "4:30 PM",
+      "location": "Springfield, MO",
+      "result": null
+    },
+    {
+      "id": "16805c45-9b5a-4d67-8427-f24ac5d08d3d",
+      "start": "2026-09-22T16:00:00-05:00",
+      "team": "",
+      "date": "Sept 22",
+      "opponent": "Branson",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Branson, MO",
+      "result": null
+    },
+    {
+      "id": "7d0e6084-a877-4e30-a916-9529ff826a09",
+      "start": "2026-09-24T16:00:00-05:00",
+      "team": "",
+      "date": "Sept 24",
+      "opponent": "Glendale",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Springfield, MO",
+      "result": null
+    },
+    {
+      "id": "67c1e804-b0cd-444c-8149-572082c122b2",
+      "start": "2026-10-01T16:00:00-05:00",
+      "team": "",
+      "date": "Oct 1",
+      "opponent": "Kickapoo",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "Springfield, MO",
+      "result": null
+    }
+  ]
+}
