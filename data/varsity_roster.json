@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:35:13+00:00",
+  "generated_at": "2026-09-27T05:35:33+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -148,6 +148,18 @@
       "position": "OL/DL"
     },
     {
+      "first_name": "Mason",
+      "last_initial": "L",
+      "number": "65",
+      "position": ""
+    },
+    {
+      "first_name": "Camden",
+      "last_initial": "C",
+      "number": "68",
+      "position": ""
+    },
+    {
       "first_name": "James",
       "last_initial": "P",
       "number": "70",
@@ -196,12 +208,6 @@
       "position": ""
     },
     {
-      "first_name": "Camden",
-      "last_initial": "C",
-      "number": "",
-      "position": ""
-    },
-    {
       "first_name": "Derrek",
       "last_initial": "C",
       "number": "",
@@ -210,12 +216,6 @@
     {
       "first_name": "David",
       "last_initial": "H",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "Mason",
-      "last_initial": "L",
       "number": "",
       "position": ""
     },
