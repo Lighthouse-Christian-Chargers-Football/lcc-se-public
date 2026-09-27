@@ -1,257 +1,290 @@
 {
-  "generated_at": "2026-09-27T05:35:33+00:00",
+  "generated_at": "2026-09-27T07:14:49+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
     {
-      "first_name": "Grant",
-      "last_initial": "C",
+      "name": "G. Clement",
       "number": "1",
       "position": "QB"
     },
     {
-      "first_name": "Jake",
-      "last_initial": "J",
+      "name": "J. Johnson",
       "number": "2",
       "position": "WR/OLB"
     },
     {
-      "first_name": "Aiden",
-      "last_initial": "L",
+      "name": "A. Lotter",
       "number": "4",
       "position": "WR/DE"
     },
     {
-      "first_name": "Jonah",
-      "last_initial": "S",
+      "name": "J. Smith",
       "number": "5",
       "position": "QB"
     },
     {
-      "first_name": "Hudson",
-      "last_initial": "R",
+      "name": "H. Rinkenbaugh",
       "number": "7",
       "position": "CB"
     },
     {
-      "first_name": "Nolan",
-      "last_initial": "W",
+      "name": "T. Dowell",
+      "number": "9",
+      "position": "OL/DL"
+    },
+    {
+      "name": "N. Williams",
       "number": "10",
       "position": "QB"
     },
     {
-      "first_name": "Jayden",
-      "last_initial": "M",
+      "name": "J. Mayo",
       "number": "12",
       "position": "WR/DE"
     },
     {
-      "first_name": "James",
-      "last_initial": "G",
+      "name": "J. Griffin",
       "number": "13",
       "position": "WR/CB"
     },
     {
-      "first_name": "Carson",
-      "last_initial": "S",
+      "name": "T. Meyer",
+      "number": "15",
+      "position": "RB/LB"
+    },
+    {
+      "name": "C. Spears",
       "number": "16",
       "position": "WR/FS"
     },
     {
-      "first_name": "Cooper",
-      "last_initial": "G",
+      "name": "O. Mboob",
+      "number": "17",
+      "position": "OL/DL"
+    },
+    {
+      "name": "C. Garton",
       "number": "19",
       "position": "WR/DE"
     },
     {
-      "first_name": "Karsten",
-      "last_initial": "T",
+      "name": "K. Tallman",
       "number": "21",
       "position": "RB/FS"
     },
     {
-      "first_name": "Tymon",
-      "last_initial": "G",
+      "name": "T. Grundy",
       "number": "22",
       "position": "WR/OLB"
     },
     {
-      "first_name": "Samuel",
-      "last_initial": "C",
+      "name": "S. Clouse",
       "number": "23",
       "position": "RB/CB"
     },
     {
-      "first_name": "Joshua",
-      "last_initial": "S",
+      "name": "J. Purvis",
+      "number": "24",
+      "position": "WR/CB"
+    },
+    {
+      "name": "J. Schaffitzel",
       "number": "25",
       "position": "RB/OLB"
     },
     {
-      "first_name": "Nathanael",
-      "last_initial": "S",
+      "name": "N. Shelton",
       "number": "26",
       "position": "RB/DL"
     },
     {
-      "first_name": "Isaac",
-      "last_initial": "P",
+      "name": "I. Perryman",
       "number": "29",
       "position": "WR/CB"
     },
     {
-      "first_name": "Malachi",
-      "last_initial": "K",
+      "name": "M. Keith",
       "number": "31",
       "position": "RB/LB"
     },
     {
-      "first_name": "Eli",
-      "last_initial": "F",
+      "name": "L. Ward",
+      "number": "32",
+      "position": "RB/CB"
+    },
+    {
+      "name": "E. Freeland",
       "number": "33",
       "position": "CB"
     },
     {
-      "first_name": "Noah",
-      "last_initial": "H",
+      "name": "N. Harmon",
       "number": "34",
       "position": "LB"
     },
     {
-      "first_name": "David",
-      "last_initial": "W",
+      "name": "A. Harmon",
+      "number": "35",
+      "position": "CB"
+    },
+    {
+      "name": "D. Warner",
       "number": "36",
       "position": "CB"
     },
     {
-      "first_name": "Zachary",
-      "last_initial": "C",
+      "name": "O. Reppert",
+      "number": "41",
+      "position": "WR/CB"
+    },
+    {
+      "name": "T. Godfrey",
+      "number": "42",
+      "position": "WR/LB"
+    },
+    {
+      "name": "B. Wilkins",
+      "number": "43",
+      "position": "CB"
+    },
+    {
+      "name": "Z. Clement",
       "number": "44",
       "position": "RB/CB"
     },
     {
-      "first_name": "Aaric",
-      "last_initial": "A",
+      "name": "N. Thompson",
+      "number": "45",
+      "position": "WR/OLB"
+    },
+    {
+      "name": "L. Adler",
+      "number": "46",
+      "position": "QB"
+    },
+    {
+      "name": "A. Arrington",
       "number": "56",
       "position": "OL/DL"
     },
     {
-      "first_name": "Sebastian",
-      "last_initial": "B",
+      "name": "S. Bentz",
       "number": "59",
       "position": ""
     },
     {
-      "first_name": "Brenden",
-      "last_initial": "P",
+      "name": "L. Smith",
+      "number": "61",
+      "position": "OL/DL"
+    },
+    {
+      "name": "B. Preston",
       "number": "62",
       "position": "OL/DL"
     },
     {
-      "first_name": "Mason",
-      "last_initial": "L",
+      "name": "B. Sparks",
+      "number": "63",
+      "position": "OL/DL"
+    },
+    {
+      "name": "E. Howard",
+      "number": "64",
+      "position": "OL/DL"
+    },
+    {
+      "name": "M. Linch",
       "number": "65",
-      "position": ""
+      "position": "OL/DL"
     },
     {
-      "first_name": "Camden",
-      "last_initial": "C",
+      "name": "D. Cunningham",
+      "number": "67",
+      "position": "OL/DL"
+    },
+    {
+      "name": "C. Cain",
       "number": "68",
-      "position": ""
+      "position": "OL/DL"
     },
     {
-      "first_name": "James",
-      "last_initial": "P",
+      "name": "J. Pfeifer",
       "number": "70",
       "position": "OL/DL"
     },
     {
-      "first_name": "Garrett",
-      "last_initial": "G",
+      "name": "E. Mendez",
+      "number": "72",
+      "position": "OL/DL"
+    },
+    {
+      "name": "G. Goff",
       "number": "73",
       "position": "OL/DL"
     },
     {
-      "first_name": "Levi",
-      "last_initial": "W",
+      "name": "D. Hall",
+      "number": "74",
+      "position": "OL/DL"
+    },
+    {
+      "name": "L. Wahl",
+      "number": "80",
+      "position": "TE/DE"
+    },
+    {
+      "name": "A. Miller",
+      "number": "82",
+      "position": "WR/CB"
+    },
+    {
+      "name": "I. Applegate",
+      "number": "84",
+      "position": "WR/CB"
+    },
+    {
+      "name": "L. Wahl",
       "number": "85",
       "position": "TE/DE"
     },
     {
-      "first_name": "Titus",
-      "last_initial": "D",
-      "number": "9 & 55",
-      "position": "OL/DL"
+      "name": "B. Alarid",
+      "number": "87",
+      "position": "WR/CB"
     },
     {
-      "first_name": "Oliver",
-      "last_initial": "M",
-      "number": "17 & 57",
-      "position": "OL/DL"
+      "name": "D. Wallace",
+      "number": "89",
+      "position": "WR/CB"
     },
     {
-      "first_name": "Andrew",
-      "last_initial": "M",
+      "name": "L. Hilburn",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "Landon",
-      "last_initial": "H",
+      "name": "J. Rahn",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "Jojo",
-      "last_initial": "R",
+      "name": "A. Meadows",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "Derrek",
-      "last_initial": "C",
+      "name": "D. Jones",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "David",
-      "last_initial": "H",
+      "name": "C. Gelz",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "Toby",
-      "last_initial": "M",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "Nolan",
-      "last_initial": "T",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "Luke",
-      "last_initial": "W",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "Ashton",
-      "last_initial": "M",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "Dillon",
-      "last_initial": "J",
-      "number": "",
-      "position": ""
-    },
-    {
-      "first_name": "David",
-      "last_initial": "W",
+      "name": "K. Gelz",
       "number": "",
       "position": ""
     }

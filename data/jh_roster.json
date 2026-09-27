@@ -1,257 +1,215 @@
 {
-  "generated_at": "2026-09-21T14:59:12+00:00",
+  "generated_at": "2026-09-27T07:14:49+00:00",
   "team": "jh",
   "team_label": "Junior High",
   "players": [
     {
-      "first_name": "Cade",
-      "last_initial": "N",
+      "name": "C. Nene",
       "number": "4",
       "position": ""
     },
     {
-      "first_name": "Westin",
-      "last_initial": "P",
+      "name": "W. Pytel",
       "number": "5",
       "position": ""
     },
     {
-      "first_name": "Sterling",
-      "last_initial": "G",
+      "name": "S. Goodall",
       "number": "6",
       "position": ""
     },
     {
-      "first_name": "Benjamin",
-      "last_initial": "F",
+      "name": "B. Fahlstrom",
       "number": "7",
       "position": ""
     },
     {
-      "first_name": "Elias",
-      "last_initial": "M",
+      "name": "E. Marcum",
       "number": "8",
       "position": ""
     },
     {
-      "first_name": "Jude",
-      "last_initial": "W",
+      "name": "J. Williams",
       "number": "9",
       "position": ""
     },
     {
-      "first_name": "Henry",
-      "last_initial": "S",
+      "name": "H. Sutton",
       "number": "10",
       "position": ""
     },
     {
-      "first_name": "Quincy",
-      "last_initial": "M",
+      "name": "Q. Mboob",
       "number": "11",
       "position": ""
     },
     {
-      "first_name": "Beau",
-      "last_initial": "W",
+      "name": "B. Webster",
       "number": "12",
       "position": ""
     },
     {
-      "first_name": "Asher",
-      "last_initial": "P",
+      "name": "A. Pirlet",
       "number": "13",
       "position": ""
     },
     {
-      "first_name": "Zeke",
-      "last_initial": "E",
+      "name": "Z. Eastman",
       "number": "14",
       "position": ""
     },
     {
-      "first_name": "Grayson",
-      "last_initial": "F",
+      "name": "G. Frantz",
       "number": "15",
       "position": ""
     },
     {
-      "first_name": "Elijah",
-      "last_initial": "R",
+      "name": "E. Robinson",
       "number": "17",
       "position": ""
     },
     {
-      "first_name": "Austin",
-      "last_initial": "B",
+      "name": "A. Boykin",
       "number": "19",
       "position": ""
     },
     {
-      "first_name": "Atlas",
-      "last_initial": "C",
+      "name": "A. Carpenter",
       "number": "21",
       "position": ""
     },
     {
-      "first_name": "Sean",
-      "last_initial": "E",
+      "name": "S. Ellis",
       "number": "22",
       "position": ""
     },
     {
-      "first_name": "Maddox",
-      "last_initial": "D",
+      "name": "M. Daniel",
       "number": "25",
       "position": ""
     },
     {
-      "first_name": "Troy",
-      "last_initial": "S",
+      "name": "T. Sparkman",
       "number": "28",
       "position": ""
     },
     {
-      "first_name": "Elijah",
-      "last_initial": "A",
+      "name": "E. Adkins",
       "number": "33",
       "position": ""
     },
     {
-      "first_name": "Micah",
-      "last_initial": "H",
+      "name": "M. Hall",
       "number": "35",
       "position": ""
     },
     {
-      "first_name": "Mitchell",
-      "last_initial": "D",
+      "name": "M. Dye",
       "number": "38",
       "position": ""
     },
     {
-      "first_name": "Cohen",
-      "last_initial": "B",
+      "name": "C. Braschler",
       "number": "39",
       "position": ""
     },
     {
-      "first_name": "Jase",
-      "last_initial": "R",
+      "name": "J. Riley",
       "number": "40",
       "position": ""
     },
     {
-      "first_name": "Landen",
-      "last_initial": "R",
+      "name": "L. Riley",
       "number": "42",
       "position": ""
     },
     {
-      "first_name": "John",
-      "last_initial": "W",
+      "name": "J. Wiles",
       "number": "46",
       "position": ""
     },
     {
-      "first_name": "Luke",
-      "last_initial": "P",
+      "name": "L. Phillips",
       "number": "53",
       "position": ""
     },
     {
-      "first_name": "Parker",
-      "last_initial": "R",
+      "name": "P. Ransom",
       "number": "55",
       "position": ""
     },
     {
-      "first_name": "Charlie",
-      "last_initial": "N",
+      "name": "C. Naylor",
       "number": "56",
       "position": ""
     },
     {
-      "first_name": "Merrick",
-      "last_initial": "C",
+      "name": "M. Casteel",
       "number": "58",
       "position": ""
     },
     {
-      "first_name": "Rylee",
-      "last_initial": "F",
+      "name": "R. Funk",
       "number": "60",
       "position": ""
     },
     {
-      "first_name": "Landry",
-      "last_initial": "B",
+      "name": "L. Blair",
       "number": "61",
       "position": ""
     },
     {
-      "first_name": "Samuel",
-      "last_initial": "B",
+      "name": "S. Broome",
       "number": "63",
       "position": ""
     },
     {
-      "first_name": "Jasper",
-      "last_initial": "S",
+      "name": "J. Stockton",
       "number": "68",
       "position": ""
     },
     {
-      "first_name": "Asher",
-      "last_initial": "A",
+      "name": "A. Allen",
       "number": "70",
       "position": ""
     },
     {
-      "first_name": "Jay",
-      "last_initial": "M",
+      "name": "J. Mahadevan",
       "number": "72",
       "position": ""
     },
     {
-      "first_name": "Zachary",
-      "last_initial": "W",
+      "name": "Z. Wilson",
       "number": "75",
       "position": ""
     },
     {
-      "first_name": "Brooks",
-      "last_initial": "B",
+      "name": "B. Beckham",
       "number": "82",
       "position": ""
     },
     {
-      "first_name": "Drake",
-      "last_initial": "G",
+      "name": "D. Gilvin",
       "number": "84",
       "position": ""
     },
     {
-      "first_name": "Graydon",
-      "last_initial": "W",
+      "name": "G. Woods",
       "number": "88",
       "position": ""
     },
     {
-      "first_name": "Payton",
-      "last_initial": "S",
+      "name": "P. Sanders",
       "number": "89",
       "position": ""
     },
     {
-      "first_name": "Tristan",
-      "last_initial": "T",
+      "name": "T. Tuttle",
       "number": "",
       "position": ""
     },
     {
-      "first_name": "Landon",
-      "last_initial": "W",
+      "name": "L. Wheatley",
       "number": "",
       "position": ""
     }
