@@ -21,6 +21,11 @@
       "file": "girls-volleyball.json"
     },
     {
+      "sport": "Other",
+      "slug": "other",
+      "file": "other.json"
+    },
+    {
       "sport": "Tennis",
       "slug": "tennis",
       "file": "tennis.json"
