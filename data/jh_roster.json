@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:14:49+00:00",
+  "generated_at": "2026-09-28T15:12:06+00:00",
   "team": "jh",
   "team_label": "Junior High",
   "players": [
@@ -194,6 +194,11 @@
       "position": ""
     },
     {
+      "name": "L. Wheatley",
+      "number": "87",
+      "position": ""
+    },
+    {
       "name": "G. Woods",
       "number": "88",
       "position": ""
@@ -201,16 +206,6 @@
     {
       "name": "P. Sanders",
       "number": "89",
-      "position": ""
-    },
-    {
-      "name": "T. Tuttle",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "L. Wheatley",
-      "number": "",
       "position": ""
     }
   ],
@@ -232,27 +227,15 @@
       "position": ""
     },
     {
-      "name": "Brett Williams",
-      "position": ""
-    },
-    {
       "name": "Ryan Eastman",
       "position": "JH Head Coach"
-    },
-    {
-      "name": "Jami Arrington",
-      "position": ""
     },
     {
       "name": "Titan Price",
       "position": "Offense/QB"
     },
     {
-      "name": "Nicole Hilburn",
-      "position": ""
-    },
-    {
-      "name": "William Cox",
+      "name": "Jericho Eastman",
       "position": ""
     }
   ]

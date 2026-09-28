@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:21:49+00:00",
+  "generated_at": "2026-09-28T15:12:06+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -280,10 +280,6 @@
     }
   ],
   "coaches": [
-    {
-      "name": "Brett Williams",
-      "position": "Varsity Head Coach"
-    },
     {
       "name": "Michael Mboob",
       "position": "Defensive Coord / RB's"

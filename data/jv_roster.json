@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:21:49+00:00",
+  "generated_at": "2026-09-28T15:12:06+00:00",
   "team": "jv",
   "team_label": "Junior Varsity",
   "players": [
@@ -145,14 +145,6 @@
     {
       "name": "Jason Arrington",
       "position": ""
-    },
-    {
-      "name": "Brett Williams",
-      "position": ""
-    },
-    {
-      "name": "Elisabeth Warner",
-      "position": "Support"
     }
   ]
 }
