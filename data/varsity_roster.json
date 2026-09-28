@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:45:21+00:00",
+  "generated_at": "2026-09-28T23:19:47+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -177,11 +177,6 @@
       "name": "A. Meadows",
       "number": "58",
       "position": "OL/DL"
-    },
-    {
-      "name": "S. Bentz",
-      "number": "59",
-      "position": ""
     },
     {
       "name": "L. Smith",
