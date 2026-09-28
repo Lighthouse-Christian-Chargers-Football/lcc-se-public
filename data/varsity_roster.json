@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:14:49+00:00",
+  "generated_at": "2026-09-28T03:21:49+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -104,6 +104,11 @@
       "position": "WR/CB"
     },
     {
+      "name": "L. Hilburn",
+      "number": "30",
+      "position": "LB"
+    },
+    {
       "name": "M. Keith",
       "number": "31",
       "position": "RB/LB"
@@ -169,6 +174,11 @@
       "position": "OL/DL"
     },
     {
+      "name": "A. Meadows",
+      "number": "58",
+      "position": "OL/DL"
+    },
+    {
       "name": "S. Bentz",
       "number": "59",
       "position": ""
@@ -229,9 +239,19 @@
       "position": "OL/DL"
     },
     {
+      "name": "D. Jones",
+      "number": "75",
+      "position": "OL/DL"
+    },
+    {
       "name": "L. Wahl",
       "number": "80",
       "position": "TE/DE"
+    },
+    {
+      "name": "J. Rahn",
+      "number": "81",
+      "position": "WR/OLB"
     },
     {
       "name": "A. Miller",
@@ -257,36 +277,6 @@
       "name": "D. Wallace",
       "number": "89",
       "position": "WR/CB"
-    },
-    {
-      "name": "L. Hilburn",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "J. Rahn",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "A. Meadows",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "D. Jones",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "C. Gelz",
-      "number": "",
-      "position": ""
-    },
-    {
-      "name": "K. Gelz",
-      "number": "",
-      "position": ""
     }
   ],
   "coaches": [
