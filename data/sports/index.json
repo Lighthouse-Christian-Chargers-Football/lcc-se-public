@@ -11,6 +11,11 @@
       "file": "cheer.json"
     },
     {
+      "sport": "Cross Country",
+      "slug": "cross-country",
+      "file": "cross-country.json"
+    },
+    {
       "sport": "Football",
       "slug": "football",
       "file": "football.json"
@@ -19,11 +24,6 @@
       "sport": "Girls Volleyball",
       "slug": "girls-volleyball",
       "file": "girls-volleyball.json"
-    },
-    {
-      "sport": "Other",
-      "slug": "other",
-      "file": "other.json"
     },
     {
       "sport": "Tennis",
