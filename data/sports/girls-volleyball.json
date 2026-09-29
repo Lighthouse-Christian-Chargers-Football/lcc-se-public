@@ -1930,6 +1930,126 @@
       }
     },
     {
+      "id": "82f6cab1-5e97-4b02-a19f-74c693efa197",
+      "start": "2026-10-02T10:00:00-05:00",
+      "team": "JV",
+      "date": "Oct 2",
+      "opponent": "Des Moines Eclipse",
+      "site": "Home",
+      "time": "10:00 AM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "c9752651-98f2-4958-bbe1-72d54608bdcd",
+      "start": "2026-10-02T11:00:00-05:00",
+      "team": "JV Combined (JVC)",
+      "date": "Oct 2",
+      "opponent": "North Iowa Lions",
+      "site": "Home",
+      "time": "11:00 AM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "bd51cdba-c444-48b2-8eda-960da188c79e",
+      "start": "2026-10-02T12:00:00-05:00",
+      "team": "12U",
+      "date": "Oct 2",
+      "opponent": "KC Metro Mavs",
+      "site": "Home",
+      "time": "12:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "50189e38-a12d-48ac-97d7-97b8362a9eb6",
+      "start": "2026-10-02T13:00:00-05:00",
+      "team": "JV Combined (JVC)",
+      "date": "Oct 2",
+      "opponent": "Lincoln Cougars",
+      "site": "Away",
+      "time": "1:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "d16fe7a4-bdb4-4726-9546-369799452396",
+      "start": "2026-10-02T14:00:00-05:00",
+      "team": "12U",
+      "date": "Oct 2",
+      "opponent": "OK Flame",
+      "site": "Home",
+      "time": "2:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "ebf117bc-d651-4584-99f7-b1e37ba9f805",
+      "start": "2026-10-02T16:00:00-05:00",
+      "team": "12U",
+      "date": "Oct 2",
+      "opponent": "Net Force Falcons",
+      "site": "Away",
+      "time": "4:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "abf9eeab-90be-40c0-a11c-15ec544ddb0e",
+      "start": "2026-10-02T16:00:00-05:00",
+      "team": "14U",
+      "date": "Oct 2",
+      "opponent": "Wichita Defenders",
+      "site": "Home",
+      "time": "4:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
+      "id": "7540a8b0-7c90-4af9-9aaa-6ed6f133ee97",
+      "start": "2026-10-02T17:00:00-05:00",
+      "team": "Varsity",
+      "date": "Oct 2",
+      "opponent": "Des Moines Eclipse",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "New Century, KS",
+      "result": null,
+      "venue": {
+        "name": "New Century Fieldhouse",
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
+      }
+    },
+    {
       "id": "a073489f-c224-410a-99be-ce77d26c5750",
       "start": "2026-10-03",
       "team": "12U",
