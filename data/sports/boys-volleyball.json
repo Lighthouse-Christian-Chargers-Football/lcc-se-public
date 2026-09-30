@@ -56,7 +56,11 @@
       "site": "Home",
       "time": "10:10 AM",
       "location": "",
-      "result": null
+      "result": {
+        "visitor_score": 2,
+        "home_score": 0,
+        "outcome": "L"
+      }
     },
     {
       "id": "b607a119-fb58-4eb2-8fbc-e0b0a3d54a5b",
@@ -82,7 +86,11 @@
       "site": "Away",
       "time": "1:30 PM",
       "location": "Andover, KS",
-      "result": null,
+      "result": {
+        "visitor_score": 0,
+        "home_score": 2,
+        "outcome": "L"
+      },
       "venue": {
         "name": "Farha Sports Centers (Andover) - Greater Wichita YMCA",
         "address": "640 YMCA Drive, Andover, KS, 67002, US"
@@ -134,7 +142,7 @@
       },
       "venue": {
         "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
+        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
       }
     },
     {
@@ -365,7 +373,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Republic, MO",
-      "result": null,
+      "result": {
+        "visitor_score": 1,
+        "home_score": 3,
+        "outcome": "W"
+      },
       "venue": {
         "name": "Calvary Baptist Church",
         "address": "804 U.S. 60, Republic, MO, 65738, US"
