@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:12:03+00:00",
+  "generated_at": "2026-10-01T21:29:11+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -277,7 +277,8 @@
       "site": "Away",
       "time": "7:00 PM",
       "location": "Strafford, MO",
-      "result": null
+      "result": null,
+      "status": "Canceled"
     },
     {
       "date": "Oct 10",
