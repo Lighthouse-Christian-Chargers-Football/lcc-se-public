@@ -208,10 +208,11 @@
   font-weight: bold !important;
 }
 
-/* Postponed / delayed game (SportsEngine game status), shown in place of
+/* Canceled / postponed / delayed game (SportsEngine game status), shown in place of
    the time - set by statusCell() in 2026-game-schedules.html. Same
    bold-text-only treatment as the results above so the share image
    (which copies each cell's computed color) picks it up as-is. */
+.chargers-status-canceled,
 .chargers-status-postponed {
   color: #c0392b !important;
   font-weight: bold !important;
