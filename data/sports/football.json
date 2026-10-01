@@ -242,21 +242,6 @@
       }
     },
     {
-      "id": "6c5ed2b7-6825-4f64-a7b3-93fa65ebb34e",
-      "start": "2026-10-01T19:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 1",
-      "opponent": "Strafford",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO 65757, US"
-      }
-    },
-    {
       "id": "67c82940-1e63-489d-9232-466c035509e6",
       "start": "2026-10-03T15:00:00-05:00",
       "team": "Varsity",

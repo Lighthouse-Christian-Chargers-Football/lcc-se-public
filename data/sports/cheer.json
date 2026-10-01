@@ -134,36 +134,6 @@
       }
     },
     {
-      "id": "e52fc34b-3e2d-46b4-9c76-77db606f819f",
-      "start": "2026-09-07T18:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Sept 7",
-      "opponent": "Pierce City",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Pierce City, MO",
-      "result": null,
-      "venue": {
-        "name": "Pierce City High School",
-        "address": "300 North Myrtle Street, Pierce City, MO, 65723, US"
-      }
-    },
-    {
-      "id": "f1af3eee-259d-45ca-af5f-2f5b200fa5c3",
-      "start": "2026-09-07T18:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Sept 7",
-      "opponent": "Pierce City",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Pierce City, MO",
-      "result": null,
-      "venue": {
-        "name": "Pierce City High School",
-        "address": "300 North Myrtle Street, Pierce City, MO, 65723, US"
-      }
-    },
-    {
       "id": "8c07dd06-8b4b-4bfa-8aec-222e49709f0f",
       "start": "2026-09-08T18:00:00-05:00",
       "team": "Junior Varsity",
