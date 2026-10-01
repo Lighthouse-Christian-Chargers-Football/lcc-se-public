@@ -419,36 +419,6 @@
       }
     },
     {
-      "id": "57c4842b-4cdc-403f-8d9f-af8ad41b0244",
-      "start": "2026-10-01T19:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 1",
-      "opponent": "Strafford",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
-      }
-    },
-    {
-      "id": "29b0c31d-5db9-4784-bf7d-6707389bf9fb",
-      "start": "2026-10-01T19:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Oct 1",
-      "opponent": "Strafford",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
-      }
-    },
-    {
       "id": "482b98dc-f468-453c-95e4-e68c2281789a",
       "start": "2026-10-03T15:00:00-05:00",
       "team": "Junior Varsity",
