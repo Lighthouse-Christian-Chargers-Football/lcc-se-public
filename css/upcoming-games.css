@@ -151,6 +151,40 @@
   font-weight: 700 !important;
   white-space: nowrap !important;
 }
+/* Postponed / delayed badge in the time column */
+.lcc-ug-status {
+  display: inline-block !important;
+  padding: 2px 7px !important;
+  border-radius: 4px !important;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+  text-transform: uppercase !important;
+  color: #ffffff !important;
+}
+.lcc-ug-status.is-postponed {
+  background: #c0392b !important;
+}
+.lcc-ug-status.is-delayed {
+  background: #b45309 !important;
+}
+.lcc-ug-time-was {
+  display: block !important;
+  margin-top: 3px !important;
+  font-size: 13px !important;
+}
+.lcc-ug-time-was.is-struck {
+  text-decoration: line-through !important;
+  color: #8492a6 !important;
+  font-weight: 400 !important;
+}
+@media (max-width: 560px) {
+  .lcc-ug-time-was {
+    display: inline !important;
+    margin: 0 0 0 6px !important;
+  }
+}
+
 .lcc-ug-main {
   min-width: 0 !important;
 }
