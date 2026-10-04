@@ -250,7 +250,11 @@
       "site": "Home",
       "time": "3:00 PM",
       "location": "Rogersville, MO",
-      "result": null,
+      "result": {
+        "visitor_score": 12,
+        "home_score": 48,
+        "outcome": "W"
+      },
       "venue": {
         "name": "Logan-Rogersville High School",
         "address": "300 N Missouri Blvd, Rogersville, MO 65742, US"
