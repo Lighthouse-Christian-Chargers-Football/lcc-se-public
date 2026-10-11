@@ -269,7 +269,11 @@
       "site": "Away",
       "time": "12:00 PM",
       "location": "Oklahoma City, OK",
-      "result": null,
+      "result": {
+        "visitor_score": 0,
+        "home_score": 47,
+        "outcome": "L"
+      },
       "venue": {
         "name": "OKC Patriots",
         "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
@@ -284,7 +288,11 @@
       "site": "Away",
       "time": "3:30 PM",
       "location": "Oklahoma City, OK",
-      "result": null,
+      "result": {
+        "visitor_score": 49,
+        "home_score": 13,
+        "outcome": "W"
+      },
       "venue": {
         "name": "OKC Patriots",
         "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
@@ -299,7 +307,11 @@
       "site": "Away",
       "time": "6:30 PM",
       "location": "Oklahoma City, OK",
-      "result": null,
+      "result": {
+        "visitor_score": 50,
+        "home_score": 0,
+        "outcome": "W"
+      },
       "venue": {
         "name": "OKC Patriots",
         "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
