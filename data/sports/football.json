@@ -48,7 +48,7 @@
       },
       "venue": {
         "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO 65809, US"
+        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
       }
     },
     {
@@ -67,7 +67,7 @@
       },
       "venue": {
         "name": "Crane Middle School",
-        "address": "209 Pirate Lane, Crane, MO 65633, US"
+        "address": "209 Pirate Lane, Crane, MO, 65633, US"
       }
     },
     {
@@ -86,7 +86,7 @@
       },
       "venue": {
         "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO 65742, US"
+        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -105,7 +105,7 @@
       },
       "venue": {
         "name": "Willow Springs High School",
-        "address": "215 West 4th Street, Willow Springs, MO 65793, US"
+        "address": "215 West 4th Street, Willow Springs, MO, 65793, US"
       }
     },
     {
@@ -124,7 +124,7 @@
       },
       "venue": {
         "name": "Central High School",
-        "address": "423 East Central Street, Springfield, MO 65802, US"
+        "address": "423 East Central Street, Springfield, MO, 65802, US"
       }
     },
     {
@@ -143,7 +143,7 @@
       },
       "venue": {
         "name": "Blair Oaks High School",
-        "address": "6121 Falcon Lane, Wardsville, MO 65101, US"
+        "address": "6121 Falcon Lane, Wardsville, MO, 65101, US"
       }
     },
     {
@@ -162,7 +162,7 @@
       },
       "venue": {
         "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO 65803, US"
+        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
       }
     },
     {
@@ -181,7 +181,7 @@
       },
       "venue": {
         "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO 65807, US"
+        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -200,7 +200,7 @@
       },
       "venue": {
         "name": "El Dorado Springs High School",
-        "address": "901 South Grand Avenue, El Dorado Springs, MO 64744, US"
+        "address": "901 South Grand Avenue, El Dorado Springs, MO, 64744, US"
       }
     },
     {
@@ -219,7 +219,7 @@
       },
       "venue": {
         "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO 65742, US"
+        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -238,7 +238,7 @@
       },
       "venue": {
         "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO 65742, US"
+        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "venue": {
         "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO 65742, US"
+        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -276,7 +276,7 @@
       },
       "venue": {
         "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
+        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
       }
     },
     {
@@ -295,7 +295,7 @@
       },
       "venue": {
         "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
+        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
       }
     },
     {
@@ -314,7 +314,7 @@
       },
       "venue": {
         "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK 73109, US"
+        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
       }
     },
     {
@@ -329,7 +329,7 @@
       "result": null,
       "venue": {
         "name": "Christ Prep Patriots",
-        "address": "2140 East Sheridan Street, Olathe, KS 66062, US"
+        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
       }
     },
     {
@@ -344,7 +344,7 @@
       "result": null,
       "venue": {
         "name": "Christ Prep Patriots",
-        "address": "2140 East Sheridan Street, Olathe, KS 66062, US"
+        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
       }
     },
     {
@@ -359,7 +359,7 @@
       "result": null,
       "venue": {
         "name": "Christ Prep Patriots",
-        "address": "2140 East Sheridan Street, Olathe, KS 66062, US"
+        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
       }
     },
     {
@@ -389,7 +389,7 @@
       "result": null,
       "venue": {
         "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO 65721, US"
+        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
       }
     },
     {

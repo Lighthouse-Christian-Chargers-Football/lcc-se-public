@@ -29,7 +29,7 @@
       "result": null,
       "venue": {
         "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
       }
     },
     {
@@ -44,7 +44,7 @@
       "result": null,
       "venue": {
         "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
       }
     },
     {
@@ -59,7 +59,7 @@
       "result": null,
       "venue": {
         "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS 66218, US"
+        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
       }
     },
     {
@@ -269,7 +269,7 @@
       "result": null,
       "venue": {
         "name": "New Covenant Academy-Warrior Campus",
-        "address": "3304 South Cox Road, Springfield, MO 65807, US"
+        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
       }
     },
     {
@@ -359,7 +359,7 @@
       "result": null,
       "venue": {
         "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
       }
     },
     {
@@ -389,7 +389,7 @@
       "result": null,
       "venue": {
         "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
       }
     },
     {
@@ -449,7 +449,7 @@
       "result": null,
       "venue": {
         "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO 65809, US"
+        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
       }
     },
     {
@@ -464,7 +464,7 @@
       "result": null,
       "venue": {
         "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO 65809, US"
+        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
       }
     },
     {
@@ -539,7 +539,7 @@
       "result": null,
       "venue": {
         "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
       }
     },
     {
@@ -614,7 +614,7 @@
       "result": null,
       "venue": {
         "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO 65802, US"
+        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
       }
     },
     {
@@ -854,7 +854,7 @@
       "result": null,
       "venue": {
         "name": "Marionville High School",
-        "address": "17725 Missouri 14, Marionville, MO 65705, US"
+        "address": "17725 Missouri 14, Marionville, MO, 65705, US"
       }
     },
     {
@@ -884,7 +884,7 @@
       "result": null,
       "venue": {
         "name": "Marionville High School",
-        "address": "17725 Missouri 14, Marionville, MO 65705, US"
+        "address": "17725 Missouri 14, Marionville, MO, 65705, US"
       }
     },
     {
@@ -1135,7 +1135,7 @@
       "result": null,
       "venue": {
         "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO 65738, US"
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
       }
     },
     {
@@ -1150,7 +1150,7 @@
       "result": null,
       "venue": {
         "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO 65738, US"
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
       }
     },
     {
@@ -1165,7 +1165,7 @@
       "result": null,
       "venue": {
         "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO 65738, US"
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
       }
     },
     {
@@ -1180,7 +1180,7 @@
       "result": null,
       "venue": {
         "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO 65738, US"
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
       }
     },
     {
@@ -1195,7 +1195,7 @@
       "result": null,
       "venue": {
         "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO 65738, US"
+        "address": "804 U.S. 60, Republic, MO, 65738, US"
       }
     },
     {
@@ -1225,7 +1225,7 @@
       "result": null,
       "venue": {
         "name": "St Elizabeth Ann Seton Church And School",
-        "address": "2200 West Republic Road, Springfield, MO 65807, US"
+        "address": "2200 West Republic Road, Springfield, MO, 65807, US"
       }
     },
     {
@@ -1255,7 +1255,7 @@
       "result": null,
       "venue": {
         "name": "Hollister High School",
-        "address": "2112 State Highway BB, Hollister, MO 65672, US"
+        "address": "2112 State Highway BB, Hollister, MO, 65672, US"
       }
     },
     {
@@ -1300,7 +1300,7 @@
       "result": null,
       "venue": {
         "name": "New Covenant Academy-Warrior Campus",
-        "address": "3304 South Cox Road, Springfield, MO 65807, US"
+        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
       }
     },
     {
@@ -1465,7 +1465,7 @@
       "result": null,
       "venue": {
         "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO 65807, US"
+        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -1480,7 +1480,7 @@
       "result": null,
       "venue": {
         "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO 65807, US"
+        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -1596,7 +1596,7 @@
       "result": null,
       "venue": {
         "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
       }
     },
     {
@@ -1641,7 +1641,7 @@
       "result": null,
       "venue": {
         "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO 65712, US"
+        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
       }
     },
     {
@@ -1821,7 +1821,7 @@
       "result": null,
       "venue": {
         "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO 65807, US"
+        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -1896,7 +1896,7 @@
       "result": null,
       "venue": {
         "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS 66031, US"
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
       }
     },
     {
@@ -2121,7 +2121,7 @@
       "result": null,
       "venue": {
         "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS 66031, US"
+        "address": "551 New Century Parkway, New Century, KS, 66031, US"
       }
     },
     {
@@ -2301,7 +2301,7 @@
       "result": null,
       "venue": {
         "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
       }
     },
     {
@@ -2331,7 +2331,7 @@
       "result": null,
       "venue": {
         "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
       }
     },
     {
@@ -2556,7 +2556,7 @@
       "result": null,
       "venue": {
         "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS 66223, US"
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
       }
     },
     {
