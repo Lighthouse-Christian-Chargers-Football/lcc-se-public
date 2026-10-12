@@ -519,6 +519,21 @@
       }
     },
     {
+      "id": "5af543e8-707b-40f6-9444-f8a65c2ddbeb",
+      "start": "2026-10-15T11:15:00-05:00",
+      "team": "18U",
+      "date": "Oct 15",
+      "opponent": "Wildfire HSA (TX)",
+      "site": "Home",
+      "time": "11:15 AM",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
       "id": "3f8b4623-d956-4ad7-8e0c-6f0741be4372",
       "start": "2026-10-16",
       "team": "16U",
@@ -541,6 +556,21 @@
       "opponent": "NCHVB Nationals ",
       "site": "Away",
       "time": "TBD",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
+      "id": "1b52e3b0-7880-40b7-9c56-7dcf7f8e6ed5",
+      "start": "2026-10-16T08:00:00-05:00",
+      "team": "16U",
+      "date": "Oct 16",
+      "opponent": "Illinois CRU",
+      "site": "Away",
+      "time": "8:00 AM",
       "location": "Overland Park, KS",
       "result": null,
       "venue": {
