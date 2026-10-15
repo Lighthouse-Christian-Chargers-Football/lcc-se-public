@@ -504,21 +504,6 @@
       }
     },
     {
-      "id": "ea2078ef-3fbb-4b18-a6b3-02489cf7165a",
-      "start": "2026-10-15",
-      "team": "18U",
-      "date": "Oct 15",
-      "opponent": "NCHVB Nationals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
       "id": "5af543e8-707b-40f6-9444-f8a65c2ddbeb",
       "start": "2026-10-15T11:15:00-05:00",
       "team": "18U",
@@ -534,36 +519,6 @@
       }
     },
     {
-      "id": "3f8b4623-d956-4ad7-8e0c-6f0741be4372",
-      "start": "2026-10-16",
-      "team": "16U",
-      "date": "Oct 16",
-      "opponent": "NCHVB Nationals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
-      "id": "8c9e63c3-1469-4fca-9094-28010fd4e572",
-      "start": "2026-10-16",
-      "team": "18U",
-      "date": "Oct 16",
-      "opponent": "NCHVB Nationals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
       "id": "1b52e3b0-7880-40b7-9c56-7dcf7f8e6ed5",
       "start": "2026-10-16T08:00:00-05:00",
       "team": "16U",
@@ -571,36 +526,6 @@
       "opponent": "Illinois CRU",
       "site": "Away",
       "time": "8:00 AM",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
-      "id": "188de387-bb8e-43e0-becd-6419a453e7a3",
-      "start": "2026-10-17",
-      "team": "16U",
-      "date": "Oct 17",
-      "opponent": "NCHVB Nationals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
-      "id": "3891ef8a-04bd-49b2-8061-ffadc48a871d",
-      "start": "2026-10-17",
-      "team": "18U",
-      "date": "Oct 17",
-      "opponent": "NCHVB Nationals ",
-      "site": "Away",
-      "time": "TBD",
       "location": "Overland Park, KS",
       "result": null,
       "venue": {
