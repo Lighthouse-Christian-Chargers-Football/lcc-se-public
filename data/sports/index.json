@@ -24,11 +24,6 @@
       "sport": "Girls Volleyball",
       "slug": "girls-volleyball",
       "file": "girls-volleyball.json"
-    },
-    {
-      "sport": "Tennis",
-      "slug": "tennis",
-      "file": "tennis.json"
     }
   ]
 }
