@@ -326,7 +326,11 @@
       "site": "Away",
       "time": "12:30 PM",
       "location": "Olathe, KS",
-      "result": null,
+      "result": {
+        "visitor_score": 12,
+        "home_score": 41,
+        "outcome": "L"
+      },
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
@@ -341,7 +345,11 @@
       "site": "Away",
       "time": "3:00 PM",
       "location": "Olathe, KS",
-      "result": null,
+      "result": {
+        "visitor_score": 26,
+        "home_score": 43,
+        "outcome": "L"
+      },
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
@@ -356,7 +364,11 @@
       "site": "Away",
       "time": "6:00 PM",
       "location": "Olathe, KS",
-      "result": null,
+      "result": {
+        "visitor_score": 0,
+        "home_score": 55,
+        "outcome": "L"
+      },
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
