@@ -933,21 +933,6 @@
       }
     },
     {
-      "id": "a2cfed29-7144-47f5-b16f-4b7ae373eb21",
-      "start": "2026-09-10T18:40:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Sept 10",
-      "opponent": "CSDP White ",
-      "site": "Away",
-      "time": "6:40 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "45583df5-9722-4d88-b85b-d2375fdb8a4b",
       "start": "2026-09-10T18:40:00-05:00",
       "team": "Rec 7/8th Grade",
@@ -955,21 +940,6 @@
       "opponent": "All-stars ",
       "site": "Home",
       "time": "6:40 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "30ce506d-bafb-4cc4-bbf2-3458451a0c79",
-      "start": "2026-09-10T19:30:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Sept 10",
-      "opponent": "CSDP Blue ",
-      "site": "Away",
-      "time": "7:30 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -1499,21 +1469,6 @@
       }
     },
     {
-      "id": "ea2af920-5d66-434b-8963-29cd6ae08c02",
-      "start": "2026-09-24T17:50:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Sept 24",
-      "opponent": "CSDP Red",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "34ba4ae3-3f29-449f-887e-93b786d0f581",
       "start": "2026-09-24T17:50:00-05:00",
       "team": "Rec 5/6th Grade",
@@ -1521,21 +1476,6 @@
       "opponent": "CSDP Blue ",
       "site": "Home",
       "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "9adb9e65-a1f0-4c12-9833-42e5a9260dd6",
-      "start": "2026-09-24T18:40:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Sept 24",
-      "opponent": "CSDP Blue ",
-      "site": "Home",
-      "time": "6:40 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -1780,21 +1720,6 @@
       }
     },
     {
-      "id": "4dce000b-036a-4e1d-ba9e-a9f66450fd37",
-      "start": "2026-10-01T17:50:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Oct 1",
-      "opponent": "CSDP Blue ",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "d093106d-99b0-4988-a39a-130602316604",
       "start": "2026-10-01T17:50:00-05:00",
       "team": "Rec 7/8th Grade",
@@ -1802,21 +1727,6 @@
       "opponent": "CSDP Red",
       "site": "Home",
       "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "ea08bdbc-2f8e-4f29-8e06-46e83d711f92",
-      "start": "2026-10-01T19:30:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Oct 1",
-      "opponent": "CSDP White ",
-      "site": "Home",
-      "time": "7:30 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -2170,21 +2080,6 @@
       }
     },
     {
-      "id": "071e805e-9ffa-44e7-9020-d4847a3e6bcb",
-      "start": "2026-10-08T17:50:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Oct 8",
-      "opponent": "CSDP Red",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "4a4c06b5-13a0-4dae-8134-2c7532ce3f02",
       "start": "2026-10-08T17:50:00-05:00",
       "team": "Rec 5/6th Grade",
@@ -2227,21 +2122,6 @@
       "venue": {
         "name": "Clever High School",
         "address": "6800 W Veterans Blvd, Clever, MO, 65631, US"
-      }
-    },
-    {
-      "id": "57a3e9e7-08d0-439f-bade-b29a0f105c9f",
-      "start": "2026-10-08T18:40:00-05:00",
-      "team": "Rec 3rd/4th Grade",
-      "date": "Oct 8",
-      "opponent": "CSDP White ",
-      "site": "Home",
-      "time": "6:40 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
       }
     },
     {
