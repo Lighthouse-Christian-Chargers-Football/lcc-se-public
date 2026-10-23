@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-09-28T15:45:21+00:00",
+  "generated_at": "2026-10-23T16:19:52+00:00",
   "team": "jv",
   "team_label": "Junior Varsity",
   "players": [
-    {
-      "name": "J. Smith",
-      "number": "5",
-      "position": "QB"
-    },
     {
       "name": "J. Griffin",
       "number": "13",
@@ -127,6 +122,11 @@
       "name": "D. Wallace",
       "number": "89",
       "position": "WR/CB"
+    },
+    {
+      "name": "J. Smith",
+      "number": "",
+      "position": ""
     }
   ],
   "coaches": [

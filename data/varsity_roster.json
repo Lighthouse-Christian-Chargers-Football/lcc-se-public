@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:19:47+00:00",
+  "generated_at": "2026-10-23T16:19:52+00:00",
   "team": "varsity",
   "team_label": "Varsity",
   "players": [
@@ -17,11 +17,6 @@
       "name": "A. Lotter",
       "number": "4",
       "position": "WR/DE"
-    },
-    {
-      "name": "J. Smith",
-      "number": "5",
-      "position": "QB"
     },
     {
       "name": "H. Rinkenbaugh",
@@ -272,6 +267,11 @@
       "name": "D. Wallace",
       "number": "89",
       "position": "WR/CB"
+    },
+    {
+      "name": "J. Smith",
+      "number": "",
+      "position": ""
     }
   ],
   "coaches": [
