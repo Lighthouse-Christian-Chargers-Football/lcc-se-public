@@ -383,7 +383,11 @@
       "site": "Home",
       "time": "5:00 PM",
       "location": "Tiger Stadium",
-      "result": null,
+      "result": {
+        "visitor_score": 48,
+        "home_score": 6,
+        "outcome": "L"
+      },
       "venue": {
         "name": "Tiger Stadium",
         "address": "1350 West Bluff Drive, Ozark, MO 65721, US"
@@ -398,7 +402,11 @@
       "site": "Home",
       "time": "7:00 PM",
       "location": "Ozark, MO",
-      "result": null,
+      "result": {
+        "visitor_score": 0,
+        "home_score": 55,
+        "outcome": "W"
+      },
       "venue": {
         "name": "Tiger Stadium",
         "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
