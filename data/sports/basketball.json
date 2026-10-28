@@ -1,0 +1,169 @@
+{
+  "sport": "Basketball",
+  "slug": "basketball",
+  "games": [
+    {
+      "id": "0f02c6b8-5b0a-44d5-b89e-565e1d1ed0f1",
+      "start": "2026-11-24T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Nov 24",
+      "opponent": "Buffalo High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "Buffalo, MO",
+      "result": null,
+      "venue": {
+        "name": "",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
+    },
+    {
+      "id": "45413430-c13c-43cf-a628-c517f1d28091",
+      "start": "2026-11-30T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Nov 30",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "dec7aeee-af1b-4808-ae5e-b8b5a707c15e",
+      "start": "2026-12-01T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 1",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "e04afa68-e078-4ce6-9b7f-13fe07a3e78c",
+      "start": "2026-12-02T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 2",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "c0afb524-40ab-4e53-8a4c-f2f22a0adb15",
+      "start": "2026-12-03T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 3",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "72d74bb3-368e-4d2c-874e-312e489339e1",
+      "start": "2026-12-04T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 4",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "267e730e-c9b1-4429-8f9a-2a871f1858af",
+      "start": "2026-12-05T08:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 5",
+      "opponent": "Morrisville High School",
+      "site": "Away",
+      "time": "8:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "ac03bc1d-c7f0-4bf4-936b-4dedc5125e49",
+      "start": "2026-12-15T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 15",
+      "opponent": "Lockwood High School",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "0b37e926-722e-42ed-bdb8-8c87d737472b",
+      "start": "2026-12-17T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Dec 17",
+      "opponent": "Seneca High School",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "abc5eaca-41e5-4e3c-9d55-194ab80c5aac",
+      "start": "2027-01-05T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Jan 5",
+      "opponent": "New Heights Christian Academy",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "bcd1f2ae-3636-42d4-bbfd-5ec2db6e4d22",
+      "start": "2027-01-07T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Jan 7",
+      "opponent": "Clever High School",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "918c2697-f7ee-496f-be53-743e7c694ca4",
+      "start": "2027-01-08T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Jan 8",
+      "opponent": "Miller High School",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "24cf4770-f026-462c-a284-5243fe07bddb",
+      "start": "2027-01-28T17:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Jan 28",
+      "opponent": "Monett High School",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "Republic, MO",
+      "result": null,
+      "venue": {
+        "name": "Republic High School",
+        "address": "4370 Repmo Dr, Republic, MO, 65738, US"
+      }
+    }
+  ]
+}

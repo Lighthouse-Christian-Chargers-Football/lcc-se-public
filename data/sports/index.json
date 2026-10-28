@@ -1,6 +1,11 @@
 {
   "sports": [
     {
+      "sport": "Basketball",
+      "slug": "basketball",
+      "file": "basketball.json"
+    },
+    {
       "sport": "Boys Volleyball",
       "slug": "boys-volleyball",
       "file": "boys-volleyball.json"
