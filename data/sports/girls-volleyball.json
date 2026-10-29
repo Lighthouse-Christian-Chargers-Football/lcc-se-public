@@ -3,40 +3,10 @@
   "slug": "girls-volleyball",
   "games": [
     {
-      "id": "e300a7b4-1a68-4312-a6e5-3586ed8e12b7",
-      "start": "2026-08-07",
-      "team": "14U",
-      "date": "Aug 7",
-      "opponent": "KC Preseason Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Shawnee, KS",
-      "result": null,
-      "venue": {
-        "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
-      }
-    },
-    {
       "id": "6d2bbd85-0d3d-42a4-a0e0-6bf47d25879a",
       "start": "2026-08-07",
       "team": "Varsity",
       "date": "Aug 7",
-      "opponent": "KC Preseason Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Shawnee, KS",
-      "result": null,
-      "venue": {
-        "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
-      }
-    },
-    {
-      "id": "6e626dc2-e115-479b-aaaa-2939808f8ede",
-      "start": "2026-08-08",
-      "team": "14U",
-      "date": "Aug 8",
       "opponent": "KC Preseason Tournament ",
       "site": "Away",
       "time": "TBD",
@@ -78,21 +48,6 @@
       }
     },
     {
-      "id": "3e253b8c-9371-4288-9d16-33c651102bd0",
-      "start": "2026-08-14T17:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 14",
-      "opponent": "BCA Lions Navy ",
-      "site": "Away",
-      "time": "5:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
       "id": "af51b80a-bc6e-468e-b954-afaa8cc142ec",
       "start": "2026-08-14T19:30:00-05:00",
       "team": "12U",
@@ -100,51 +55,6 @@
       "opponent": "RGCA Eagles ",
       "site": "Home",
       "time": "7:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "113af803-149f-4023-8da0-9459e01893b0",
-      "start": "2026-08-14T19:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 14",
-      "opponent": "NWA Hornets Black",
-      "site": "Away",
-      "time": "7:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "299f4393-9c29-4204-a27d-e2ec55e79536",
-      "start": "2026-08-14T20:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 14",
-      "opponent": "RGCA Eagles ",
-      "site": "Away",
-      "time": "8:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "3daa2e23-9cbd-463b-9aae-645cd1a627ec",
-      "start": "2026-08-14T20:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 14",
-      "opponent": "PCCS Knights ",
-      "site": "Away",
-      "time": "8:30 PM",
       "location": "Mount Vernon, MO",
       "result": null,
       "venue": {
@@ -168,71 +78,11 @@
       }
     },
     {
-      "id": "b4eff42f-aa6d-4d30-90ad-68ca2658aec1",
-      "start": "2026-08-21T16:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 21",
-      "opponent": "RUSH",
-      "site": "Away",
-      "time": "4:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "70807ff2-cb8a-47ae-8111-c4d5541bd88a",
-      "start": "2026-08-21T17:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 21",
-      "opponent": "OTCA Firecrackers ",
-      "site": "Away",
-      "time": "5:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "30b173a5-f811-420b-9c6d-f31fdbdf988c",
-      "start": "2026-08-21T18:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 21",
-      "opponent": "RGCA Eagles ",
-      "site": "Home",
-      "time": "6:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
       "id": "b7ebd250-4c7b-44d2-9c37-1f82d0588acb",
       "start": "2026-08-21T20:30:00-05:00",
       "team": "12U",
       "date": "Aug 21",
       "opponent": "NWA Hornets Gold",
-      "site": "Home",
-      "time": "8:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "c5f4e270-a67d-4125-bdb9-bfd169de981a",
-      "start": "2026-08-21T20:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 21",
-      "opponent": "OTCA Firecrackers ",
       "site": "Home",
       "time": "8:30 PM",
       "location": "Mount Vernon, MO",
@@ -273,21 +123,6 @@
       }
     },
     {
-      "id": "c372d5db-4fa6-4c3c-82cb-a9b67a601b2b",
-      "start": "2026-08-27T17:00:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 27",
-      "opponent": "Mt. Vernon",
-      "site": "Home",
-      "time": "5:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Evangel University",
-        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "21dddd6a-4ff9-4e5b-ad69-6f77c449015f",
       "start": "2026-08-27T19:00:00-05:00",
       "team": "Varsity",
@@ -318,36 +153,6 @@
       }
     },
     {
-      "id": "7d43eb18-8536-4adf-b4ad-d56a5c0c22c7",
-      "start": "2026-08-28T16:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 28",
-      "opponent": "BCA Lions Maroon",
-      "site": "Home",
-      "time": "4:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "fab8215d-5d04-4fe1-a786-47e530009a26",
-      "start": "2026-08-28T17:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 28",
-      "opponent": "PCCS Knights ",
-      "site": "Away",
-      "time": "5:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
       "id": "382f5450-99a7-481c-9a09-acb64c6ade2a",
       "start": "2026-08-28T18:30:00-05:00",
       "team": "12U",
@@ -355,36 +160,6 @@
       "opponent": "NWA Hornets Black",
       "site": "Away",
       "time": "6:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "a2df8fef-27b6-4329-a98d-c0380cd164c0",
-      "start": "2026-08-28T18:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Aug 28",
-      "opponent": "BCA Lions Navy ",
-      "site": "Home",
-      "time": "6:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "650d5c45-435e-4b41-971a-63fec73822d7",
-      "start": "2026-08-28T20:30:00-05:00",
-      "team": "14U",
-      "date": "Aug 28",
-      "opponent": "RGCA Eagles ",
-      "site": "Away",
-      "time": "8:30 PM",
       "location": "Mount Vernon, MO",
       "result": null,
       "venue": {
@@ -438,21 +213,6 @@
       }
     },
     {
-      "id": "ebf0c57c-09d8-43e3-9964-3d07410bf242",
-      "start": "2026-09-04",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 4",
-      "opponent": "Show Me Show Down Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "23d791a7-bc0c-4317-a3d8-2ea036cfc736",
       "start": "2026-09-04",
       "team": "Varsity",
@@ -483,51 +243,6 @@
       }
     },
     {
-      "id": "bcb6bd62-7f6c-4402-8d95-03067852e815",
-      "start": "2026-09-04T10:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 4",
-      "opponent": "OCA Guardians ",
-      "site": "Home",
-      "time": "10:30 AM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "5e912f9e-de75-4458-92be-007afc382ff7",
-      "start": "2026-09-04T10:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 4",
-      "opponent": "OK Flame",
-      "site": "Away",
-      "time": "10:30 AM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "02f67024-971c-4708-b7c4-93de12c5480a",
-      "start": "2026-09-04T12:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 4",
-      "opponent": "NOAH Jags 14U",
-      "site": "Home",
-      "time": "12:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "3ba44874-2746-4753-9cdd-f0afb0683ba2",
       "start": "2026-09-04T13:30:00-05:00",
       "team": "12U",
@@ -535,36 +250,6 @@
       "opponent": "Metro Mavs ",
       "site": "Away",
       "time": "1:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "b8cadba3-00f4-4188-8f94-209d440179b5",
-      "start": "2026-09-04T13:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 4",
-      "opponent": "STL Ignite ",
-      "site": "Away",
-      "time": "1:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "b64e1303-5b5e-4ef2-b6cd-c897c4fa7db6",
-      "start": "2026-09-04T14:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 4",
-      "opponent": "8:28 Gladiators ",
-      "site": "Away",
-      "time": "2:30 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -588,21 +273,6 @@
       }
     },
     {
-      "id": "b1f4be20-0659-4fee-b29f-ea64d909638b",
-      "start": "2026-09-04T15:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 4",
-      "opponent": "OK Flame B ",
-      "site": "Home",
-      "time": "3:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "bd6c40fe-3453-41a2-8080-c2cb461ff8c5",
       "start": "2026-09-04T16:30:00-05:00",
       "team": "Varsity",
@@ -610,21 +280,6 @@
       "opponent": "Rolla Royals JV",
       "site": "Home",
       "time": "4:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "277ff18a-4996-4dcf-9223-c75d8f688415",
-      "start": "2026-09-04T17:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 4",
-      "opponent": "Show Me Show Down Tournament ",
-      "site": "Away",
-      "time": "5:00 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -678,21 +333,6 @@
       }
     },
     {
-      "id": "8f32f21a-aed4-47a6-99be-dc062859cec5",
-      "start": "2026-09-05",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 5",
-      "opponent": "Show Me Show Down Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "ecd180fb-8e4c-40f8-9dc3-5f285ea56523",
       "start": "2026-09-05T11:30:00-05:00",
       "team": "Varsity",
@@ -705,36 +345,6 @@
       "venue": {
         "name": "Allison Sports Town",
         "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "d377e846-6530-44f5-9a62-6942098e8cbd",
-      "start": "2026-09-05T17:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 5",
-      "opponent": "Show Me Show Down Tournament ",
-      "site": "Away",
-      "time": "5:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "163fd6b1-d381-4ca2-9433-d01e94fa8292",
-      "start": "2026-09-08T17:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 8",
-      "opponent": "Marionville ",
-      "site": "Away",
-      "time": "5:30 PM",
-      "location": "Marionville, MO",
-      "result": null,
-      "venue": {
-        "name": "Marionville High School",
-        "address": "17725 Missouri 14, Marionville, MO, 65705, US"
       }
     },
     {
@@ -783,47 +393,6 @@
       }
     },
     {
-      "id": "318cf198-2c5b-440f-8231-2b33eda69013",
-      "start": "2026-09-10T18:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 10",
-      "opponent": "Carver",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Carver Middle School",
-        "address": "3325 West Battlefield Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "45583df5-9722-4d88-b85b-d2375fdb8a4b",
-      "start": "2026-09-10T18:40:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 10",
-      "opponent": "All-stars ",
-      "site": "Home",
-      "time": "6:40 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "c67df330-a49c-4b08-afc0-59c40367cc26",
-      "start": "2026-09-10T20:20:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 10",
-      "opponent": "All-stars ",
-      "site": "Away",
-      "time": "8:20 PM",
-      "location": "",
-      "result": null
-    },
-    {
       "id": "9199176b-3c5c-42ae-b4cc-83d3c094eba8",
       "start": "2026-09-11T16:30:00-05:00",
       "team": "12U",
@@ -831,21 +400,6 @@
       "opponent": "NWA Hornets Gold",
       "site": "Home",
       "time": "4:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "c34dd2a8-9f54-4bb0-905e-5554d6104378",
-      "start": "2026-09-11T17:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 11",
-      "opponent": "BCA Lions Maroon",
-      "site": "Away",
-      "time": "5:30 PM",
       "location": "Mount Vernon, MO",
       "result": null,
       "venue": {
@@ -869,36 +423,6 @@
       }
     },
     {
-      "id": "32738d6e-3087-434a-a827-90da1031afc1",
-      "start": "2026-09-11T18:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 11",
-      "opponent": "NWA Hornets Black",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "3bc50f3c-0828-47d7-a6e8-9c22a2523122",
-      "start": "2026-09-11T18:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 11",
-      "opponent": "RUSH",
-      "site": "Home",
-      "time": "6:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
       "id": "d43c816d-caec-4601-9535-46b0ea481d33",
       "start": "2026-09-11T19:30:00-05:00",
       "team": "12U",
@@ -906,36 +430,6 @@
       "opponent": "NWA Hornets 12U",
       "site": "Home",
       "time": "7:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "9c21d7f5-2716-4212-88a8-018b2668787e",
-      "start": "2026-09-11T20:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 11",
-      "opponent": "LCA Chargers Girls JV Combined (JVC) Volleyball 2026",
-      "site": "Away",
-      "time": "8:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "9c21d7f5-2716-4212-88a8-018b2668787e",
-      "start": "2026-09-11T20:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 11",
-      "opponent": "LCA Chargers Girls 14U Volleyball 2026",
-      "site": "Home",
-      "time": "8:30 PM",
       "location": "Mount Vernon, MO",
       "result": null,
       "venue": {
@@ -974,51 +468,6 @@
       }
     },
     {
-      "id": "a4b0c02c-3fc7-4f21-ac64-79f3fcd441ae",
-      "start": "2026-09-12T15:00:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 12",
-      "opponent": "Round Grove ",
-      "site": "Home",
-      "time": "3:00 PM",
-      "location": "Republic, MO",
-      "result": null,
-      "venue": {
-        "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO, 65738, US"
-      }
-    },
-    {
-      "id": "f40e4b86-d6f9-464f-b5a4-b0d5c4b33187",
-      "start": "2026-09-12T16:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 12",
-      "opponent": "RGCA Eagles ",
-      "site": "Home",
-      "time": "4:00 PM",
-      "location": "Republic, MO",
-      "result": null,
-      "venue": {
-        "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO, 65738, US"
-      }
-    },
-    {
-      "id": "40419ce1-0102-4f57-9343-237579445c32",
-      "start": "2026-09-12T18:00:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 12",
-      "opponent": "PCCS Knights ",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Republic, MO",
-      "result": null,
-      "venue": {
-        "name": "Calvary Baptist Church",
-        "address": "804 U.S. 60, Republic, MO, 65738, US"
-      }
-    },
-    {
       "id": "fa0891ab-9919-4b8a-b89f-54cd02cfff8b",
       "start": "2026-09-14T17:30:00-05:00",
       "team": "12U",
@@ -1031,36 +480,6 @@
       "venue": {
         "name": "St Elizabeth Ann Seton Church And School",
         "address": "2200 West Republic Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "5de85c50-379c-42cf-aa5a-0cb1fba19f19",
-      "start": "2026-09-14T18:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 14",
-      "opponent": "Springfield Catholic MS",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "St Elizabeth Ann Seton Church And School",
-        "address": "2200 West Republic Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "37dd94bb-f734-4c12-add7-ba6ee1d79756",
-      "start": "2026-09-15T17:00:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 15",
-      "opponent": "Hollister ",
-      "site": "Away",
-      "time": "5:00 PM",
-      "location": "Hollister, MO",
-      "result": null,
-      "venue": {
-        "name": "Hollister High School",
-        "address": "2112 State Highway BB, Hollister, MO, 65672, US"
       }
     },
     {
@@ -1086,36 +505,6 @@
       "opponent": "Pershing",
       "site": "Away",
       "time": "5:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Pershing School",
-        "address": "2120 South Ventura Avenue, Springfield, MO, 65804, US"
-      }
-    },
-    {
-      "id": "a16b3f18-a8e5-4562-a489-ed16233d0630",
-      "start": "2026-09-17T17:50:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 17",
-      "opponent": "CSDP Blue ",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "22c80289-85b9-4b11-a3d5-01ac3ac6cecf",
-      "start": "2026-09-17T18:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 17",
-      "opponent": "Pershing",
-      "site": "Away",
-      "time": "6:00 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -1244,32 +633,6 @@
       }
     },
     {
-      "id": "7b16e53c-2c17-456a-bc71-78cbf328ecaa",
-      "start": "2026-09-24T18:40:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 24",
-      "opponent": "Pink Panthers",
-      "site": "Away",
-      "time": "6:40 PM",
-      "location": "",
-      "result": null
-    },
-    {
-      "id": "059a8b44-83a5-4f6d-90de-5cf58fc20c70",
-      "start": "2026-09-24T20:20:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Sept 24",
-      "opponent": "All-stars ",
-      "site": "Home",
-      "time": "8:20 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "66176eaa-b4a8-4661-8a37-1742b220feed",
       "start": "2026-09-25",
       "team": "12U",
@@ -1277,51 +640,6 @@
       "opponent": "417 League Tournament ",
       "site": "Home",
       "time": "TBD",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "50febfcf-5039-4798-b992-d57fadcae2f4",
-      "start": "2026-09-25",
-      "team": "14U",
-      "date": "Sept 25",
-      "opponent": "417 League Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "befab61b-cead-46d7-be4e-a47f29a874f8",
-      "start": "2026-09-25T16:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 25",
-      "opponent": "BCA Lions Maroon",
-      "site": "Home",
-      "time": "4:30 PM",
-      "location": "Mount Vernon, MO",
-      "result": null,
-      "venue": {
-        "name": "417 Athletics",
-        "address": "300 West Hayward Drive, Mount Vernon, MO, 65712, US"
-      }
-    },
-    {
-      "id": "4300ffd4-b52d-4106-a01a-3a3c7e1cd5b1",
-      "start": "2026-09-25T16:30:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Sept 25",
-      "opponent": "OTCA Firecrackers ",
-      "site": "Home",
-      "time": "4:30 PM",
       "location": "Mount Vernon, MO",
       "result": null,
       "venue": {
@@ -1360,41 +678,11 @@
       }
     },
     {
-      "id": "62ca29be-4973-44b2-bfda-5868b2859e44",
-      "start": "2026-09-26",
-      "team": "14U",
-      "date": "Sept 26",
-      "opponent": "Volleyfest ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "08390877-eaf2-4fd4-bc4b-eb3d1caa2c63",
       "start": "2026-09-26T09:00:00-05:00",
       "team": "12U",
       "date": "Sept 26",
       "opponent": "Strafford ",
-      "site": "Home",
-      "time": "9:00 AM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "0d80a293-1f12-455b-ab2a-9ce55f7e4257",
-      "start": "2026-09-26T09:00:00-05:00",
-      "team": "14U",
-      "date": "Sept 26",
-      "opponent": "Strafford",
       "site": "Home",
       "time": "9:00 AM",
       "location": "Springfield, MO",
@@ -1465,36 +753,6 @@
       }
     },
     {
-      "id": "79d494a7-8b07-4e6a-9a52-cbcfdb58f3de",
-      "start": "2026-09-29T17:30:00-05:00",
-      "team": "14U",
-      "date": "Sept 29",
-      "opponent": "Marionville ",
-      "site": "Away",
-      "time": "5:30 PM",
-      "location": "Marionville, MO",
-      "result": null,
-      "venue": {
-        "name": "Marionville Jr High School",
-        "address": "200 West O'dell, Marionville, MO, 65705, US"
-      }
-    },
-    {
-      "id": "d093106d-99b0-4988-a39a-130602316604",
-      "start": "2026-10-01T17:50:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Oct 1",
-      "opponent": "CSDP Red",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "b07439d8-815e-4e74-b626-34221199d067",
       "start": "2026-10-01T19:30:00-05:00",
       "team": "Rec 5/6th Grade",
@@ -1540,36 +798,6 @@
       }
     },
     {
-      "id": "db13c951-1132-4d2c-b5bb-0f5a0b156c80",
-      "start": "2026-10-02",
-      "team": "14U",
-      "date": "Oct 2",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "d2d7ee5a-6aa3-4b7f-9424-bbe2f30adcb1",
-      "start": "2026-10-02",
-      "team": "JV Combined (JVC)",
-      "date": "Oct 2",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
       "id": "2646f7fd-568c-462f-ac44-829dc57a8ef4",
       "start": "2026-10-02",
       "team": "Varsity",
@@ -1585,21 +813,6 @@
       }
     },
     {
-      "id": "c9752651-98f2-4958-bbe1-72d54608bdcd",
-      "start": "2026-10-02T11:00:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Oct 2",
-      "opponent": "North Iowa Lions",
-      "site": "Home",
-      "time": "11:00 AM",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
       "id": "bd51cdba-c444-48b2-8eda-960da188c79e",
       "start": "2026-10-02T12:00:00-05:00",
       "team": "12U",
@@ -1607,21 +820,6 @@
       "opponent": "KC Metro Mavs",
       "site": "Home",
       "time": "12:00 PM",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "50189e38-a12d-48ac-97d7-97b8362a9eb6",
-      "start": "2026-10-02T13:00:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Oct 2",
-      "opponent": "Lincoln Cougars",
-      "site": "Away",
-      "time": "1:00 PM",
       "location": "New Century, KS",
       "result": null,
       "venue": {
@@ -1660,21 +858,6 @@
       }
     },
     {
-      "id": "abf9eeab-90be-40c0-a11c-15ec544ddb0e",
-      "start": "2026-10-02T16:00:00-05:00",
-      "team": "14U",
-      "date": "Oct 2",
-      "opponent": "Wichita Defenders",
-      "site": "Home",
-      "time": "4:00 PM",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
       "id": "7540a8b0-7c90-4af9-9aaa-6ed6f133ee97",
       "start": "2026-10-02T17:00:00-05:00",
       "team": "Varsity",
@@ -1693,36 +876,6 @@
       "id": "a073489f-c224-410a-99be-ce77d26c5750",
       "start": "2026-10-03",
       "team": "12U",
-      "date": "Oct 3",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "0b46c099-93a5-4591-ad72-ace5010964cd",
-      "start": "2026-10-03",
-      "team": "14U",
-      "date": "Oct 3",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "8fdcea3f-f429-42be-bc61-08fed757bbb9",
-      "start": "2026-10-03",
-      "team": "JV Combined (JVC)",
       "date": "Oct 3",
       "opponent": "Regionals ",
       "site": "Away",
@@ -1795,36 +948,6 @@
       }
     },
     {
-      "id": "c2fc9aa0-f482-4cd4-9148-a9432f85d327",
-      "start": "2026-10-08T17:50:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Oct 8",
-      "opponent": "All-stars Black ",
-      "site": "Home",
-      "time": "5:50 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "5b33df04-09c8-4e6c-b4f6-9b351e1195db",
-      "start": "2026-10-08T18:30:00-05:00",
-      "team": "14U",
-      "date": "Oct 8",
-      "opponent": "Clever ",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Clever, MO",
-      "result": null,
-      "venue": {
-        "name": "Clever High School",
-        "address": "6800 W Veterans Blvd, Clever, MO, 65631, US"
-      }
-    },
-    {
       "id": "f5adf472-bb75-411a-b282-866f7bb3d9aa",
       "start": "2026-10-08T19:30:00-05:00",
       "team": "Rec 5/6th Grade",
@@ -1837,66 +960,6 @@
       "venue": {
         "name": "The Fieldhouse Sportscenter",
         "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "633cdc62-41ad-4868-a127-523444ee7506",
-      "start": "2026-10-08T19:30:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Oct 8",
-      "opponent": "Pink Panthers",
-      "site": "Home",
-      "time": "7:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "The Fieldhouse Sportscenter",
-        "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "067a7716-cc65-412e-b0d5-ae1d0fe25fbc",
-      "start": "2026-10-15T10:45:00-05:00",
-      "team": "JV Combined (JVC)",
-      "date": "Oct 15",
-      "opponent": "HEA Firebirds (MI)",
-      "site": "Home",
-      "time": "10:45 AM",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
-      "id": "f1b6c0bf-b0ea-49af-893d-8d6ae0e89614",
-      "start": "2026-10-15T13:30:00-05:00",
-      "team": "14U",
-      "date": "Oct 15",
-      "opponent": "Red River Rattlers-Black 1",
-      "site": "Away",
-      "time": "1:30 PM",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
-      }
-    },
-    {
-      "id": "12007845-129e-4d82-af29-04514bdbcdc0",
-      "start": "2026-10-15T14:00:00-05:00",
-      "team": "Rec 7/8th Grade",
-      "date": "Oct 15",
-      "opponent": "JCSLA Lions",
-      "site": "Home",
-      "time": "2:00 PM",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
       }
     },
     {
