@@ -164,6 +164,62 @@
         "name": "Republic High School",
         "address": "4370 Repmo Dr, Republic, MO, 65738, US"
       }
+    },
+    {
+      "id": "1860903b-5ed3-46b1-9712-b92bfe98419f",
+      "start": "2027-02-09T18:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Feb 9",
+      "opponent": "Halfway High School",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Republic, MO",
+      "result": null,
+      "venue": {
+        "name": "Republic High School",
+        "address": "4370 Repmo Dr, Republic, MO, 65738, US"
+      }
+    },
+    {
+      "id": "24ddb88e-0f03-4c43-a1ae-2cea994e7453",
+      "start": "2027-02-15T18:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Feb 15",
+      "opponent": "Gloria Deo Academy",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "93701445-054c-47c2-823b-40ec5b2b0ae2",
+      "start": "2027-02-16T18:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Feb 16",
+      "opponent": "Blue Eye High School",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "b1ad377d-b9ac-447b-be8f-338426e72be7",
+      "start": "2027-02-25T05:00:00-06:00",
+      "team": "Girls High School BBall",
+      "date": "Feb 25",
+      "opponent": "Central High School",
+      "site": "Away",
+      "time": "5:00 AM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "",
+        "address": "423 East Central Street, Springfield, MO, 65802, US"
+      }
     }
   ]
 }
