@@ -6,11 +6,6 @@
       "file": "basketball.json"
     },
     {
-      "sport": "Boys Volleyball",
-      "slug": "boys-volleyball",
-      "file": "boys-volleyball.json"
-    },
-    {
       "sport": "Cheer",
       "slug": "cheer",
       "file": "cheer.json"
@@ -26,9 +21,9 @@
       "file": "football.json"
     },
     {
-      "sport": "Girls Volleyball",
-      "slug": "girls-volleyball",
-      "file": "girls-volleyball.json"
+      "sport": "Volleyball",
+      "slug": "volleyball",
+      "file": "volleyball.json"
     }
   ]
 }
