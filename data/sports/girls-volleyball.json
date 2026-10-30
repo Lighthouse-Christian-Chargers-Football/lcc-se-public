@@ -3,36 +3,6 @@
   "slug": "girls-volleyball",
   "games": [
     {
-      "id": "6d2bbd85-0d3d-42a4-a0e0-6bf47d25879a",
-      "start": "2026-08-07",
-      "team": "Varsity",
-      "date": "Aug 7",
-      "opponent": "KC Preseason Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Shawnee, KS",
-      "result": null,
-      "venue": {
-        "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
-      }
-    },
-    {
-      "id": "f72f818f-f4ae-4b5d-86a9-ad66e9b87405",
-      "start": "2026-08-08",
-      "team": "Varsity",
-      "date": "Aug 8",
-      "opponent": "KC Preseason Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Shawnee, KS",
-      "result": null,
-      "venue": {
-        "name": "Okun Fieldhouse",
-        "address": "20200 Johnson Drive, Shawnee, KS, 66218, US"
-      }
-    },
-    {
       "id": "a35c9826-a935-4686-a231-3573f8a0cbaa",
       "start": "2026-08-14T16:30:00-05:00",
       "team": "12U",
@@ -93,51 +63,6 @@
       }
     },
     {
-      "id": "f3f1bad1-f867-4089-a468-96ee477bf491",
-      "start": "2026-08-24T18:00:00-05:00",
-      "team": "Varsity",
-      "date": "Aug 24",
-      "opponent": "Pleasant Hope",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "New Covenant Academy-Warrior Campus",
-        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "3a423700-fde8-424c-8d9b-3810e49f2c13",
-      "start": "2026-08-24T20:00:00-05:00",
-      "team": "Varsity",
-      "date": "Aug 24",
-      "opponent": "New Covenant Academy",
-      "site": "Away",
-      "time": "8:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "New Covenant Academy-Warrior Campus",
-        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "21dddd6a-4ff9-4e5b-ad69-6f77c449015f",
-      "start": "2026-08-27T19:00:00-05:00",
-      "team": "Varsity",
-      "date": "Aug 27",
-      "opponent": "Mt. Vernon",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Evangel University",
-        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "940eacb3-80f2-4efd-bad8-246787d81ff7",
       "start": "2026-08-28T16:30:00-05:00",
       "team": "12U",
@@ -168,54 +93,9 @@
       }
     },
     {
-      "id": "33f118de-d001-4e48-89ed-bbc4fb5a5ea2",
-      "start": "2026-08-31T18:30:00-05:00",
-      "team": "Varsity",
-      "date": "Aug 31",
-      "opponent": "Mountian Grove ",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Mountain Grove, MO",
-      "result": null,
-      "venue": {
-        "name": "Mountain Grove High School",
-        "address": "420 North Main Street, Mountain Grove, MO, 65711, US"
-      }
-    },
-    {
-      "id": "9b95150d-20bb-486b-90b7-951ce91de634",
-      "start": "2026-09-03T18:00:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 3",
-      "opponent": "Springfield Catholic High School ",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
-      }
-    },
-    {
       "id": "f6099984-d3d1-48b1-b877-1f09ed64d67a",
       "start": "2026-09-04",
       "team": "12U",
-      "date": "Sept 4",
-      "opponent": "Show Me Show Down Tournament ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "23d791a7-bc0c-4317-a3d8-2ea036cfc736",
-      "start": "2026-09-04",
-      "team": "Varsity",
       "date": "Sept 4",
       "opponent": "Show Me Show Down Tournament ",
       "site": "Away",
@@ -273,51 +153,6 @@
       }
     },
     {
-      "id": "bd6c40fe-3453-41a2-8080-c2cb461ff8c5",
-      "start": "2026-09-04T16:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 4",
-      "opponent": "Rolla Royals JV",
-      "site": "Home",
-      "time": "4:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "5d50f08f-cc04-4bf9-9a68-78a7b461b461",
-      "start": "2026-09-04T18:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 4",
-      "opponent": "RGCA Eagles ",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "99ad313d-0c2e-4767-ac11-3988060d5ca3",
-      "start": "2026-09-04T20:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 4",
-      "opponent": "Jefferson City Comets",
-      "site": "Home",
-      "time": "8:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
       "id": "af88acc3-b40c-4aa7-854e-85bff431a637",
       "start": "2026-09-05",
       "team": "12U",
@@ -330,36 +165,6 @@
       "venue": {
         "name": "Allison Sports Town",
         "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "ecd180fb-8e4c-40f8-9dc3-5f285ea56523",
-      "start": "2026-09-05T11:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 5",
-      "opponent": "Sparks",
-      "site": "Home",
-      "time": "11:30 AM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Allison Sports Town",
-        "address": "209 Airport Boulevard, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "d1fbb02e-3346-4b85-bef6-a975c88e96da",
-      "start": "2026-09-08T18:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 8",
-      "opponent": "Marionville ",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Marionville, MO",
-      "result": null,
-      "venue": {
-        "name": "Marionville High School",
-        "address": "17725 Missouri 14, Marionville, MO, 65705, US"
       }
     },
     {
@@ -438,21 +243,6 @@
       }
     },
     {
-      "id": "6559fcfe-5860-424b-95e2-1e61c19df85c",
-      "start": "2026-09-12T08:00:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 12",
-      "opponent": "Hillcrest",
-      "site": "Away",
-      "time": "8:00 AM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
       "id": "da31b447-8265-41e8-84f6-6471fe332d1a",
       "start": "2026-09-12T15:00:00-05:00",
       "team": "12U",
@@ -483,21 +273,6 @@
       }
     },
     {
-      "id": "9eb53355-4964-4dd4-813b-3ca39b113871",
-      "start": "2026-09-15T19:00:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 15",
-      "opponent": "Hollister ",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Hollister, MO",
-      "result": null,
-      "venue": {
-        "name": "Hollister High School",
-        "address": "2112 State Highway BB, Hollister, MO, 65672, US"
-      }
-    },
-    {
       "id": "e6865332-8e17-40ee-8154-4dcc8a3e306d",
       "start": "2026-09-17T17:00:00-05:00",
       "team": "12U",
@@ -513,21 +288,6 @@
       }
     },
     {
-      "id": "0942e86f-d2bb-4598-8c8c-19c9b923f218",
-      "start": "2026-09-17T18:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 17",
-      "opponent": "New Covenant Academy",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "New Covenant Academy-Warrior Campus",
-        "address": "3304 South Cox Road, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "a84f2c65-448b-441c-856b-cb7a0c1db56e",
       "start": "2026-09-17T20:20:00-05:00",
       "team": "Rec 5/6th Grade",
@@ -540,66 +300,6 @@
       "venue": {
         "name": "The Fieldhouse Sportscenter",
         "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "60fd39c1-3244-4c50-b768-90b3f937b2f5",
-      "start": "2026-09-19T08:00:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 19",
-      "opponent": "Fair Grove",
-      "site": "Away",
-      "time": "8:00 AM",
-      "location": "Buffalo, MO",
-      "result": null,
-      "venue": {
-        "name": "Buffalo High School",
-        "address": "500 West Main Street, Buffalo, MO, 65622, US"
-      }
-    },
-    {
-      "id": "7b635383-48cd-469b-8c2c-060eb2ab85ec",
-      "start": "2026-09-19T10:45:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 19",
-      "opponent": "Cassville",
-      "site": "Away",
-      "time": "10:45 AM",
-      "location": "Buffalo, MO",
-      "result": null,
-      "venue": {
-        "name": "Buffalo High School",
-        "address": "500 West Main Street, Buffalo, MO, 65622, US"
-      }
-    },
-    {
-      "id": "85b1d8cd-19c2-47b2-8fda-a24a6de7aa0c",
-      "start": "2026-09-19T12:15:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 19",
-      "opponent": "El Dorado Springs",
-      "site": "Away",
-      "time": "12:15 PM",
-      "location": "Buffalo, MO",
-      "result": null,
-      "venue": {
-        "name": "Buffalo High School",
-        "address": "500 West Main Street, Buffalo, MO, 65622, US"
-      }
-    },
-    {
-      "id": "472f62e1-acc7-436b-aee5-93868857828b",
-      "start": "2026-09-22T18:00:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 22",
-      "opponent": "Parkview ",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -693,51 +393,6 @@
       }
     },
     {
-      "id": "a3e798d1-d9f8-49b4-bf19-652ec00aa564",
-      "start": "2026-09-26T09:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 26",
-      "opponent": "Central ",
-      "site": "Home",
-      "time": "9:30 AM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
-      }
-    },
-    {
-      "id": "a152fde4-476f-4faa-a0ee-6ad235a628e6",
-      "start": "2026-09-26T11:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 26",
-      "opponent": "Skyline",
-      "site": "Home",
-      "time": "11:30 AM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
-      }
-    },
-    {
-      "id": "07edecf5-da6b-4622-a1ca-07aa38171e34",
-      "start": "2026-09-26T12:30:00-05:00",
-      "team": "Varsity",
-      "date": "Sept 26",
-      "opponent": "Clever ",
-      "site": "Away",
-      "time": "12:30 PM",
-      "location": "Strafford, MO",
-      "result": null,
-      "venue": {
-        "name": "Strafford High School",
-        "address": "201 West McCabe Street, Strafford, MO, 65757, US"
-      }
-    },
-    {
       "id": "0d149208-b027-461f-88e3-2bb0b22220e5",
       "start": "2026-09-29T17:30:00-05:00",
       "team": "12U",
@@ -798,21 +453,6 @@
       }
     },
     {
-      "id": "2646f7fd-568c-462f-ac44-829dc57a8ef4",
-      "start": "2026-10-02",
-      "team": "Varsity",
-      "date": "Oct 2",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
       "id": "bd51cdba-c444-48b2-8eda-960da188c79e",
       "start": "2026-10-02T12:00:00-05:00",
       "team": "12U",
@@ -858,21 +498,6 @@
       }
     },
     {
-      "id": "7540a8b0-7c90-4af9-9aaa-6ed6f133ee97",
-      "start": "2026-10-02T17:00:00-05:00",
-      "team": "Varsity",
-      "date": "Oct 2",
-      "opponent": "Des Moines Eclipse",
-      "site": "Away",
-      "time": "5:00 PM",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
       "id": "a073489f-c224-410a-99be-ce77d26c5750",
       "start": "2026-10-03",
       "team": "12U",
@@ -885,36 +510,6 @@
       "venue": {
         "name": "New Century Fieldhouse",
         "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "36c53d64-58fe-4721-8779-e7620690b6f7",
-      "start": "2026-10-03",
-      "team": "Varsity",
-      "date": "Oct 3",
-      "opponent": "Regionals ",
-      "site": "Away",
-      "time": "TBD",
-      "location": "New Century, KS",
-      "result": null,
-      "venue": {
-        "name": "New Century Fieldhouse",
-        "address": "551 New Century Parkway, New Century, KS, 66031, US"
-      }
-    },
-    {
-      "id": "67cc6638-6293-4319-af39-f002f9da60f3",
-      "start": "2026-10-06T18:00:00-05:00",
-      "team": "Varsity",
-      "date": "Oct 6",
-      "opponent": "Central ",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Central High School",
-        "address": "423 East Central Street, Springfield, MO, 65802, US"
       }
     },
     {
@@ -960,21 +555,6 @@
       "venue": {
         "name": "The Fieldhouse Sportscenter",
         "address": "2235 West Kingsley Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "0d2a6a28-82c7-4ffd-95d6-ba7ab8b1df38",
-      "start": "2026-10-15T16:15:00-05:00",
-      "team": "Varsity",
-      "date": "Oct 15",
-      "opponent": "St. Louis Panthers",
-      "site": "Away",
-      "time": "4:15 PM",
-      "location": "Overland Park, KS",
-      "result": null,
-      "venue": {
-        "name": "AdventHealth Sports Park at Bluhawk",
-        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
       }
     },
     {
