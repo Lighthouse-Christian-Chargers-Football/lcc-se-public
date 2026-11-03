@@ -14,51 +14,6 @@
       "result": null
     },
     {
-      "id": "d4784d07-a5e0-4b5b-8309-3944846f70ed",
-      "start": "2026-08-28T19:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Aug 28",
-      "opponent": "Springfield Catholic",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
-      }
-    },
-    {
-      "id": "ae069e8f-395e-4998-9752-18b1e4055dab",
-      "start": "2026-08-28T19:00:00-05:00",
-      "team": "Varsity",
-      "date": "Aug 28",
-      "opponent": "Springfield Catholic",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
-      }
-    },
-    {
-      "id": "a18a19c1-a230-43a8-9015-90ea0b9b51a2",
-      "start": "2026-08-31T19:30:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Aug 31",
-      "opponent": "Springfield Catholic",
-      "site": "Away",
-      "time": "7:30 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Springfield Catholic High School",
-        "address": "2340 South Eastgate Avenue, Springfield, MO, 65809, US"
-      }
-    },
-    {
       "id": "3023df21-2fdb-4f96-a119-e1123d348ac5",
       "start": "2026-09-03T18:30:00-05:00",
       "team": "Junior High",
