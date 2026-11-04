@@ -600,17 +600,17 @@
     },
     {
       "id": "546da655-f36c-49b2-9b2d-29e600f8e124",
-      "start": "2026-11-07",
+      "start": "2026-11-07T16:30:00-06:00",
       "team": "Varsity",
       "date": "Nov 7",
-      "opponent": "TBD",
+      "opponent": "Christ Prep Varsity",
       "site": "Home",
-      "time": "TBD",
+      "time": "4:30 PM",
       "location": "Humboldt, KS",
       "result": null,
       "venue": {
-        "name": "Humboldt Sports Complex",
-        "address": "Central St, Humboldt, KS, 66748, US"
+        "name": "Cub Stadium",
+        "address": "Central Street, Humboldt, KS, 66748, US"
       }
     },
     {
