@@ -3,77 +3,6 @@
   "slug": "cheer",
   "games": [
     {
-      "id": "63f853b2-12a7-4f5a-a431-8fbbc9ff8170",
-      "start": "2026-08-24T17:30:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Aug 24",
-      "opponent": "Skyline",
-      "site": "Home",
-      "time": "5:30 PM",
-      "location": "",
-      "result": null
-    },
-    {
-      "id": "3023df21-2fdb-4f96-a119-e1123d348ac5",
-      "start": "2026-09-03T18:30:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 3",
-      "opponent": "Crane Junior High",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Crane, MO",
-      "result": null,
-      "venue": {
-        "name": "Crane Middle School",
-        "address": "209 Pirate Lane, Crane, MO, 65633, US"
-      }
-    },
-    {
-      "id": "146f3004-33aa-4d8b-9731-8514a862f125",
-      "start": "2026-09-04T19:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Sept 4",
-      "opponent": "Parkview Varsity",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "af2e2ae3-ee5a-4016-844a-187df02a3c94",
-      "start": "2026-09-04T19:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 4",
-      "opponent": "Pierce City",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "79cfb5b8-08d3-4ed9-ba06-c51f02dee5b0",
-      "start": "2026-09-04T19:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Sept 4",
-      "opponent": "Parkview Varsity",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
       "id": "b259f4e4-7f73-48f0-94fb-d2de998f1076",
       "start": "2026-09-04T19:00:00-05:00",
       "team": "Varsity",
@@ -86,51 +15,6 @@
       "venue": {
         "name": "Logan-Rogersville High School",
         "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "8c07dd06-8b4b-4bfa-8aec-222e49709f0f",
-      "start": "2026-09-08T18:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Sept 8",
-      "opponent": "Willow Springs",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Willow Springs, MO",
-      "result": null,
-      "venue": {
-        "name": "Willow Springs High School",
-        "address": "215 West 4th Street, Willow Springs, MO, 65793, US"
-      }
-    },
-    {
-      "id": "3ec94e45-070d-4a7e-9449-37a8df2191ad",
-      "start": "2026-09-10T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 10",
-      "opponent": "Springfield Bulldogs",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "900 N Summit Ave",
-        "address": "900 N Summit Ave, Springfield, MO, 65802, US"
-      }
-    },
-    {
-      "id": "b75aea9c-5086-4511-9ae6-fd76ca30aa0a",
-      "start": "2026-09-10T18:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 10",
-      "opponent": "Bulldogs",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "900 N Summit Ave",
-        "address": "900 N Summit Ave, Springfield, MO, 65802, US"
       }
     },
     {
@@ -149,66 +33,6 @@
       }
     },
     {
-      "id": "4b415373-1b79-40f0-88d5-c201b6bc99ed",
-      "start": "2026-09-14T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 14",
-      "opponent": "TBD",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
-      "id": "70f09ca8-b711-429f-8d04-4c7ddeb14ade",
-      "start": "2026-09-14T18:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Sept 14",
-      "opponent": "Crane",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
-      "id": "cb2b52e4-e5de-4489-9ab3-589e23bd4b53",
-      "start": "2026-09-14T18:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 14",
-      "opponent": "Crane",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
-      "id": "924c3b10-3eec-416a-b836-c966e9c39078",
-      "start": "2026-09-14T18:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Sept 14",
-      "opponent": "Crane",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Hillcrest High School",
-        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
       "id": "77131276-d99d-407a-a3ec-3ae60e798247",
       "start": "2026-09-14T18:00:00-05:00",
       "team": "Varsity",
@@ -221,36 +45,6 @@
       "venue": {
         "name": "Hillcrest High School",
         "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
-      }
-    },
-    {
-      "id": "5e4f1e9a-f005-4408-9b42-4662bb0d17cd",
-      "start": "2026-09-17T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 17",
-      "opponent": "Springfield Vikings Junior High",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
-      "id": "0d26271a-4ccc-4d12-96a0-b4caf4bed69f",
-      "start": "2026-09-17T18:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 17",
-      "opponent": "Vikings",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": null,
-      "venue": {
-        "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
       }
     },
     {
@@ -269,21 +63,6 @@
       }
     },
     {
-      "id": "0cc5c9f6-8f1d-4d24-a261-87021d181bca",
-      "start": "2026-09-21T18:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 21",
-      "opponent": "Eldorado Springs JV",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
       "id": "c18742d6-d389-48ef-a37e-ab63229acdba",
       "start": "2026-09-21T18:00:00-05:00",
       "team": "Varsity",
@@ -296,126 +75,6 @@
       "venue": {
         "name": "Fellowship Bible Church",
         "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "0cca2f50-c07e-4675-9091-f86c8effd80b",
-      "start": "2026-09-21T18:30:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Sept 21",
-      "opponent": "Bulldogs",
-      "site": "Home",
-      "time": "6:30 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "4e04d9cd-4984-4dd6-81e0-e9841dea118d",
-      "start": "2026-09-21T18:30:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Sept 21",
-      "opponent": "Eldorado Springs JV",
-      "site": "Home",
-      "time": "6:30 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "c6080f75-f0e3-4e60-9b69-20689d3caefc",
-      "start": "2026-09-24T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 24",
-      "opponent": "Nixa",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "7c88c10f-5b82-40df-99de-b2adbed2477d",
-      "start": "2026-09-24T18:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Sept 24",
-      "opponent": "Nixa",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "00947a05-9b2a-4897-993b-a8377c440542",
-      "start": "2026-09-24T18:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Sept 24",
-      "opponent": "Nixa",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "482b98dc-f468-453c-95e4-e68c2281789a",
-      "start": "2026-10-03T15:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Oct 3",
-      "opponent": "St. Marys Varsity",
-      "site": "Home",
-      "time": "3:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "ed60b208-033a-47ff-9711-2a88d9d498ac",
-      "start": "2026-10-03T15:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Oct 3",
-      "opponent": "St. Marys Varsity",
-      "site": "Home",
-      "time": "3:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "abc2405c-7363-4f81-ba8d-65ee2baa2a61",
-      "start": "2026-10-03T15:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Oct 3",
-      "opponent": "St. Marys Varsity",
-      "site": "Home",
-      "time": "3:00 PM",
-      "location": "Rogersville, MO",
-      "result": null,
-      "venue": {
-        "name": "Logan-Rogersville High School",
-        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -434,21 +93,6 @@
       }
     },
     {
-      "id": "2c2864eb-a54c-494c-a309-364a899d2ff8",
-      "start": "2026-10-10T12:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 10",
-      "opponent": "OKC Patriots Junior High",
-      "site": "Away",
-      "time": "12:00 PM",
-      "location": "Oklahoma City, OK",
-      "result": null,
-      "venue": {
-        "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
-      }
-    },
-    {
       "id": "8fdf6df2-8c87-45fa-a209-cebf74ba087e",
       "start": "2026-10-10T15:30:00-05:00",
       "team": "Varsity",
@@ -464,51 +108,6 @@
       }
     },
     {
-      "id": "4de9f7a6-73b1-48fe-bc4d-dd4f43411bb8",
-      "start": "2026-10-10T18:30:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Oct 10",
-      "opponent": "OKC Patriots Varsity and JV",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Oklahoma City, OK",
-      "result": null,
-      "venue": {
-        "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
-      }
-    },
-    {
-      "id": "279eaf61-e430-430d-9727-5ebc66b829a4",
-      "start": "2026-10-17T12:30:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 17",
-      "opponent": "Christ Prep Junior High",
-      "site": "Away",
-      "time": "12:30 PM",
-      "location": "Olathe, KS",
-      "result": null,
-      "venue": {
-        "name": "Christ Prep Patriots",
-        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
-      }
-    },
-    {
-      "id": "23c64be9-ba08-4412-adf9-73bc4e34a4b5",
-      "start": "2026-10-17T15:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Oct 17",
-      "opponent": "Christ Prep  JV and Varsity",
-      "site": "Away",
-      "time": "3:00 PM",
-      "location": "Olathe, KS",
-      "result": null,
-      "venue": {
-        "name": "Christ Prep Patriots",
-        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
-      }
-    },
-    {
       "id": "01dbd9a3-c4f3-4d8c-b700-33ac6ef0d9c6",
       "start": "2026-10-17T18:00:00-05:00",
       "team": "Varsity",
@@ -521,66 +120,6 @@
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
-      }
-    },
-    {
-      "id": "86d96e64-451a-4b68-aab1-7fbc402c808a",
-      "start": "2026-10-23T17:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 23",
-      "opponent": "Noah Junior High",
-      "site": "Home",
-      "time": "5:00 PM",
-      "location": "Ozark, MO",
-      "result": null,
-      "venue": {
-        "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
-      }
-    },
-    {
-      "id": "c95194e7-d685-4e00-8e62-8cb97b53a90f",
-      "start": "2026-10-23T17:00:00-05:00",
-      "team": "Mascots (Grades 1-3)",
-      "date": "Oct 23",
-      "opponent": "Noah Jaguars JV and Varsity",
-      "site": "Home",
-      "time": "5:00 PM",
-      "location": "Ozark, MO",
-      "result": null,
-      "venue": {
-        "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
-      }
-    },
-    {
-      "id": "608a0414-b791-426b-bbc3-783e1a0acb7b",
-      "start": "2026-10-23T19:00:00-05:00",
-      "team": "Junior Varsity",
-      "date": "Oct 23",
-      "opponent": "Noah Jaguars JV and Varsity",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Ozark, MO",
-      "result": null,
-      "venue": {
-        "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
-      }
-    },
-    {
-      "id": "7f852a33-a432-4194-8c65-2ef954930d2f",
-      "start": "2026-10-23T19:00:00-05:00",
-      "team": "Sparklers (Grades 4-6)",
-      "date": "Oct 23",
-      "opponent": "Noah Jaguars JV and Varsity",
-      "site": "Home",
-      "time": "7:00 PM",
-      "location": "Tiger Stadium",
-      "result": null,
-      "venue": {
-        "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
       }
     },
     {

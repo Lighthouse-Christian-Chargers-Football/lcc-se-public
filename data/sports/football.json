@@ -33,25 +33,6 @@
       }
     },
     {
-      "id": "c6e0121f-6619-4a87-bb6f-a0e4b3f16e43",
-      "start": "2026-09-03T18:30:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 3",
-      "opponent": "Crane",
-      "site": "Away",
-      "time": "6:30 PM",
-      "location": "Crane, MO",
-      "result": {
-        "visitor_score": 30,
-        "home_score": 20,
-        "outcome": "W"
-      },
-      "venue": {
-        "name": "Crane Middle School",
-        "address": "209 Pirate Lane, Crane, MO, 65633, US"
-      }
-    },
-    {
       "id": "adcb5bdd-80a9-41cd-b9f2-508d1eddb566",
       "start": "2026-09-04T19:00:00-05:00",
       "team": "Varsity",
@@ -68,25 +49,6 @@
       "venue": {
         "name": "Logan-Rogersville High School",
         "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
-      }
-    },
-    {
-      "id": "1b86e508-7db7-498d-9e49-8c55490356c6",
-      "start": "2026-09-10T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 10",
-      "opponent": "SPS - Bulldogs",
-      "site": "Away",
-      "time": "6:00 PM",
-      "location": "Springfield, MO",
-      "result": {
-        "visitor_score": 50,
-        "home_score": 20,
-        "outcome": "W"
-      },
-      "venue": {
-        "name": "Central High School",
-        "address": "423 East Central Street, Springfield, MO, 65802, US"
       }
     },
     {
@@ -109,25 +71,6 @@
       }
     },
     {
-      "id": "507bb7b0-810f-4c04-b01e-c71a900fc290",
-      "start": "2026-09-17T19:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 17",
-      "opponent": "SPS-Vikings",
-      "site": "Away",
-      "time": "7:00 PM",
-      "location": "Springfield, MO",
-      "result": {
-        "visitor_score": 0,
-        "home_score": 30,
-        "outcome": "L"
-      },
-      "venue": {
-        "name": "Parkview High School",
-        "address": "516 West Meadowmere Street, Springfield, MO, 65807, US"
-      }
-    },
-    {
       "id": "4fb8ee28-e1e1-484c-83c7-b3e82eeec116",
       "start": "2026-09-18T19:00:00-05:00",
       "team": "Varsity",
@@ -144,25 +87,6 @@
       "venue": {
         "name": "El Dorado Springs High School",
         "address": "901 South Grand Avenue, El Dorado Springs, MO, 64744, US"
-      }
-    },
-    {
-      "id": "67d1f881-7da5-4796-9039-4fce6458cc9c",
-      "start": "2026-09-24T18:00:00-05:00",
-      "team": "Junior High",
-      "date": "Sept 24",
-      "opponent": "Nixa",
-      "site": "Home",
-      "time": "6:00 PM",
-      "location": "Rogersville, MO",
-      "result": {
-        "visitor_score": 0,
-        "home_score": 42,
-        "outcome": "W"
-      },
-      "venue": {
-        "name": "Fellowship Bible Church",
-        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
       }
     },
     {
@@ -185,25 +109,6 @@
       }
     },
     {
-      "id": "133e960e-2c15-432e-bfaf-37a8230af662",
-      "start": "2026-10-10T12:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 10",
-      "opponent": "OKC",
-      "site": "Away",
-      "time": "12:00 PM",
-      "location": "Oklahoma City, OK",
-      "result": {
-        "visitor_score": 0,
-        "home_score": 47,
-        "outcome": "L"
-      },
-      "venue": {
-        "name": "OKC Patriots",
-        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
-      }
-    },
-    {
       "id": "326c310d-8186-4347-a836-1ecb2a8d9771",
       "start": "2026-10-10T15:30:00-05:00",
       "team": "Varsity",
@@ -223,25 +128,6 @@
       }
     },
     {
-      "id": "2449c763-97e4-4032-a006-0bef127dffb6",
-      "start": "2026-10-17T12:30:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 17",
-      "opponent": "Christ Prep",
-      "site": "Away",
-      "time": "12:30 PM",
-      "location": "Olathe, KS",
-      "result": {
-        "visitor_score": 12,
-        "home_score": 41,
-        "outcome": "L"
-      },
-      "venue": {
-        "name": "Christ Prep Patriots",
-        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
-      }
-    },
-    {
       "id": "d6aabe97-c6a5-4d60-9657-7417ada7c80c",
       "start": "2026-10-17T18:00:00-05:00",
       "team": "Varsity",
@@ -258,25 +144,6 @@
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
-      }
-    },
-    {
-      "id": "edd56bd9-c8d0-4f72-bc85-4f2e99eb6c51",
-      "start": "2026-10-23T17:00:00-05:00",
-      "team": "Junior High",
-      "date": "Oct 23",
-      "opponent": "NOAH",
-      "site": "Home",
-      "time": "5:00 PM",
-      "location": "Tiger Stadium",
-      "result": {
-        "visitor_score": 48,
-        "home_score": 6,
-        "outcome": "L"
-      },
-      "venue": {
-        "name": "Tiger Stadium",
-        "address": "1350 West Bluff Drive, Ozark, MO 65721, US"
       }
     },
     {
