@@ -19,11 +19,6 @@
       "sport": "Football",
       "slug": "football",
       "file": "football.json"
-    },
-    {
-      "sport": "Volleyball",
-      "slug": "volleyball",
-      "file": "volleyball.json"
     }
   ]
 }
