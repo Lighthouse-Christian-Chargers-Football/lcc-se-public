@@ -11,11 +11,6 @@
       "file": "cheer.json"
     },
     {
-      "sport": "Cross Country",
-      "slug": "cross-country",
-      "file": "cross-country.json"
-    },
-    {
       "sport": "Football",
       "slug": "football",
       "file": "football.json"
