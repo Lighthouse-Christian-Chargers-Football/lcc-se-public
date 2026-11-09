@@ -154,32 +154,17 @@
     },
     {
       "id": "25b91574-af11-40ea-b7f7-7349c657f297",
-      "start": "2026-11-18",
+      "start": "2026-11-18T18:00:00-06:00",
       "team": "Varsity",
       "date": "Nov 18",
       "opponent": "TBD",
       "site": "Home",
-      "time": "TBD",
-      "location": "Panama City Beach, FL",
+      "time": "6:00 PM",
+      "location": "Panama City, FL",
       "result": null,
       "venue": {
-        "name": "Panama City Beach",
-        "address": "Panama City Beach, Panama City Beach, FL, US"
-      }
-    },
-    {
-      "id": "6aef655f-6049-40ac-a628-33e0c494af5f",
-      "start": "2026-11-19",
-      "team": "Varsity",
-      "date": "Nov 19",
-      "opponent": "TBD",
-      "site": "Home",
-      "time": "TBD",
-      "location": "Panama City Beach, FL",
-      "result": null,
-      "venue": {
-        "name": "Panama City Beach",
-        "address": "Panama City Beach, Panama City Beach, FL, US"
+        "name": "Tommy Oliver Stadium",
+        "address": "Tommy Oliver Stadium, Panama City, FL, 32401, US"
       }
     },
     {
