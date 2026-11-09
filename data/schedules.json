@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:49:47+00:00",
+  "generated_at": "2026-11-09T04:54:34+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -132,6 +132,14 @@
       "result": null
     },
     {
+      "date": "Nov 18",
+      "opponent": "Tomball Christian Warriors",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Panama City, FL",
+      "result": null
+    },
+    {
       "date": "Nov 18-21",
       "opponent": "NHFA",
       "site": "Neutral",
@@ -243,6 +251,14 @@
       "site": "",
       "time": "",
       "location": "",
+      "result": null
+    },
+    {
+      "date": "Nov 19",
+      "opponent": "Central Maryland Christian Crusaders",
+      "site": "Away",
+      "time": "12:00 PM",
+      "location": "Panama City Beach, FL",
       "result": null
     }
   ],
