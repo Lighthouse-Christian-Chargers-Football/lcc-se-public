@@ -139,34 +139,36 @@
    output instead, rescale its top/bottom by the same ratio first or
    the schedule grid will start too high again.
 
-   SIZING NOTE: target row capacity is 14 Varsity / 12 JV / 8 JH
-   (picked directly, not a shared rule), so each image got its own
-   extra height:
-     v_bg.jpeg:  921x1152 -> 921x1287 (+135px, today 13 rows, target 14)
-     jv_bg.jpeg: 921x1152 -> 921x1327 (+175px, today 11 rows, target 12)
-     jh_bg.jpeg: 921x1152 -> 921x1212 (+60px,  today 8 rows,  target 8)
-   JH's target equals its current row count, but it still needed
-   +60px: even at today's 8 rows the ORIGINAL 1152px image already
-   clipped on narrow phones (not on desktop), so some extension was
-   unavoidable just to stop clipping where things stand right now,
-   with no additional row headroom built in.
-   Checked for clipping at the target row counts across viewport
-   widths from 300px (narrow phones) up through 1440px desktop -
-   narrow phones are the real worst case here, not desktop, because
-   the image renders at a smaller CSS pixel width there so the same
-   row overflows into more natural image pixels. Each has ~18-19px
-   of margin at its target row count at the worst width tested
-   (vw=300). Below the target (true today for all three), there's
-   blank space at the bottom by design. If any target changes,
-   re-run /tmp/extend_bg.py (if still around) or regenerate with a
-   new extra_px per image and rescale these percentages by
-   old_height/new_height the same way. */
+   SIZING NOTE: zero row buffer - each image is sized to fit exactly
+   today's real row count, not a projected future count:
+     v_bg.jpeg:  921x1152 -> 921x1212 (+60px,  12 real Varsity rows)
+     jv_bg.jpeg: 921x1152 -> 921x1287 (+135px, 11 real JV rows)
+     jh_bg.jpeg: 921x1152 -> 921x1212 (+60px,  8 real JH rows, unchanged)
+   (Previously targeted 14/12/8 with headroom for more rows than
+   today's count - that left too much visible blank space in
+   production, per direct feedback, so dropped the headroom
+   entirely. The tradeoff: once a real schedule grows past today's
+   count - e.g. a playoff game added to Varsity - these need
+   re-sizing again, same process as before, or that one new row
+   clips again on narrow phones.) Even with zero row buffer, +60px
+   was still unavoidable on Varsity/JH: the ORIGINAL 1152px image
+   already clipped their current real row counts on narrow phones
+   (not desktop), so that's the floor, not a buffer.
+   Checked for clipping at exactly today's row counts across
+   viewport widths from 300px (narrow phones) up through 1440px
+   desktop - narrow phones are the real worst case here, not
+   desktop, because the image renders at a smaller CSS pixel width
+   there so the same row overflows into more natural image pixels.
+   ~16-18px of margin at the worst width tested (vw=300). If a
+   team's real row count changes, re-run /tmp/extend_bg.py (if
+   still around) or regenerate with a new extra_px per image and
+   rescale these percentages by old_height/new_height the same way. */
    /* Your Exact Varsity Placement Blueprint */
    .chargers-varsity-overlay {
      left: 7.5% !important;
      right: 3.5% !important;
-     top: 59.08% !important; /* 66% * (1152/1287) */
-     bottom: 1.79% !important; /* 2% * (1152/1287) */
+     top: 62.73% !important; /* 66% * (1152/1212) */
+     bottom: 1.90% !important; /* 2% * (1152/1212) */
      font-size: clamp(7px, 1.25vw, 18px) !important;
      line-height: 1.6 !important;
    }
@@ -174,8 +176,8 @@
    .chargers-jv-overlay {
      left: 7.5% !important;
      right: -0.5% !important;
-     top: 63.37% !important; /* 73% * (1152/1327) */
-     bottom: 1.74% !important; /* 2% * (1152/1327) */
+     top: 65.34% !important; /* 73% * (1152/1287) */
+     bottom: 1.79% !important; /* 2% * (1152/1287) */
      font-size: clamp(8px, 1.45vw, 18px) !important;
      line-height: 1.5 !important;
    }
@@ -289,7 +291,7 @@
 
    RESCALED for the taller background images - see the TUNER OUTPUT
    REGION comment above for why, and for each image's own new
-   height (v: 1287, jv: 1327, jh: 1212 - each team was rescaled by
+   height (v: 1212, jv: 1287, jh: 1212 - each team was rescaled by
    its OWN ratio, not a shared one, since each image grew by a
    different amount). The measured team_name_top_pct values above
    are still relative to each ORIGINAL 1152px-tall image (that art
@@ -302,10 +304,10 @@
    is), never by nudging these directly, if any image's height
    changes again. */
 .chargers-record-varsity {
-  top: calc(42.31% - 1.02em) !important; /* (0.497 - 0.0243) * (1152/1287) */
+  top: calc(44.93% - 1.02em) !important; /* (0.497 - 0.0243) * (1152/1212) */
 }
 .chargers-record-jv {
-  top: calc(46.94% - 1.02em) !important; /* (0.565 - 0.0243) * (1152/1327) */
+  top: calc(48.40% - 1.02em) !important; /* (0.565 - 0.0243) * (1152/1287) */
 }
 .chargers-record-jh {
   top: calc(51.11% - 1.02em) !important; /* (0.562 - 0.0243) * (1152/1212) */
