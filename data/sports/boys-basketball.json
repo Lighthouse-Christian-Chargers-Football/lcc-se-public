@@ -123,6 +123,21 @@
       }
     },
     {
+      "id": "2e34847e-5cf0-4923-b424-5fd6636ebcd2",
+      "start": "2026-12-08T18:00:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Dec 8",
+      "opponent": "Lebanon Rockets",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "Lebanon, MO",
+      "result": null,
+      "venue": {
+        "name": "First Freewill Baptist Church",
+        "address": "280 North Vanburen Avenue, Lebanon, MO, 65536, US"
+      }
+    },
+    {
       "id": "31802e32-29e4-4f55-9641-bf0a7d29ad4f",
       "start": "2026-12-11",
       "team": "High School BBall",
@@ -153,6 +168,36 @@
       }
     },
     {
+      "id": "93de6f04-4a0c-43ff-beaa-969c4d038894",
+      "start": "2026-12-11",
+      "team": "Junior High BBall",
+      "date": "Dec 11",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "7d771f69-10a3-4ff1-b17b-5ad5ff63856d",
+      "start": "2026-12-11",
+      "team": "Junior High BBall",
+      "date": "Dec 11",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
       "id": "fdd47029-a0c2-45ea-8c8b-dc4f40da0b92",
       "start": "2026-12-12",
       "team": "High School BBall",
@@ -165,6 +210,51 @@
       "venue": {
         "name": "The Fieldhouse Sportscenter",
         "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "e2b0c98f-4af3-40c7-abfa-abb7aca99e04",
+      "start": "2026-12-12",
+      "team": "Junior High BBall",
+      "date": "Dec 12",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "9acff255-2d5a-482d-9814-e6245c538789",
+      "start": "2026-12-14T17:30:00-06:00",
+      "team": "High School BBall",
+      "date": "Dec 14",
+      "opponent": "Clever High School",
+      "site": "Home",
+      "time": "5:30 PM",
+      "location": "Clever, MO",
+      "result": null,
+      "venue": {
+        "name": "",
+        "address": "6800 W Veterans Blvd, Clever, MO, 65631, US"
+      }
+    },
+    {
+      "id": "c9c05308-8268-4b2d-8852-1e3616b38cd0",
+      "start": "2026-12-14T18:00:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Dec 14",
+      "opponent": "Forsyth",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "Forsyth, MO",
+      "result": null,
+      "venue": {
+        "name": "Forsyth High School",
+        "address": "178 Panther Street, Forsyth, MO, 65653, US"
       }
     },
     {
@@ -183,6 +273,21 @@
       }
     },
     {
+      "id": "6b6b142d-17d9-4d3c-a1ee-24847249c5e4",
+      "start": "2026-12-16",
+      "team": "Junior High BBall",
+      "date": "Dec 16",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Reeds Spring, MO",
+      "result": null,
+      "venue": {
+        "name": "Reeds Spring High School",
+        "address": "20277 Missouri 413, Reeds Spring, MO, 65737, US"
+      }
+    },
+    {
       "id": "ca63887f-da83-459a-b2a6-78d6c8ba0186",
       "start": "2026-12-17T17:30:00-06:00",
       "team": "High School BBall",
@@ -195,6 +300,36 @@
       "venue": {
         "name": "Evangel University",
         "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "c1fbe53f-4fbd-4fbb-a4a4-7c0accbd3970",
+      "start": "2026-12-19",
+      "team": "Junior High BBall",
+      "date": "Dec 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Reeds Spring, MO",
+      "result": null,
+      "venue": {
+        "name": "Reeds Spring High School",
+        "address": "20277 Missouri 413, Reeds Spring, MO, 65737, US"
+      }
+    },
+    {
+      "id": "3827fdf4-bb9f-46e0-9291-e724631cd9d0",
+      "start": "2026-12-19",
+      "team": "Junior High BBall",
+      "date": "Dec 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Reeds Spring, MO",
+      "result": null,
+      "venue": {
+        "name": "Reeds Spring High School",
+        "address": "20277 Missouri 413, Reeds Spring, MO, 65737, US"
       }
     },
     {
@@ -228,6 +363,21 @@
       }
     },
     {
+      "id": "1cfeb165-507d-4041-b701-5da59ece872e",
+      "start": "2027-01-04T18:00:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Jan 4",
+      "opponent": "McAuley St Peters",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
       "id": "95145818-1766-470b-8bbc-2362c085c4d4",
       "start": "2027-01-05T18:00:00-06:00",
       "team": "High School BBall",
@@ -240,6 +390,21 @@
       "venue": {
         "name": "Evangel University",
         "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "044d9a72-1a2e-47fc-ac30-e219e53790dd",
+      "start": "2027-01-07T18:00:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Jan 7",
+      "opponent": "East Newton",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "Granby, MO",
+      "result": null,
+      "venue": {
+        "name": "East Newton School District-Granby Campus",
+        "address": "440 East High Street, Granby, MO, 64844, US"
       }
     },
     {
@@ -273,6 +438,21 @@
       }
     },
     {
+      "id": "1f30b734-8b13-48b4-9122-1480e1ffeb05",
+      "start": "2027-01-12T05:30:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Jan 12",
+      "opponent": "Miller High School",
+      "site": "Home",
+      "time": "5:30 AM",
+      "location": "Republic, MO",
+      "result": null,
+      "venue": {
+        "name": "Price Elementary School",
+        "address": "518 North Hampton Avenue, Republic, MO, 65738, US"
+      }
+    },
+    {
       "id": "6fd50d35-4389-44ec-9a05-6fa8a224f060",
       "start": "2027-01-15",
       "team": "High School BBall",
@@ -303,6 +483,21 @@
       }
     },
     {
+      "id": "49b94dc0-1ed0-4f38-bad1-7679d56c7c96",
+      "start": "2027-01-19",
+      "team": "Junior High BBall",
+      "date": "Jan 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Buffalo, MO",
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
+    },
+    {
       "id": "b0cedff4-f6c4-488d-83a3-c59bb760c83b",
       "start": "2027-01-19T18:00:00-06:00",
       "team": "High School BBall",
@@ -315,6 +510,36 @@
       "venue": {
         "name": "Hartville High School",
         "address": "175 School Avenue, Hartville, MO, 65667, US"
+      }
+    },
+    {
+      "id": "2adf8795-9162-4f8a-ba94-3f47b2e03182",
+      "start": "2027-01-21",
+      "team": "Junior High BBall",
+      "date": "Jan 21",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Buffalo, MO",
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
+      }
+    },
+    {
+      "id": "c9e1c1e1-a789-4dc5-a620-5d9369ad9948",
+      "start": "2027-01-22",
+      "team": "Junior High BBall",
+      "date": "Jan 22",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Buffalo, MO",
+      "result": null,
+      "venue": {
+        "name": "Buffalo High School",
+        "address": "500 West Main Street, Buffalo, MO, 65622, US"
       }
     },
     {
@@ -363,6 +588,21 @@
       }
     },
     {
+      "id": "868a8e57-cfee-45f5-8dd4-28206554d1d9",
+      "start": "2027-02-04T17:30:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Feb 4",
+      "opponent": "Skyline",
+      "site": "Away",
+      "time": "5:30 PM",
+      "location": "Urbana, MO",
+      "result": null,
+      "venue": {
+        "name": "Skyline High School",
+        "address": "20663 U.S. 65, Urbana, MO, 65767, US"
+      }
+    },
+    {
       "id": "1b47c812-b3c8-4c27-ad9a-5071c80aff99",
       "start": "2027-02-05",
       "team": "High School BBall",
@@ -378,6 +618,21 @@
       }
     },
     {
+      "id": "51d13770-b8ff-49ff-82af-662ac45bf246",
+      "start": "2027-02-05T18:00:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Feb 5",
+      "opponent": "Crane",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "Crane, MO",
+      "result": null,
+      "venue": {
+        "name": "Crane Middle School",
+        "address": "209 Pirate Lane, Crane, MO, 65633, US"
+      }
+    },
+    {
       "id": "92269ce8-9a42-46d6-bab6-c181cd50094a",
       "start": "2027-02-06",
       "team": "High School BBall",
@@ -390,6 +645,21 @@
       "venue": {
         "name": "McAuley Catholic High School",
         "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "b2b3f05d-e2d6-458b-b43f-5a961bd9af3f",
+      "start": "2027-02-08T17:30:00-06:00",
+      "team": "Junior High BBall",
+      "date": "Feb 8",
+      "opponent": "Lockwood",
+      "site": "Home",
+      "time": "5:30 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
       }
     },
     {
@@ -434,6 +704,36 @@
       }
     },
     {
+      "id": "f142ba87-ca2d-4c5e-94fe-b963506ca635",
+      "start": "2027-02-12",
+      "team": "Junior High BBall",
+      "date": "Feb 12",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Columbia, MO",
+      "result": null,
+      "venue": {
+        "name": "Columbia Sports Fieldhouse",
+        "address": "4251 Philips Farm Road, Columbia, MO, 65201, US"
+      }
+    },
+    {
+      "id": "35e8d661-178d-4b36-8c75-e6045ad6e026",
+      "start": "2027-02-12",
+      "team": "Junior High BBall",
+      "date": "Feb 12",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Columbia, MO",
+      "result": null,
+      "venue": {
+        "name": "Columbia Sports Fieldhouse",
+        "address": "4251 Philips Farm Road, Columbia, MO, 65201, US"
+      }
+    },
+    {
       "id": "66e6980f-da8e-4a4b-b260-171b682d2ed6",
       "start": "2027-02-13",
       "team": "High School BBall",
@@ -449,9 +749,39 @@
       }
     },
     {
+      "id": "dbb8d43e-dbe3-437e-a54e-ef7c54ca451d",
+      "start": "2027-02-13",
+      "team": "Junior High BBall",
+      "date": "Feb 13",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Columbia, MO",
+      "result": null,
+      "venue": {
+        "name": "Columbia Sports Fieldhouse",
+        "address": "4251 Philips Farm Road, Columbia, MO, 65201, US"
+      }
+    },
+    {
       "id": "39da47f3-4e23-4ff2-9af8-537b417814ed",
       "start": "2027-02-18",
       "team": "High School BBall",
+      "date": "Feb 18",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
+      "id": "e6611d2a-a9d8-4c21-9592-6af0ce29b740",
+      "start": "2027-02-18",
+      "team": "Junior High BBall",
       "date": "Feb 18",
       "opponent": "TBD",
       "site": "Home",
@@ -494,9 +824,54 @@
       }
     },
     {
+      "id": "46b1c2fc-b0b7-43e1-a308-4da551d15cd3",
+      "start": "2027-02-19",
+      "team": "Junior High BBall",
+      "date": "Feb 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
+      "id": "04612d38-888b-409c-84b5-ef3f67701a74",
+      "start": "2027-02-19",
+      "team": "Junior High BBall",
+      "date": "Feb 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
       "id": "cebbecf5-0061-4e36-8317-16df5ac17033",
       "start": "2027-02-20",
       "team": "High School BBall",
+      "date": "Feb 20",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Overland Park, KS",
+      "result": null,
+      "venue": {
+        "name": "AdventHealth Sports Park at Bluhawk",
+        "address": "16201 Shawnee Drive, Overland Park, KS, 66223, US"
+      }
+    },
+    {
+      "id": "219b9264-ceee-406a-8335-bf0fb9efe076",
+      "start": "2027-02-20",
+      "team": "Junior High BBall",
       "date": "Feb 20",
       "opponent": "TBD",
       "site": "Home",
@@ -518,6 +893,186 @@
       "time": "6:00 PM",
       "location": "",
       "result": null
+    },
+    {
+      "id": "0020418c-0f0a-4f69-9c43-8e3bf865736f",
+      "start": "2027-02-25",
+      "team": "Junior High BBall",
+      "date": "Feb 25",
+      "opponent": "Lebanon Rockets",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "8d13266b-f206-4bc2-889b-9fae9dce4d90",
+      "start": "2027-02-25T18:00:00-06:00",
+      "team": "High School BBall",
+      "date": "Feb 25",
+      "opponent": "Lebanon Rockets",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Evangel University",
+        "address": "1111 N Glenstone Ave, Springfield, MO, 65802, US"
+      }
+    },
+    {
+      "id": "c0e19e4c-1109-48b7-9b60-6f42e9c053b1",
+      "start": "2027-03-15",
+      "team": "High School BBall",
+      "date": "Mar 15",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "2ce8447f-282c-4efa-83e1-40e04a89ac6d",
+      "start": "2027-03-15",
+      "team": "Junior High BBall",
+      "date": "Mar 15",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "f16718b3-e64f-4ef4-843e-3740741b5316",
+      "start": "2027-03-16",
+      "team": "High School BBall",
+      "date": "Mar 16",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "ec877358-9ee9-4f33-8bde-514930b79d37",
+      "start": "2027-03-16",
+      "team": "Junior High BBall",
+      "date": "Mar 16",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "62126641-006c-4b72-9863-9e786c8401a5",
+      "start": "2027-03-17",
+      "team": "High School BBall",
+      "date": "Mar 17",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "345c8052-661b-4332-b353-51b8940b9273",
+      "start": "2027-03-17",
+      "team": "Junior High BBall",
+      "date": "Mar 17",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "bd1de8b6-5672-42d0-b588-410b8d384b21",
+      "start": "2027-03-18",
+      "team": "High School BBall",
+      "date": "Mar 18",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "67b93182-0bd9-43d5-a8e6-87674b8dfb37",
+      "start": "2027-03-18",
+      "team": "Junior High BBall",
+      "date": "Mar 18",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "aef9b7b4-2388-442f-9cb9-8586740f4d9a",
+      "start": "2027-03-19",
+      "team": "High School BBall",
+      "date": "Mar 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
+    },
+    {
+      "id": "e9cfe59f-09d6-4c45-8733-02d276cf3dc4",
+      "start": "2027-03-19",
+      "team": "Junior High BBall",
+      "date": "Mar 19",
+      "opponent": "TBD",
+      "site": "Home",
+      "time": "TBD",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "The Fieldhouse Sportscenter",
+        "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
+      }
     }
   ]
 }
