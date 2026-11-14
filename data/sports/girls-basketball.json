@@ -1,11 +1,11 @@
 {
-  "sport": "Basketball",
-  "slug": "basketball",
+  "sport": "Girls Basketball",
+  "slug": "girls-basketball",
   "games": [
     {
       "id": "0f02c6b8-5b0a-44d5-b89e-565e1d1ed0f1",
       "start": "2026-11-24T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Nov 24",
       "opponent": "Buffalo High School",
       "site": "Away",
@@ -20,7 +20,7 @@
     {
       "id": "45413430-c13c-43cf-a628-c517f1d28091",
       "start": "2026-11-30T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Nov 30",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -31,7 +31,7 @@
     {
       "id": "dec7aeee-af1b-4808-ae5e-b8b5a707c15e",
       "start": "2026-12-01T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 1",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -42,7 +42,7 @@
     {
       "id": "e04afa68-e078-4ce6-9b7f-13fe07a3e78c",
       "start": "2026-12-02T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 2",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -53,7 +53,7 @@
     {
       "id": "c0afb524-40ab-4e53-8a4c-f2f22a0adb15",
       "start": "2026-12-03T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 3",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -64,7 +64,7 @@
     {
       "id": "72d74bb3-368e-4d2c-874e-312e489339e1",
       "start": "2026-12-04T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 4",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -75,7 +75,7 @@
     {
       "id": "267e730e-c9b1-4429-8f9a-2a871f1858af",
       "start": "2026-12-05T08:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 5",
       "opponent": "Morrisville High School",
       "site": "Away",
@@ -86,7 +86,7 @@
     {
       "id": "ac03bc1d-c7f0-4bf4-936b-4dedc5125e49",
       "start": "2026-12-15T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 15",
       "opponent": "Lockwood High School",
       "site": "Home",
@@ -101,7 +101,7 @@
     {
       "id": "0b37e926-722e-42ed-bdb8-8c87d737472b",
       "start": "2026-12-17T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Dec 17",
       "opponent": "Seneca High School",
       "site": "Home",
@@ -112,7 +112,7 @@
     {
       "id": "abc5eaca-41e5-4e3c-9d55-194ab80c5aac",
       "start": "2027-01-05T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Jan 5",
       "opponent": "New Heights Christian Academy",
       "site": "Home",
@@ -127,7 +127,7 @@
     {
       "id": "bcd1f2ae-3636-42d4-bbfd-5ec2db6e4d22",
       "start": "2027-01-07T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Jan 7",
       "opponent": "Clever High School",
       "site": "Home",
@@ -142,7 +142,7 @@
     {
       "id": "918c2697-f7ee-496f-be53-743e7c694ca4",
       "start": "2027-01-08T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Jan 8",
       "opponent": "Miller High School",
       "site": "Home",
@@ -153,7 +153,7 @@
     {
       "id": "24cf4770-f026-462c-a284-5243fe07bddb",
       "start": "2027-01-28T17:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Jan 28",
       "opponent": "Monett High School",
       "site": "Home",
@@ -168,7 +168,7 @@
     {
       "id": "1860903b-5ed3-46b1-9712-b92bfe98419f",
       "start": "2027-02-09T18:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Feb 9",
       "opponent": "Halfway High School",
       "site": "Home",
@@ -183,7 +183,7 @@
     {
       "id": "24ddb88e-0f03-4c43-a1ae-2cea994e7453",
       "start": "2027-02-15T18:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Feb 15",
       "opponent": "Gloria Deo Academy",
       "site": "Home",
@@ -198,7 +198,7 @@
     {
       "id": "93701445-054c-47c2-823b-40ec5b2b0ae2",
       "start": "2027-02-16T18:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Feb 16",
       "opponent": "Blue Eye High School",
       "site": "Away",
@@ -209,7 +209,7 @@
     {
       "id": "b1ad377d-b9ac-447b-be8f-338426e72be7",
       "start": "2027-02-25T05:00:00-06:00",
-      "team": "Girls High School BBall",
+      "team": "High School BBall",
       "date": "Feb 25",
       "opponent": "Central High School",
       "site": "Away",

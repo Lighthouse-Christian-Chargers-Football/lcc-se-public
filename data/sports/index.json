@@ -1,9 +1,9 @@
 {
   "sports": [
     {
-      "sport": "Basketball",
-      "slug": "basketball",
-      "file": "basketball.json"
+      "sport": "Boys Basketball",
+      "slug": "boys-basketball",
+      "file": "boys-basketball.json"
     },
     {
       "sport": "Cheer",
@@ -14,6 +14,11 @@
       "sport": "Football",
       "slug": "football",
       "file": "football.json"
+    },
+    {
+      "sport": "Girls Basketball",
+      "slug": "girls-basketball",
+      "file": "girls-basketball.json"
     }
   ]
 }
