@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:04:46+00:00",
+  "generated_at": "2026-11-19T22:38:41+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -265,7 +265,7 @@
       "time": "",
       "location": "",
       "result": null,
-      "postseason": false
+      "postseason": true
     },
     {
       "date": "Oct 31",
@@ -274,7 +274,7 @@
       "time": "",
       "location": "",
       "result": null,
-      "postseason": false
+      "postseason": true
     },
     {
       "date": "Nov 19",
@@ -282,8 +282,12 @@
       "site": "Away",
       "time": "12:00 PM",
       "location": "Panama City Beach, FL",
-      "result": null,
-      "postseason": false
+      "result": {
+        "visitor_score": 26,
+        "home_score": 0,
+        "outcome": "W"
+      },
+      "postseason": true
     }
   ],
   "jh": [

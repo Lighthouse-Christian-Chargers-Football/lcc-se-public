@@ -326,7 +326,11 @@
       "site": "Away",
       "time": "12:00 PM",
       "location": "Panama City Beach, FL",
-      "result": null,
+      "result": {
+        "visitor_score": 26,
+        "home_score": 0,
+        "outcome": "W"
+      },
       "venue": {
         "name": "Publix Sports Park",
         "address": "50 Chip Seal Parkway, Panama City Beach, FL, 32407, US"
