@@ -27,6 +27,47 @@
   z-index: 10 !important;
 }
 
+/* Marks where postseason games begin (see schedule_overrides.yaml's
+   postseason_cutoff and schedule_builder.py's `postseason` row flag) -
+   inserted once per team, right before its first postseason row, by
+   buildDivider()/buildTeamRows() in 2026-game-schedules.html.
+   Deliberately compact (small font, tight margin): each background
+   image is sized to exactly today's real row count (see the TUNER
+   OUTPUT REGION comment below), so every bit of extra height this adds
+   is itself at risk of pushing the last row past the image's bottom
+   edge on narrow phones - re-check row counts there if a team's
+   postseason run adds enough games to matter.
+   drawScheduleCanvas() in 2026-game-schedules.html redraws this same
+   line+label for the flattened share/download image (canvas can't see
+   pseudo-elements) - keep that in sync if you change this. */
+.chargers-schedule-divider {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.4em !important;
+  width: 100% !important;
+  margin: 0.15em 0 !important;
+}
+.chargers-schedule-divider::before,
+.chargers-schedule-divider::after {
+  content: "" !important;
+  flex: 1 1 auto !important;
+  height: 1px !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
+  opacity: 0.55 !important;
+}
+.chargers-schedule-divider-label {
+  flex: 0 0 auto !important;
+  font-size: 0.82em !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.08em !important;
+  color: var(--lcc-orange, #f36f21) !important;
+  opacity: 0.9 !important;
+  white-space: nowrap !important;
+}
+
 /* Season win-loss record, superimposed over the background photo itself
    (NOT part of the .chargers-overlay schedule grid below it) - centered
    above the team name art, roughly where the players' legs are. Position
@@ -87,7 +128,16 @@
 .chargers-record-overlay::before,
 .chargers-record-overlay::after {
   content: "" !important;
-  flex: 0 1 1.9em !important;
+  /* flex-shrink: 0, not the default 1 - without this, a tight container
+     shrinks these ornamental lines down toward nothing while the record
+     text (forced onto one line by .chargers-record-text's white-space:
+     nowrap) stays at full size, which is backwards from what should
+     happen. Keeping these a fixed proportion of the current font-size
+     means any space pressure instead overflows and triggers
+     fitRecordText()'s JS shrink in 2026-game-schedules.html, which
+     reduces .chargers-record-overlay's font-size - shrinking the lines
+     (being em-based) right along with the text, together. */
+  flex: 0 0 1.9em !important;
   width: 1.9em !important;
   /* Line thickness/block-height below were too thick per direct
      feedback ("thicker than the ones around SCHEDULE") - remeasured
@@ -107,6 +157,16 @@
   background-repeat: no-repeat, no-repeat !important;
   background-size: 100% 0.043em, 100% 0.043em !important;
   background-position: top center, bottom center !important;
+}
+/* The record text itself (e.g. "5-3"), as its own flex child - never
+   wraps to a second line (a tie record like "5-3-1" plus the flanking
+   lines can get close to the card's width at some sizes). fitRecordText()
+   in 2026-game-schedules.html shrinks .chargers-record-overlay's
+   font-size, measured against this, until it fits on one line instead -
+   a wrapped two-line record is never acceptable here, even if that means
+   going below the clamp()'s own minimum. */
+.chargers-record-text {
+  white-space: nowrap !important;
 }
 
 /* ============================================================
@@ -141,7 +201,11 @@
 
    SIZING NOTE: zero row buffer - each image is sized to fit exactly
    today's real row count, not a projected future count:
-     v_bg.jpeg:  921x1152 -> 921x1212 (+60px,  12 real Varsity rows)
+     v_bg.jpeg:  921x1152 -> 921x1312 (+160px, 13 real Varsity rows - the
+                 last +100px added once Nov 7 came back as a real
+                 postseason game, by stretching the existing blank area
+                 taller rather than tiling a seam, so there's no repeat
+                 line in the paper texture)
      jv_bg.jpeg: 921x1152 -> 921x1287 (+135px, 11 real JV rows)
      jh_bg.jpeg: 921x1152 -> 921x1212 (+60px,  8 real JH rows, unchanged)
    (Previously targeted 14/12/8 with headroom for more rows than
@@ -160,15 +224,20 @@
    desktop, because the image renders at a smaller CSS pixel width
    there so the same row overflows into more natural image pixels.
    ~16-18px of margin at the worst width tested (vw=300). If a
-   team's real row count changes, re-run /tmp/extend_bg.py (if
-   still around) or regenerate with a new extra_px per image and
-   rescale these percentages by old_height/new_height the same way. */
+   team's real row count changes again: crop the image at its own
+   top:/bottom: boundary (in pixels, from this file's current
+   numbers x image height) to split off the header art from the
+   blank schedule area, resize ONLY the blank part taller by the
+   extra_px needed, then re-stack them - this is what the last
+   Varsity resize did (no script currently in the repo for it) - and
+   rescale top:/bottom:/record top: here by old_height/new_height,
+   same as always. */
    /* Your Exact Varsity Placement Blueprint */
    .chargers-varsity-overlay {
      left: 7.5% !important;
      right: 3.5% !important;
-     top: 62.73% !important; /* 66% * (1152/1212) */
-     bottom: 1.90% !important; /* 2% * (1152/1212) */
+     top: 57.95% !important; /* 760px / 1312, preserved from 62.73% * 1212 - unchanged header art */
+     bottom: 1.76% !important; /* 23px / 1312, preserved from 1.90% * 1212 */
      font-size: clamp(7px, 1.25vw, 18px) !important;
      line-height: 1.6 !important;
    }
@@ -291,7 +360,7 @@
 
    RESCALED for the taller background images - see the TUNER OUTPUT
    REGION comment above for why, and for each image's own new
-   height (v: 1212, jv: 1287, jh: 1212 - each team was rescaled by
+   height (v: 1312, jv: 1287, jh: 1212 - each team was rescaled by
    its OWN ratio, not a shared one, since each image grew by a
    different amount). The measured team_name_top_pct values above
    are still relative to each ORIGINAL 1152px-tall image (that art
@@ -302,9 +371,14 @@
    measurement. Recompute from the original team_name_top_pct
    values (scaled by whatever the current/original height ratio
    is), never by nudging these directly, if any image's height
-   changes again. */
+   changes again. (Varsity's v2 resize, 1212->1312, only grew the
+   blank schedule area below the header art - the header art itself,
+   "VARSITY" text included, didn't move - so its pixel position was
+   preserved by carrying forward 44.93% * 1212 = 544.68px rather than
+   re-deriving from the original 1152 measurement, same idea as the
+   overlay top:/bottom: above.) */
 .chargers-record-varsity {
-  top: calc(44.93% - 1.02em) !important; /* (0.497 - 0.0243) * (1152/1212) */
+  top: calc(41.51% - 1.02em) !important; /* 544.68px / 1312, preserved from 44.93% * 1212 */
 }
 .chargers-record-jv {
   top: calc(48.40% - 1.02em) !important; /* (0.565 - 0.0243) * (1152/1287) */
