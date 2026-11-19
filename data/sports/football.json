@@ -280,6 +280,25 @@
       }
     },
     {
+      "id": "a9959c4f-35ff-4677-9537-cc98022382ae",
+      "start": "2026-11-07T16:30:00-06:00",
+      "team": "Varsity",
+      "date": "Nov 7",
+      "opponent": "Conf. Championship",
+      "site": "Away",
+      "time": "4:30 PM",
+      "location": "Humboldt, KS",
+      "result": {
+        "visitor_score": 7,
+        "home_score": 49,
+        "outcome": "L"
+      },
+      "venue": {
+        "name": "Cub Stadium",
+        "address": "Central Street, Humboldt, KS, 66748, US"
+      }
+    },
+    {
       "id": "28fbf0b5-254d-4812-98bf-46ada6a64794",
       "start": "2026-11-18T18:00:00-06:00",
       "team": "Varsity",

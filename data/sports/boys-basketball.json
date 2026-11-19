@@ -49,12 +49,12 @@
     },
     {
       "id": "4580f733-66e2-42e9-be8e-05804a930494",
-      "start": "2026-11-24T18:00:00-06:00",
+      "start": "2026-11-24T17:00:00-06:00",
       "team": "High School BBall",
       "date": "Nov 24",
       "opponent": "Buffalo High School",
-      "site": "Home",
-      "time": "6:00 PM",
+      "site": "Away",
+      "time": "5:00 PM",
       "location": "Buffalo, MO",
       "result": null,
       "venue": {
