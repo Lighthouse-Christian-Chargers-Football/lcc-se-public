@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:38:44+00:00",
+  "generated_at": "2026-11-19T19:04:46+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -9,7 +9,8 @@
       "location": "Springfield, MO",
       "result": {
         "outcome": "COMPLETED"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Aug 28",
@@ -21,7 +22,8 @@
         "visitor_score": 21,
         "home_score": 42,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 4",
@@ -33,7 +35,8 @@
         "visitor_score": 14,
         "home_score": 42,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 11",
@@ -45,7 +48,8 @@
         "visitor_score": 0,
         "home_score": 20,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 18",
@@ -57,7 +61,8 @@
         "visitor_score": 46,
         "home_score": 8,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 3",
@@ -69,7 +74,8 @@
         "visitor_score": 12,
         "home_score": 48,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 10",
@@ -81,7 +87,8 @@
         "visitor_score": 49,
         "home_score": 13,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 17",
@@ -93,7 +100,8 @@
         "visitor_score": 0,
         "home_score": 55,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 23",
@@ -105,7 +113,8 @@
         "visitor_score": 0,
         "home_score": 55,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 31",
@@ -113,7 +122,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": true
     },
     {
       "date": "Nov 7",
@@ -125,7 +135,8 @@
         "visitor_score": 7,
         "home_score": 49,
         "outcome": "L"
-      }
+      },
+      "postseason": true
     },
     {
       "date": "Nov 13",
@@ -133,7 +144,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": true
     },
     {
       "date": "Nov 18",
@@ -145,7 +157,8 @@
         "visitor_score": 3,
         "home_score": 29,
         "outcome": "W"
-      }
+      },
+      "postseason": true
     }
   ],
   "jv": [
@@ -159,7 +172,8 @@
         "visitor_score": 38,
         "home_score": 6,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 8",
@@ -171,7 +185,8 @@
         "visitor_score": 20,
         "home_score": 6,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 14",
@@ -183,7 +198,8 @@
         "visitor_score": 12,
         "home_score": 54,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 21",
@@ -195,7 +211,8 @@
         "visitor_score": 12,
         "home_score": 42,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 29",
@@ -203,7 +220,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": false
     },
     {
       "date": "Oct 10",
@@ -215,7 +233,8 @@
         "visitor_score": 50,
         "home_score": 0,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 17",
@@ -227,7 +246,8 @@
         "visitor_score": 26,
         "home_score": 43,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 19",
@@ -235,7 +255,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": false
     },
     {
       "date": "Oct 24",
@@ -243,7 +264,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": false
     },
     {
       "date": "Oct 31",
@@ -251,7 +273,8 @@
       "site": "",
       "time": "",
       "location": "",
-      "result": null
+      "result": null,
+      "postseason": false
     },
     {
       "date": "Nov 19",
@@ -259,7 +282,8 @@
       "site": "Away",
       "time": "12:00 PM",
       "location": "Panama City Beach, FL",
-      "result": null
+      "result": null,
+      "postseason": false
     }
   ],
   "jh": [
@@ -273,7 +297,8 @@
         "visitor_score": 30,
         "home_score": 20,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 10",
@@ -285,7 +310,8 @@
         "visitor_score": 50,
         "home_score": 20,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 17",
@@ -297,7 +323,8 @@
         "visitor_score": 0,
         "home_score": 30,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Sept 24",
@@ -309,7 +336,8 @@
         "visitor_score": 0,
         "home_score": 42,
         "outcome": "W"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 1",
@@ -318,7 +346,8 @@
       "time": "7:00 PM",
       "location": "Strafford, MO",
       "result": null,
-      "status": "Canceled"
+      "status": "Canceled",
+      "postseason": false
     },
     {
       "date": "Oct 10",
@@ -330,7 +359,8 @@
         "visitor_score": 0,
         "home_score": 47,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 17",
@@ -342,7 +372,8 @@
         "visitor_score": 12,
         "home_score": 41,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     },
     {
       "date": "Oct 23",
@@ -354,7 +385,8 @@
         "visitor_score": 48,
         "home_score": 6,
         "outcome": "L"
-      }
+      },
+      "postseason": false
     }
   ],
   "records": {
