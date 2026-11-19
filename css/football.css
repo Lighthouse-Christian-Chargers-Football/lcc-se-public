@@ -27,6 +27,47 @@
   z-index: 10 !important;
 }
 
+/* Marks where postseason games begin (see schedule_overrides.yaml's
+   postseason_cutoff and schedule_builder.py's `postseason` row flag) -
+   inserted once per team, right before its first postseason row, by
+   buildDivider()/buildTeamRows() in 2026-game-schedules.html.
+   Deliberately compact (small font, tight margin): each background
+   image is sized to exactly today's real row count (see the TUNER
+   OUTPUT REGION comment below), so every bit of extra height this adds
+   is itself at risk of pushing the last row past the image's bottom
+   edge on narrow phones - re-check row counts there if a team's
+   postseason run adds enough games to matter.
+   drawScheduleCanvas() in 2026-game-schedules.html redraws this same
+   line+label for the flattened share/download image (canvas can't see
+   pseudo-elements) - keep that in sync if you change this. */
+.chargers-schedule-divider {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.4em !important;
+  width: 100% !important;
+  margin: 0.15em 0 !important;
+}
+.chargers-schedule-divider::before,
+.chargers-schedule-divider::after {
+  content: "" !important;
+  flex: 1 1 auto !important;
+  height: 1px !important;
+  background-color: var(--lcc-navy, #0b2b4a) !important;
+  opacity: 0.55 !important;
+}
+.chargers-schedule-divider-label {
+  flex: 0 0 auto !important;
+  font-size: 0.82em !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.08em !important;
+  color: var(--lcc-orange, #f36f21) !important;
+  opacity: 0.9 !important;
+  white-space: nowrap !important;
+}
+
 /* Season win-loss record, superimposed over the background photo itself
    (NOT part of the .chargers-overlay schedule grid below it) - centered
    above the team name art, roughly where the players' legs are. Position
