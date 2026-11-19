@@ -185,11 +185,10 @@
    BACKGROUND IMAGES GREW TALLER (requested directly - schedule
    rows were running past the image's own bottom edge once a
    season had enough games): v_bg.jpeg/jv_bg.jpeg/jh_bg.jpeg each
-   went from 921x1152 to a per-team row-capacity target, by tiling a
-   feathered strip of blank texture below the header art - the
-   photo/title/column-label art above that point is pixel-identical
-   to before, not stretched, so this is purely more room for rows,
-   never smaller text. Every top:/bottom: % below is relative to
+   went from 921x1152 to a per-team row-capacity target, by cropping
+   off the header art (photo/title/column-labels - pixel-identical
+   to before, never stretched) and stretching ONLY the blank schedule
+   area below it taller. Every top:/bottom: % below is relative to
    the WHOLE image's height, so each one was rescaled by
    1152/new_height to land on the exact same absolute pixel
    position as before within that untouched top art - a straight
@@ -199,45 +198,40 @@
    output instead, rescale its top/bottom by the same ratio first or
    the schedule grid will start too high again.
 
-   SIZING NOTE: zero row buffer - each image is sized to fit exactly
-   today's real row count, not a projected future count:
-     v_bg.jpeg:  921x1152 -> 921x1312 (+160px, 13 real Varsity rows - the
-                 last +100px added once Nov 7 came back as a real
-                 postseason game, by stretching the existing blank area
-                 taller rather than tiling a seam, so there's no repeat
-                 line in the paper texture)
-     jv_bg.jpeg: 921x1152 -> 921x1287 (+135px, 11 real JV rows)
-     jh_bg.jpeg: 921x1152 -> 921x1212 (+60px,  8 real JH rows, unchanged)
-   (Previously targeted 14/12/8 with headroom for more rows than
-   today's count - that left too much visible blank space in
-   production, per direct feedback, so dropped the headroom
-   entirely. The tradeoff: once a real schedule grows past today's
-   count - e.g. a playoff game added to Varsity - these need
-   re-sizing again, same process as before, or that one new row
-   clips again on narrow phones.) Even with zero row buffer, +60px
-   was still unavoidable on Varsity/JH: the ORIGINAL 1152px image
-   already clipped their current real row counts on narrow phones
-   (not desktop), so that's the floor, not a buffer.
-   Checked for clipping at exactly today's row counts across
-   viewport widths from 300px (narrow phones) up through 1440px
-   desktop - narrow phones are the real worst case here, not
-   desktop, because the image renders at a smaller CSS pixel width
-   there so the same row overflows into more natural image pixels.
-   ~16-18px of margin at the worst width tested (vw=300). If a
-   team's real row count changes again: crop the image at its own
-   top:/bottom: boundary (in pixels, from this file's current
-   numbers x image height) to split off the header art from the
-   blank schedule area, resize ONLY the blank part taller by the
-   extra_px needed, then re-stack them - this is what the last
-   Varsity resize did (no script currently in the repo for it) - and
-   rescale top:/bottom:/record top: here by old_height/new_height,
-   same as always. */
+   SIZING NOTE: each image's height is now COMPUTED from its team's
+   real row count (+ a postseason divider, if that team has one),
+   not hand-tuned and re-measured by eye every time a game is added -
+   that manual process got the margin wrong more than once (including
+   a round that left ~80px of dead space on narrow phones for one
+   team while another was down to ~3px of margin without anyone
+   noticing, since nothing forced the two to be re-derived together).
+   scripts/football/resize_schedule_bg.py (lcc_sportsengine repo) now
+   does this: it reads each team's real row/divider count straight
+   from the published schedules.json, solves for the natural image
+   height that gives ~17px of margin at the documented 300px-wide
+   worst case (narrow phones are the real worst case, not desktop -
+   the image renders at a smaller CSS pixel width there, so the same
+   row content overflows into more natural image pixels), and
+   rewrites the top:/bottom:/record-top: percentages below to match,
+   using the same "crop the header art, stretch only the blank area
+   below it" technique as every prior manual resize (so the header
+   art above that point stays pixel-identical, never stretched).
+   Current heights (re-run the script any time a row count or a
+   postseason cutoff changes - don't hand-edit these):
+     v_bg.jpeg:  921x1284  (13 Varsity rows + divider)
+     jv_bg.jpeg: 921x1328  (11 JV rows + divider)
+     jh_bg.jpeg: 921x1226  (8 JH rows, no divider)
+   If the header art itself ever changes (a new photo, retitled
+   banner, moved column headers), the script's hardcoded top_px/
+   bot_px/record_top_px per team need re-measuring from scratch first
+   (see schedule-css-tuner.html) - those are the one thing the script
+   assumes rather than derives, same as every resize before it. */
    /* Your Exact Varsity Placement Blueprint */
    .chargers-varsity-overlay {
      left: 7.5% !important;
      right: 3.5% !important;
-     top: 57.95% !important; /* 760px / 1312, preserved from 62.73% * 1212 - unchanged header art */
-     bottom: 1.76% !important; /* 23px / 1312, preserved from 1.90% * 1212 */
+     top: 59.23% !important; /* 761px / 1284, via resize_schedule_bg.py */
+     bottom: 1.8% !important; /* 23px / 1284, via resize_schedule_bg.py */
      font-size: clamp(7px, 1.25vw, 18px) !important;
      line-height: 1.6 !important;
    }
@@ -245,8 +239,8 @@
    .chargers-jv-overlay {
      left: 7.5% !important;
      right: -0.5% !important;
-     top: 65.34% !important; /* 73% * (1152/1287) */
-     bottom: 1.79% !important; /* 2% * (1152/1287) */
+     top: 63.32% !important; /* 841px / 1328, via resize_schedule_bg.py */
+     bottom: 1.73% !important; /* 23px / 1328, via resize_schedule_bg.py */
      font-size: clamp(8px, 1.45vw, 18px) !important;
      line-height: 1.5 !important;
    }
@@ -254,8 +248,8 @@
    .chargers-jh-overlay {
      left: 7.5% !important;
      right: -0.5% !important;
-     top: 69.39% !important; /* 73% * (1152/1212) */
-     bottom: 1.90% !important; /* 2% * (1152/1212) */
+     top: 68.6% !important; /* 841px / 1226, via resize_schedule_bg.py */
+     bottom: 1.88% !important; /* 23px / 1226, via resize_schedule_bg.py */
      font-size: clamp(8px, 1.45vw, 18px) !important;
      line-height: 1.7 !important;
    }
@@ -378,13 +372,13 @@
    re-deriving from the original 1152 measurement, same idea as the
    overlay top:/bottom: above.) */
 .chargers-record-varsity {
-  top: calc(41.51% - 1.02em) !important; /* 544.68px / 1312, preserved from 44.93% * 1212 */
+  top: calc(42.42% - 1.02em) !important; /* 545px / 1284, via resize_schedule_bg.py */
 }
 .chargers-record-jv {
-  top: calc(48.40% - 1.02em) !important; /* (0.565 - 0.0243) * (1152/1287) */
+  top: calc(46.91% - 1.02em) !important; /* 623px / 1328, via resize_schedule_bg.py */
 }
 .chargers-record-jh {
-  top: calc(51.11% - 1.02em) !important; /* (0.562 - 0.0243) * (1152/1212) */
+  top: calc(50.53% - 1.02em) !important; /* 619px / 1226, via resize_schedule_bg.py */
 }
 .chargers-record-varsity,
 .chargers-record-jv,
