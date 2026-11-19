@@ -288,7 +288,11 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Panama City, FL",
-      "result": null,
+      "result": {
+        "visitor_score": 3,
+        "home_score": 29,
+        "outcome": "W"
+      },
       "venue": {
         "name": "Tommy Oliver Stadium",
         "address": "Tommy Oliver Stadium, Panama City, FL, 32401, US"

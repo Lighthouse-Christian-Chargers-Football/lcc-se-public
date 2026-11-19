@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:45:03+00:00",
+  "generated_at": "2026-11-19T05:33:30+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -129,7 +129,11 @@
       "site": "Home",
       "time": "6:00 PM",
       "location": "Panama City, FL",
-      "result": null
+      "result": {
+        "visitor_score": 3,
+        "home_score": 29,
+        "outcome": "W"
+      }
     }
   ],
   "jv": [
@@ -343,7 +347,7 @@
   ],
   "records": {
     "varsity": {
-      "wins": 5,
+      "wins": 6,
       "losses": 3,
       "ties": 0
     },
