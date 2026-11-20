@@ -3,6 +3,21 @@
   "slug": "cheer",
   "games": [
     {
+      "id": "146f3004-33aa-4d8b-9731-8514a862f125",
+      "start": "2026-09-04T19:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Sept 4",
+      "opponent": "Parkview Varsity",
+      "site": "Away",
+      "time": "7:00 PM",
+      "location": "Rogersville, MO",
+      "result": null,
+      "venue": {
+        "name": "Logan-Rogersville High School",
+        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
+      }
+    },
+    {
       "id": "b259f4e4-7f73-48f0-94fb-d2de998f1076",
       "start": "2026-09-04T19:00:00-05:00",
       "team": "Varsity",
@@ -18,6 +33,21 @@
       }
     },
     {
+      "id": "8c07dd06-8b4b-4bfa-8aec-222e49709f0f",
+      "start": "2026-09-08T18:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Sept 8",
+      "opponent": "Willow Springs",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "Willow Springs, MO",
+      "result": null,
+      "venue": {
+        "name": "Willow Springs High School",
+        "address": "215 West 4th Street, Willow Springs, MO, 65793, US"
+      }
+    },
+    {
       "id": "f8b6b9e6-6b48-4e4a-a986-5cc15d8c210d",
       "start": "2026-09-11T19:00:00-05:00",
       "team": "Varsity",
@@ -30,6 +60,21 @@
       "venue": {
         "name": "Blair Oaks High School",
         "address": "6121 Falcon Lane, Wardsville, MO, 65101, US"
+      }
+    },
+    {
+      "id": "70f09ca8-b711-429f-8d04-4c7ddeb14ade",
+      "start": "2026-09-14T18:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Sept 14",
+      "opponent": "Crane",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "Springfield, MO",
+      "result": null,
+      "venue": {
+        "name": "Hillcrest High School",
+        "address": "3319 N Grant Ave, Springfield, MO, 65803, US"
       }
     },
     {
@@ -78,6 +123,36 @@
       }
     },
     {
+      "id": "0cca2f50-c07e-4675-9091-f86c8effd80b",
+      "start": "2026-09-21T18:30:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Sept 21",
+      "opponent": "Bulldogs",
+      "site": "Home",
+      "time": "6:30 PM",
+      "location": "Rogersville, MO",
+      "result": null,
+      "venue": {
+        "name": "Fellowship Bible Church",
+        "address": "4855 S Farm Rd 205, Rogersville, MO, 65742, US"
+      }
+    },
+    {
+      "id": "482b98dc-f468-453c-95e4-e68c2281789a",
+      "start": "2026-10-03T15:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Oct 3",
+      "opponent": "St. Marys Varsity",
+      "site": "Home",
+      "time": "3:00 PM",
+      "location": "Rogersville, MO",
+      "result": null,
+      "venue": {
+        "name": "Logan-Rogersville High School",
+        "address": "300 N Missouri Blvd, Rogersville, MO, 65742, US"
+      }
+    },
+    {
       "id": "c7ba6a01-b8f6-47f8-802a-07ee4578141c",
       "start": "2026-10-03T15:00:00-05:00",
       "team": "Varsity",
@@ -108,6 +183,36 @@
       }
     },
     {
+      "id": "4de9f7a6-73b1-48fe-bc4d-dd4f43411bb8",
+      "start": "2026-10-10T18:30:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Oct 10",
+      "opponent": "OKC Patriots Varsity and JV",
+      "site": "Away",
+      "time": "6:30 PM",
+      "location": "Oklahoma City, OK",
+      "result": null,
+      "venue": {
+        "name": "OKC Patriots",
+        "address": "4712 South Santa Fe Avenue, Oklahoma City, OK, 73109, US"
+      }
+    },
+    {
+      "id": "23c64be9-ba08-4412-adf9-73bc4e34a4b5",
+      "start": "2026-10-17T15:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Oct 17",
+      "opponent": "Christ Prep  JV and Varsity",
+      "site": "Away",
+      "time": "3:00 PM",
+      "location": "Olathe, KS",
+      "result": null,
+      "venue": {
+        "name": "Christ Prep Patriots",
+        "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
+      }
+    },
+    {
       "id": "01dbd9a3-c4f3-4d8c-b700-33ac6ef0d9c6",
       "start": "2026-10-17T18:00:00-05:00",
       "team": "Varsity",
@@ -120,6 +225,21 @@
       "venue": {
         "name": "Christ Prep Patriots",
         "address": "2160 East Sheridan Street, Olathe, KS, 66062, US"
+      }
+    },
+    {
+      "id": "608a0414-b791-426b-bbc3-783e1a0acb7b",
+      "start": "2026-10-23T19:00:00-05:00",
+      "team": "Junior Varsity",
+      "date": "Oct 23",
+      "opponent": "Noah Jaguars JV and Varsity",
+      "site": "Home",
+      "time": "7:00 PM",
+      "location": "Ozark, MO",
+      "result": null,
+      "venue": {
+        "name": "Tiger Stadium",
+        "address": "1350 West Bluff Drive, Ozark, MO, 65721, US"
       }
     },
     {
@@ -168,18 +288,33 @@
       }
     },
     {
+      "id": "6189342f-be78-42bf-9b25-3d6a02fccc2a",
+      "start": "2026-11-21T10:00:00-06:00",
+      "team": "Junior Varsity",
+      "date": "Nov 21",
+      "opponent": "Lions",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "Panama City, FL",
+      "result": null,
+      "venue": {
+        "name": "Tommy Oliver Stadium",
+        "address": "Tommy Oliver Stadium, Panama City, FL, 32401, US"
+      }
+    },
+    {
       "id": "d6774ad9-062f-4189-990c-71e938695deb",
-      "start": "2026-11-21",
+      "start": "2026-11-21T16:30:00-06:00",
       "team": "Varsity",
       "date": "Nov 21",
-      "opponent": "TBD",
-      "site": "Home",
-      "time": "TBD",
+      "opponent": "Christ Prep Varsity",
+      "site": "Away",
+      "time": "4:30 PM",
       "location": "Panama City Beach, FL",
       "result": null,
       "venue": {
-        "name": "Panama City Beach",
-        "address": "Panama City Beach, Panama City Beach, FL, US"
+        "name": "Mike Gavlak Stadium",
+        "address": "550 North Alf Coleman Road, Panama City Beach, FL, 32407, US"
       }
     }
   ]
