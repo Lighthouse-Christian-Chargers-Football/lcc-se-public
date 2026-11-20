@@ -335,6 +335,36 @@
         "name": "Publix Sports Park",
         "address": "50 Chip Seal Parkway, Panama City Beach, FL, 32407, US"
       }
+    },
+    {
+      "id": "c45464a7-7bc7-41b6-b4f8-e3aefcfb4a93",
+      "start": "2026-11-21T10:00:00-06:00",
+      "team": "Junior Varsity",
+      "date": "Nov 21",
+      "opponent": "Lions Football Club",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "Panama City, FL",
+      "result": null,
+      "venue": {
+        "name": "Tommy Oliver Stadium",
+        "address": "Tommy Oliver Stadium, Panama City, FL, 32401, US"
+      }
+    },
+    {
+      "id": "ba52372b-9e51-42f3-aa6a-655df68fe627",
+      "start": "2026-11-21T16:30:00-06:00",
+      "team": "Varsity",
+      "date": "Nov 21",
+      "opponent": "Christ Prep",
+      "site": "Away",
+      "time": "4:30 PM",
+      "location": "Panama City Beach, FL",
+      "result": null,
+      "venue": {
+        "name": "Mike Gavlak Stadium",
+        "address": "550 North Alf Coleman Road, Panama City Beach, FL, 32407, US"
+      }
     }
   ]
 }

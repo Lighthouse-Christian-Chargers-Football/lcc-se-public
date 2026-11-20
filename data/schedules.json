@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:38:41+00:00",
+  "generated_at": "2026-11-20T02:53:24+00:00",
   "varsity": [
     {
       "date": "Aug 21",
@@ -159,6 +159,15 @@
         "outcome": "W"
       },
       "postseason": true
+    },
+    {
+      "date": "Nov 21",
+      "opponent": "Christ Prep",
+      "site": "Away",
+      "time": "4:30 PM",
+      "location": "Panama City Beach, FL",
+      "result": null,
+      "postseason": true
     }
   ],
   "jv": [
@@ -287,6 +296,15 @@
         "home_score": 0,
         "outcome": "W"
       },
+      "postseason": true
+    },
+    {
+      "date": "Nov 21",
+      "opponent": "Lions Football Club",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "Panama City, FL",
+      "result": null,
       "postseason": true
     }
   ],
