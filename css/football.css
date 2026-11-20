@@ -232,7 +232,15 @@
      right: 3.5% !important;
      top: 59.23% !important; /* 761px / 1284, via resize_schedule_bg.py */
      bottom: 1.8% !important; /* 23px / 1284, via resize_schedule_bg.py */
-     font-size: clamp(7px, 1.25vw, 18px) !important;
+     /* 2cqw, not the old 1.25vw: reaches the 18px ceiling exactly at
+        900px of container width (18 / 900 * 100 = 2) - i.e. exactly
+        when .chargers-card's own max-width caps it, instead of
+        needing the full BROWSER viewport (not just this card) to
+        reach 1440px. Below 900px the card isn't capped yet, so
+        container width == viewport width and this behaves exactly
+        like the old vw value did (same floor, same curve) - only the
+        desktop case changes. */
+     font-size: clamp(7px, 2cqw, 18px) !important;
      line-height: 1.6 !important;
    }
    /* Your Exact Junior Varsity Placement Blueprint */
@@ -241,7 +249,7 @@
      right: -0.5% !important;
      top: 63.32% !important; /* 841px / 1328, via resize_schedule_bg.py */
      bottom: 1.73% !important; /* 23px / 1328, via resize_schedule_bg.py */
-     font-size: clamp(8px, 1.45vw, 18px) !important;
+     font-size: clamp(8px, 2cqw, 18px) !important;
      line-height: 1.5 !important;
    }
    /* Your Exact Junior High Placement Blueprint */
@@ -250,7 +258,7 @@
      right: -0.5% !important;
      top: 68.6% !important; /* 841px / 1226, via resize_schedule_bg.py */
      bottom: 1.88% !important; /* 23px / 1226, via resize_schedule_bg.py */
-     font-size: clamp(8px, 1.45vw, 18px) !important;
+     font-size: clamp(8px, 2cqw, 18px) !important;
      line-height: 1.7 !important;
    }
    /* Varsity Grid Width Distribution */
@@ -400,6 +408,16 @@
   max-width: 900px !important;
   margin: 0 auto 1rem auto !important;
   box-sizing: border-box !important;
+  /* Lets the row/divider font-size clamps below use cqw (container
+     query width) instead of vw - see the TUNER OUTPUT REGION comment
+     for why: vw tracks the full browser viewport, which keeps growing
+     past this card's own 900px cap, so the font kept climbing toward
+     its ceiling long after the card had already stopped growing,
+     leaving a big "desktop looks too tall" gap on any normal (not
+     ultra-wide) browser window. cqw tracks THIS element's own
+     rendered width, which the max-width above already caps at 900px,
+     so clamp()'s ceiling and the card's own size cap now align. */
+  container-type: inline-size !important;
 }
 .chargers-card img {
   display: block !important;
