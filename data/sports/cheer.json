@@ -303,6 +303,21 @@
       }
     },
     {
+      "id": "902603eb-a502-4c1b-86f9-dd14055c5733",
+      "start": "2026-11-21T16:30:00-06:00",
+      "team": "Junior Varsity",
+      "date": "Nov 21",
+      "opponent": "Christ Prep",
+      "site": "Away",
+      "time": "4:30 PM",
+      "location": "Panama City Beach, FL",
+      "result": null,
+      "venue": {
+        "name": "Mike Gavlak Stadium",
+        "address": "550 North Alf Coleman Road, Panama City Beach, FL, 32407, US"
+      }
+    },
+    {
       "id": "d6774ad9-062f-4189-990c-71e938695deb",
       "start": "2026-11-21T16:30:00-06:00",
       "team": "Varsity",
