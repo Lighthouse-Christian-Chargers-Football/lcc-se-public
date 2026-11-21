@@ -228,21 +228,6 @@
       }
     },
     {
-      "id": "9acff255-2d5a-482d-9814-e6245c538789",
-      "start": "2026-12-14T17:30:00-06:00",
-      "team": "High School BBall",
-      "date": "Dec 14",
-      "opponent": "Clever High School",
-      "site": "Home",
-      "time": "5:30 PM",
-      "location": "Clever, MO",
-      "result": null,
-      "venue": {
-        "name": "",
-        "address": "6800 W Veterans Blvd, Clever, MO, 65631, US"
-      }
-    },
-    {
       "id": "c9c05308-8268-4b2d-8852-1e3616b38cd0",
       "start": "2026-12-14T18:00:00-06:00",
       "team": "Junior High BBall",
