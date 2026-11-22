@@ -211,6 +211,21 @@
   height: 1.9em !important;
   display: block !important;
 }
+/* The real NHFA trophy photo (icon: "nhfa-trophy") - a real, photographed
+   object instead of a flat icon, so it's sized by its own actual
+   proportions (tall and narrow, ~0.43 width/height) rather than forced
+   into the square box the drawn trophy/medal icons use.
+   Compound selector (not a bare ".chargers-nhfa-trophy-icon") - required
+   to beat ".chargers-card img" (width:100%/height:auto, specificity
+   (0,1,1)), which also matches this <img> since it's nested inside
+   .chargers-card too and otherwise wins over a plain single class
+   (0,1,0) - confirmed live: without this, the image rendered at its raw
+   300x700 pixel size instead of being sized by font-size at all. */
+.chargers-card .chargers-nhfa-trophy-icon {
+  height: 2.6em !important;
+  width: auto !important;
+  display: block !important;
+}
 .chargers-schedule-row .chargers-champ-text-wrap {
   display: flex !important;
   flex-direction: column !important;
@@ -296,8 +311,8 @@
    .chargers-varsity-overlay {
      left: 7.5% !important;
      right: 3.5% !important;
-     top: 53.82% !important; /* 761px / 1413, via resize_schedule_bg.py */
-     bottom: 1.63% !important; /* 23px / 1413, via resize_schedule_bg.py */
+     top: 54.48% !important; /* 761px / 1396, via resize_schedule_bg.py */
+     bottom: 1.65% !important; /* 23px / 1396, via resize_schedule_bg.py */
      /* 2cqw, not the old 1.25vw: reaches the 18px ceiling exactly at
         900px of container width (18 / 900 * 100 = 2) - i.e. exactly
         when .chargers-card's own max-width caps it, instead of
@@ -313,8 +328,8 @@
    .chargers-jv-overlay {
      left: 7.5% !important;
      right: -0.5% !important;
-     top: 57.36% !important; /* 841px / 1466, via resize_schedule_bg.py */
-     bottom: 1.57% !important; /* 23px / 1466, via resize_schedule_bg.py */
+     top: 57.68% !important; /* 841px / 1458, via resize_schedule_bg.py */
+     bottom: 1.58% !important; /* 23px / 1458, via resize_schedule_bg.py */
      font-size: clamp(8px, 2cqw, 18px) !important;
      line-height: 1.5 !important;
    }
@@ -446,10 +461,10 @@
    re-deriving from the original 1152 measurement, same idea as the
    overlay top:/bottom: above.) */
 .chargers-record-varsity {
-  top: calc(38.55% - 1.02em) !important; /* 545px / 1413, via resize_schedule_bg.py */
+  top: calc(39.02% - 1.02em) !important; /* 545px / 1396, via resize_schedule_bg.py */
 }
 .chargers-record-jv {
-  top: calc(42.49% - 1.02em) !important; /* 623px / 1466, via resize_schedule_bg.py */
+  top: calc(42.72% - 1.02em) !important; /* 623px / 1458, via resize_schedule_bg.py */
 }
 .chargers-record-jh {
   top: calc(50.53% - 1.02em) !important; /* 619px / 1226, via resize_schedule_bg.py */
