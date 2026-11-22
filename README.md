@@ -11,8 +11,14 @@ css/    Stylesheets pasted (via <link>) into SportsEngine's page "Custom HEAD" f
 data/   schedules.json + {team}_roster.json - published automatically by
         lcc_sportsengine's GitHub Actions workflow, not hand-edited here
 img/    Schedule background graphics (v_bg.jpeg / jv_bg.jpeg / jh_bg.jpeg)
+js/     Rendering logic loaded (via <script src>) by the pasted schedule
+        page - moved here from an inline <script> because SportsEngine's
+        page editor started silently rejecting the save once that inline
+        block got big enough (see lcc_sportsengine's README for the story)
 ```
 
 This repo is the "deploy target" for the automated schedule/roster
-pipeline and for manual image updates - the actual page HTML/JS lives in
-`lcc_sportsengine`, which is where day-to-day content changes happen.
+pipeline, for manual image updates, and for the schedule page's own
+JavaScript (`js/schedule.js`) - the page HTML itself (plus any logic small
+enough to stay inline) lives in `lcc_sportsengine`, which is where
+day-to-day content changes happen.
