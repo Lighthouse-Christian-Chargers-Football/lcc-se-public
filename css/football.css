@@ -169,6 +169,72 @@
   white-space: nowrap !important;
 }
 
+/* Milestone callout row (schedule_overrides.yaml's `milestones` section,
+   applied by schedule_builder.py and rendered by buildRow() in
+   2026-game-schedules.html) - a trophy/medal icon floating beside the
+   opponent's name, wrapping to multiple lines if needed, with a small
+   caption underneath. Every rule below targeting a <span> nested inside
+   .chargers-schedule-row is written as a COMPOUND selector
+   (".chargers-schedule-row .my-class") and kept !important - a bare
+   single class loses to the base ".chargers-schedule-row span" rule
+   just above (specificity (0,1,1)) even with !important on both sides,
+   since a plain class alone is only (0,1,0). Learned the hard way three
+   times already on this page (the postseason divider, the result
+   cells, the record ornament) - don't repeat it here. */
+.chargers-schedule-row.chargers-champ-row {
+  padding-top: 0.2em !important;
+  padding-bottom: 0.2em !important;
+}
+.chargers-schedule-row .chargers-champ-opp {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.35em !important;
+  white-space: normal !important;
+}
+.chargers-schedule-row .chargers-champ-icon-wrap {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  align-items: center !important;
+}
+/* Sizing only - the icon's actual color is baked directly into the
+   SVG's own path/circle fill attributes (TROPHY_SVG/MEDAL_SVG in
+   2026-game-schedules.html), not set here, because the flattened
+   share-image path rasterizes that same SVG markup as a standalone
+   image (via drawChampOpp()'s data: URI Image), which never picks up
+   this page's stylesheet. Baking the fill into the markup itself keeps
+   the live page and the exported image identical by construction
+   instead of needing two colors kept in sync by hand. */
+.chargers-trophy-icon {
+  width: 1.9em !important;
+  height: 1.9em !important;
+  display: block !important;
+}
+.chargers-schedule-row .chargers-champ-text-wrap {
+  display: flex !important;
+  flex-direction: column !important;
+  white-space: normal !important;
+  text-align: left !important;
+  line-height: 1.15 !important;
+  font-weight: bold !important;
+}
+.chargers-schedule-row .chargers-champ-text-gold {
+  color: #c9972c !important;
+}
+.chargers-schedule-row .chargers-champ-text-silver {
+  color: #8a94a6 !important;
+}
+.chargers-schedule-row .chargers-champ-caption {
+  display: block !important;
+  white-space: normal !important;
+  font-size: 0.68em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  margin-top: 0.1em !important;
+  font-weight: bold !important;
+}
+
 /* ============================================================
    TUNER OUTPUT REGION - START
    Everything between here and TUNER OUTPUT REGION - END is
@@ -230,8 +296,8 @@
    .chargers-varsity-overlay {
      left: 7.5% !important;
      right: 3.5% !important;
-     top: 59.23% !important; /* 761px / 1284, via resize_schedule_bg.py */
-     bottom: 1.8% !important; /* 23px / 1284, via resize_schedule_bg.py */
+     top: 53.82% !important; /* 761px / 1413, via resize_schedule_bg.py */
+     bottom: 1.63% !important; /* 23px / 1413, via resize_schedule_bg.py */
      /* 2cqw, not the old 1.25vw: reaches the 18px ceiling exactly at
         900px of container width (18 / 900 * 100 = 2) - i.e. exactly
         when .chargers-card's own max-width caps it, instead of
@@ -247,8 +313,8 @@
    .chargers-jv-overlay {
      left: 7.5% !important;
      right: -0.5% !important;
-     top: 63.32% !important; /* 841px / 1328, via resize_schedule_bg.py */
-     bottom: 1.73% !important; /* 23px / 1328, via resize_schedule_bg.py */
+     top: 57.36% !important; /* 841px / 1466, via resize_schedule_bg.py */
+     bottom: 1.57% !important; /* 23px / 1466, via resize_schedule_bg.py */
      font-size: clamp(8px, 2cqw, 18px) !important;
      line-height: 1.5 !important;
    }
@@ -380,10 +446,10 @@
    re-deriving from the original 1152 measurement, same idea as the
    overlay top:/bottom: above.) */
 .chargers-record-varsity {
-  top: calc(42.42% - 1.02em) !important; /* 545px / 1284, via resize_schedule_bg.py */
+  top: calc(38.55% - 1.02em) !important; /* 545px / 1413, via resize_schedule_bg.py */
 }
 .chargers-record-jv {
-  top: calc(46.91% - 1.02em) !important; /* 623px / 1328, via resize_schedule_bg.py */
+  top: calc(42.49% - 1.02em) !important; /* 623px / 1466, via resize_schedule_bg.py */
 }
 .chargers-record-jh {
   top: calc(50.53% - 1.02em) !important; /* 619px / 1226, via resize_schedule_bg.py */
