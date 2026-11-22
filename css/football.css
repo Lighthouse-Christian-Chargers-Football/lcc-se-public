@@ -234,6 +234,23 @@
   line-height: 1.15 !important;
   font-weight: bold !important;
 }
+/* A caption-only callout (no icon - schedule_overrides.yaml's icon field
+   is optional) centers its text instead of left-aligning it. Left-align
+   makes sense when text floats beside an icon (the approved trophy/medal
+   design - the icon itself already sits clear of the column edge, with
+   the text starting right after it); without an icon, the text-wrap box
+   fills the whole opponent column on its own, so left-aligned text
+   starts flush at the column's own edge with zero gap from the date
+   column next to it - confirmed live: a long opponent name
+   ("Central Maryland Christian Crusaders") visibly touched the date
+   text at narrow widths. Centering pulls it back in, same as every
+   plain (non-milestone) row's own centered opponent text already does.
+   drawChampOpp() in 2026-game-schedules.html mirrors this with its own
+   centered draw path when a row has no icon - keep both in sync if this
+   changes. */
+.chargers-schedule-row .chargers-champ-text-wrap.chargers-champ-text-centered {
+  text-align: center !important;
+}
 .chargers-schedule-row .chargers-champ-text-gold {
   color: #c9972c !important;
 }
