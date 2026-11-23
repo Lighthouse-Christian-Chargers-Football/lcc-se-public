@@ -406,6 +406,105 @@
         "name": "The Fieldhouse Sportscenter",
         "address": "2235 W. Kingsley St., Springfield, MO, 65807, US"
       }
+    },
+    {
+      "id": "97c03f63-9404-44cf-a007-1917b0a6db51",
+      "start": "2026-12-15",
+      "team": "for Bball",
+      "date": "Dec 15",
+      "opponent": "Lockwood - VG",
+      "site": "Home",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "6641cbda-0f99-4603-8536-091c7b5cc16a",
+      "start": "2026-12-17",
+      "team": "for Bball",
+      "date": "Dec 17",
+      "opponent": "Seneca ",
+      "site": "Home",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "2726dfcc-5c5e-4b79-b535-e7ac3a400f88",
+      "start": "2026-12-28",
+      "team": "for Bball",
+      "date": "Dec 28",
+      "opponent": "Pink & White Tournament",
+      "site": "Away",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "3dd23003-4c14-4976-b9bb-18f6ea9eeb96",
+      "start": "2026-12-29",
+      "team": "for Bball",
+      "date": "Dec 29",
+      "opponent": "Pink & White Tournament",
+      "site": "Away",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "fcb93429-7a77-4933-ac92-6537abe73b62",
+      "start": "2026-12-30",
+      "team": "for Bball",
+      "date": "Dec 30",
+      "opponent": "Pink & White Tournament",
+      "site": "Away",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "1883a889-f383-4c49-a27b-1ca97286caf4",
+      "start": "2026-12-31",
+      "team": "for Bball",
+      "date": "Dec 31",
+      "opponent": "Pink & White Tournament",
+      "site": "Away",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "584cb323-43d3-4197-88ea-65395dc836bf",
+      "start": "2027-01-05",
+      "team": "for Bball",
+      "date": "Jan 5",
+      "opponent": "New Heights",
+      "site": "Home",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "1f1fe285-9f4f-4e40-8009-a1786778a7e3",
+      "start": "2027-01-07",
+      "team": "for Bball",
+      "date": "Jan 7",
+      "opponent": "Clever - VG",
+      "site": "Home",
+      "time": "TBD",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "413a0067-bbab-4cf0-9d1e-128d62a97a63",
+      "start": "2027-01-08",
+      "team": "for Bball",
+      "date": "Jan 8",
+      "opponent": "Miller - VG",
+      "site": "Home",
+      "time": "TBD",
+      "location": "",
+      "result": null
     }
   ]
 }
