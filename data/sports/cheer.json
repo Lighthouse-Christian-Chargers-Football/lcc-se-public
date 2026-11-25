@@ -364,12 +364,12 @@
     },
     {
       "id": "1a4e894f-f53f-4bb5-9f66-a653378d0401",
-      "start": "2026-12-05",
+      "start": "2026-12-05T18:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 5",
       "opponent": "Morrisville Tournament - VG",
       "site": "Away",
-      "time": "TBD",
+      "time": "6:00 PM",
       "location": "Morrisville, MO",
       "result": null,
       "venue": {
@@ -379,12 +379,12 @@
     },
     {
       "id": "e8f218d1-2a1d-4fc1-a5f0-e9d2a5caf477",
-      "start": "2026-12-11",
+      "start": "2026-12-11T12:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 11",
       "opponent": "Winter Slam Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "12:00 PM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -394,12 +394,12 @@
     },
     {
       "id": "c5e8c2d9-a626-4383-8407-2c27d77efb7a",
-      "start": "2026-12-12",
+      "start": "2026-12-12T10:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 12",
       "opponent": "Winter Slam Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "10:00 AM",
       "location": "Springfield, MO",
       "result": null,
       "venue": {
@@ -409,100 +409,500 @@
     },
     {
       "id": "97c03f63-9404-44cf-a007-1917b0a6db51",
-      "start": "2026-12-15",
+      "start": "2026-12-15T18:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 15",
       "opponent": "Lockwood - VG",
       "site": "Home",
-      "time": "TBD",
+      "time": "6:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "6641cbda-0f99-4603-8536-091c7b5cc16a",
-      "start": "2026-12-17",
+      "start": "2026-12-17T18:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 17",
       "opponent": "Seneca ",
       "site": "Home",
-      "time": "TBD",
+      "time": "6:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "2726dfcc-5c5e-4b79-b535-e7ac3a400f88",
-      "start": "2026-12-28",
+      "start": "2026-12-28T16:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 28",
       "opponent": "Pink & White Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "4:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "3dd23003-4c14-4976-b9bb-18f6ea9eeb96",
-      "start": "2026-12-29",
+      "start": "2026-12-29T16:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 29",
       "opponent": "Pink & White Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "4:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "fcb93429-7a77-4933-ac92-6537abe73b62",
-      "start": "2026-12-30",
+      "start": "2026-12-30T16:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 30",
       "opponent": "Pink & White Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "4:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "1883a889-f383-4c49-a27b-1ca97286caf4",
-      "start": "2026-12-31",
+      "start": "2026-12-31T16:00:00-06:00",
       "team": "for Bball",
       "date": "Dec 31",
       "opponent": "Pink & White Tournament",
       "site": "Away",
-      "time": "TBD",
+      "time": "4:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "584cb323-43d3-4197-88ea-65395dc836bf",
-      "start": "2027-01-05",
+      "start": "2027-01-05T18:00:00-06:00",
       "team": "for Bball",
       "date": "Jan 5",
       "opponent": "New Heights",
       "site": "Home",
-      "time": "TBD",
+      "time": "6:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "1f1fe285-9f4f-4e40-8009-a1786778a7e3",
-      "start": "2027-01-07",
+      "start": "2027-01-07T18:00:00-06:00",
       "team": "for Bball",
       "date": "Jan 7",
       "opponent": "Clever - VG",
       "site": "Home",
-      "time": "TBD",
+      "time": "6:00 PM",
       "location": "",
       "result": null
     },
     {
       "id": "413a0067-bbab-4cf0-9d1e-128d62a97a63",
-      "start": "2027-01-08",
+      "start": "2027-01-08T18:00:00-06:00",
       "team": "for Bball",
       "date": "Jan 8",
       "opponent": "Miller - VG",
       "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "52db3b8b-17ce-4449-ac45-b57197733021",
+      "start": "2027-01-11T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 11",
+      "opponent": "Seymour Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "f469f164-8a64-4493-beb8-42c9289dc98b",
+      "start": "2027-01-12T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 12",
+      "opponent": "Seymour Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "d461dea2-528d-4d9d-9382-fd9e39be612a",
+      "start": "2027-01-13T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 13",
+      "opponent": "Seymour Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "212c52cc-a6d3-4d68-90c5-82eb88f273c3",
+      "start": "2027-01-14T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 14",
+      "opponent": "Seymour Tournament",
+      "site": "Home",
+      "time": "5:00 PM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "e0b51968-902b-44d1-b12d-890dd4b4e196",
+      "start": "2027-01-15T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 15",
+      "opponent": "Seymour Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "e2b4cf40-9e52-49fe-b7a3-fdf1371ecd82",
+      "start": "2027-01-16T10:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 16",
+      "opponent": "Seymour Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "Seymour, MO",
+      "result": null,
+      "venue": {
+        "name": "Seymour High School",
+        "address": "625 East Clinton Avenue, Seymour, MO, 65746, US"
+      }
+    },
+    {
+      "id": "7cabeb4e-de1a-44b1-846b-9c5478753a81",
+      "start": "2027-01-19T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 19",
+      "opponent": "Hartville - VB",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "d0f162f6-5749-4592-93a2-93205aefbe49",
+      "start": "2027-01-22T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 22",
+      "opponent": "Walnut Grove - VB",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "66a6c011-0986-4dfa-bdb5-898ea32f839b",
+      "start": "2027-01-28T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 28",
+      "opponent": "Monett - VG",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "220a3b73-aef2-4bba-bc43-95cd863d0774",
+      "start": "2027-01-29T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Jan 29",
+      "opponent": "Crane - VB",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "9232f418-d5eb-4892-93ef-3a4475dcf3bd",
+      "start": "2027-02-01T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 1",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "fd8711a8-7b2a-4f99-824c-40f839a00a1e",
+      "start": "2027-02-01T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 1",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "3c6881d4-1ad0-4707-8688-985324ab5d1b",
+      "start": "2027-02-02T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 2",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "05c9109a-a48b-4217-96e6-38d1eb2fb8ff",
+      "start": "2027-02-02T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 2",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "8c2085a3-5a89-4abe-871a-519e445f9616",
+      "start": "2027-02-03T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 3",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "21016c0f-9fd5-4bb1-8777-b30189f93179",
+      "start": "2027-02-03T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 3",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "2699ae39-13c3-458d-8525-15d27b5d3f05",
+      "start": "2027-02-04T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 4",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "6b8d13b6-6561-4d61-be5c-c5865fb40b85",
+      "start": "2027-02-04T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 4",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "fdcd6ad8-a173-4206-9cea-d2286001acda",
+      "start": "2027-02-05T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 5",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "d501e98e-4bb9-4290-8b1a-f862772dcf8f",
+      "start": "2027-02-05T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 5",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "0401aa78-c632-4def-8754-74ac20a3d1be",
+      "start": "2027-02-06",
+      "team": "for Bball",
+      "date": "Feb 6",
+      "opponent": "Mercy Warrior Tournament",
+      "site": "Away",
       "time": "TBD",
+      "location": "Joplin, MO",
+      "result": null,
+      "venue": {
+        "name": "McAuley Catholic High School",
+        "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
+      }
+    },
+    {
+      "id": "895f67d6-e06f-4ad6-9344-e301218fe8af",
+      "start": "2027-02-06T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 6",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "dbb23076-1ce7-4976-ac10-06354e37a15d",
+      "start": "2027-02-09T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 9",
+      "opponent": "Halfway High School ",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "cc4c65fd-7d0b-43f0-9724-106dac9ec212",
+      "start": "2027-02-12T12:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 12",
+      "opponent": "State Tournament in Columbia",
+      "site": "Away",
+      "time": "12:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "c1d308df-da30-4871-8351-79badc60fdfa",
+      "start": "2027-02-13T10:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 13",
+      "opponent": "State Tournament in Columbia",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "98e1c5ac-9c53-4971-abc5-78c392acb559",
+      "start": "2027-02-23T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 23",
+      "opponent": "Reeds Spring - VB",
+      "site": "Home",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "44744adb-4f92-4de1-b4d2-e5b9b6d55e23",
+      "start": "2027-02-25T18:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 25",
+      "opponent": "Cassville - VB",
+      "site": "Away",
+      "time": "6:00 PM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "913e7b19-bb6e-4174-9ae5-cce62d65208b",
+      "start": "2027-03-15T10:00:00-05:00",
+      "team": "for Bball",
+      "date": "Mar 15",
+      "opponent": "National Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "3d1cb3f3-4bec-4087-a8aa-0a3547266b1e",
+      "start": "2027-03-16T10:00:00-05:00",
+      "team": "for Bball",
+      "date": "Mar 16",
+      "opponent": "National Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "392303cc-f19e-4696-9dfa-e885d45b8cc6",
+      "start": "2027-03-17T10:00:00-05:00",
+      "team": "for Bball",
+      "date": "Mar 17",
+      "opponent": "National Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "5cc040de-4de5-4f61-bf5e-141527a992da",
+      "start": "2027-03-18T10:00:00-05:00",
+      "team": "for Bball",
+      "date": "Mar 18",
+      "opponent": "National Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
+      "location": "",
+      "result": null
+    },
+    {
+      "id": "1ed96d9f-b473-40bc-9c9d-4c5b5977ec82",
+      "start": "2027-03-19T10:00:00-05:00",
+      "team": "for Bball",
+      "date": "Mar 19",
+      "opponent": "National Tournament",
+      "site": "Away",
+      "time": "10:00 AM",
       "location": "",
       "result": null
     }
