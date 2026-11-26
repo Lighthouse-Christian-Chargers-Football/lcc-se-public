@@ -667,17 +667,6 @@
       "result": null
     },
     {
-      "id": "05c9109a-a48b-4217-96e6-38d1eb2fb8ff",
-      "start": "2027-02-02T17:00:00-06:00",
-      "team": "for Bball",
-      "date": "Feb 2",
-      "opponent": "New Height Tournament",
-      "site": "Away",
-      "time": "5:00 PM",
-      "location": "",
-      "result": null
-    },
-    {
       "id": "3c6881d4-1ad0-4707-8688-985324ab5d1b",
       "start": "2027-02-02T17:00:00-06:00",
       "team": "for Bball",
@@ -691,6 +680,17 @@
         "name": "McAuley Catholic High School",
         "address": "930 South Pearl Avenue, Joplin, MO, 64801, US"
       }
+    },
+    {
+      "id": "05c9109a-a48b-4217-96e6-38d1eb2fb8ff",
+      "start": "2027-02-02T17:00:00-06:00",
+      "team": "for Bball",
+      "date": "Feb 2",
+      "opponent": "New Height Tournament",
+      "site": "Away",
+      "time": "5:00 PM",
+      "location": "",
+      "result": null
     },
     {
       "id": "8c2085a3-5a89-4abe-871a-519e445f9616",
