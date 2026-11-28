@@ -19,36 +19,33 @@
     },
     {
       "id": "45413430-c13c-43cf-a628-c517f1d28091",
-      "start": "2026-11-30T08:00:00-06:00",
+      "start": "2026-11-30T19:15:00-06:00",
       "team": "High School BBall",
       "date": "Nov 30",
-      "opponent": "Morrisville High School",
+      "opponent": "ash grove high school",
       "site": "Away",
-      "time": "8:00 AM",
-      "location": "",
-      "result": null
+      "time": "7:15 PM",
+      "location": "Morrisville, MO",
+      "result": null,
+      "venue": {
+        "name": "Marion C. Early High School",
+        "address": "5305 South Main Avenue, Morrisville, MO, 65710, US"
+      }
     },
     {
-      "id": "dec7aeee-af1b-4808-ae5e-b8b5a707c15e",
-      "start": "2026-12-01T08:00:00-06:00",
-      "team": "High School BBall",
+      "id": "e82e15e8-2991-41ba-8898-b99e477d0cf4",
+      "start": "2026-12-01T17:00:00-06:00",
+      "team": "JH/6th 12U BBall",
       "date": "Dec 1",
-      "opponent": "Morrisville High School",
+      "opponent": "TBD",
       "site": "Away",
-      "time": "8:00 AM",
-      "location": "",
-      "result": null
-    },
-    {
-      "id": "e04afa68-e078-4ce6-9b7f-13fe07a3e78c",
-      "start": "2026-12-02T08:00:00-06:00",
-      "team": "High School BBall",
-      "date": "Dec 2",
-      "opponent": "Morrisville High School",
-      "site": "Away",
-      "time": "8:00 AM",
-      "location": "",
-      "result": null
+      "time": "5:00 PM",
+      "location": "Forsyth, MO",
+      "result": null,
+      "venue": {
+        "name": "Forsyth High School",
+        "address": "178 Panther Street, Forsyth, MO, 65653, US"
+      }
     },
     {
       "id": "c0afb524-40ab-4e53-8a4c-f2f22a0adb15",
